@@ -1,0 +1,1011 @@
+﻿__admin_assignee_id__,__category__,__company_id__,__created_at__,__id__,__is_shared__,__open__,__snoozed_until__,__team_assignee_id__,__ticket_id__,__type__,__updated_at__,__ticket_attributes__default_description___,__ticket_attributes__default_title___,__ticket_state_category__,__ticket_state_external_label__,__ticket_state_id__,__ticket_state_internal_label__,__ticket_state_type__
+50030326,Customer,66f273e799eb08d8a429ab5b,1743672429,207403600599026,True,False,NULL,50036651,8582,ticket,1743840013,NULL,Assessment cannot complete (missing start time after being saved for later),resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f26dd2f286f0258957c291,1743599940,207403600597697,True,False,NULL,50036651,8522,ticket,1743836481,"Error made by person setting up schedule 
+ (has been set to schedule once every 24 days)",Wellbeing check not scheduling,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f26dd2f286f0258957c295,1743691117,207403600599818,True,False,NULL,50036651,8629,ticket,1743840013,NULL,Warning showing on interaction,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50030326,Customer,66f268dd87696e0511370827,1743591272,207403600597279,True,False,NULL,50036651,8499,ticket,1743840011,NULL,No camera on app,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f27ab51971ebd4429f7adb,1743520731,207403600595706,True,False,NULL,50036651,8436,ticket,1743840012,NULL,Cannot save edit to completed interaction,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2745961a1c013c736a263,1743517677,207403600595515,True,False,NULL,50036651,8427,ticket,1743840011,NULL,Pending Data,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,6763d93a6eece823f908a0d2,1743671121,207403600598953,True,False,NULL,50036651,8577,ticket,1743840013,NULL,"Blank template, care plans importing loop",resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2670b1971eb1872df0262,1743687414,207403600599664,True,False,NULL,50036651,8621,ticket,1743840013,NULL,Device speech to text not working,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50030326,Customer,66f2745b61a1c013c736a27a,1743760665,207403600600865,True,False,NULL,50036651,8681,ticket,1743840014,NULL,Blank page login,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,67d81b1744a37f975c03813b,1743688563,207403600599710,True,False,NULL,50036651,8627,ticket,1743840013,NULL,Created service users in wrong location,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f25ea187696efc693799f1,1743597017,207403600597593,True,False,NULL,50036651,8516,ticket,1743840011,NULL,Adding ReSPECT badge,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,672dd2e7071def26b8a2ef1d,1743777937,207403600601545,True,True,1744012800,50036651,8727,ticket,1743926186,NULL,Changing time of assessment of a wound,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,672dd2e7071def26b8a2ef24,1743692001,207403600599845,True,False,NULL,50036651,8634,ticket,1743840013,NULL,How to send messages in Nourish,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,66f2605b723721805b36f91d,1743810030,207403600601971,True,False,NULL,50032161,8743,ticket,1743886007,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f2555541abcb5b944a04cd,1743844251,207403600602186,True,True,NULL,50032161,8753,ticket,1743860232,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2651599eb08be427bec63,1743601125,207403600597748,True,False,NULL,50036651,8525,ticket,1743840014,NULL,Remove 2 questions from medical conditions assessment,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2746261a1c013c736a2b8,1743583034,207403600596718,True,False,NULL,50036651,8483,ticket,1743840013,NULL,Archieve 76 Coolinge,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,66f26dd2f286f0258957c291,1743856809,207403600602398,True,True,NULL,50032161,8757,ticket,1743862940,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023797,Customer,NULL,1743747258,207403600600389,True,False,NULL,50032161,8666,ticket,1743926821,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50038045,Customer,66f25a359fa29f83d301de91,1747263377,207403600836264,True,True,1747468800,50032161,11434,ticket,1747401868,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f253b2fd9d55e6835d2f90,1747235285,207403600835202,True,False,NULL,50036651,11417,ticket,1747297041,NULL,Slow reports,resolved,Closed,4,Resolved,ticket_state
+50023794,Customer,NULL,1747325491,207403600839693,True,False,NULL,50032161,11528,ticket,1747406343,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032759,Customer,66f2555d9fa29f81c601fd35,1747075112,207403600821162,True,True,NULL,50032161,11255,ticket,1747310386,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f285a28e186408d7786bf2,1747296959,207403600837092,True,True,1747468800,50036651,11446,ticket,1747421861,NULL,Cannot see PWS on app,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50023507,Customer,NULL,1747208914,207403600831793,True,True,NULL,50027232,11358,ticket,1747304702,Appointment Errors,Appointment Errors,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f253b2fd9d55e6835d2f91,1747218324,207403600833440,True,False,NULL,50036651,11372,ticket,1747297040,NULL,Slow reports,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f26dcbf286f0258957c26a,1747215523,207403600832965,True,True,1747468800,50036651,11364,ticket,1747421221,NULL,Cannot update resident profile,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,672dd2e9071def26b8a2ef41,1747301396,207403600837622,True,True,1747468800,50036651,11462,ticket,1747422026,NULL,How do I implement a diabetes care plan?,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,66f257f872372186d735ed31,1747215205,207403600832907,True,True,NULL,50032163,11361,ticket,1747304106,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f27179723721837d374b80,1747149525,207403600829522,True,True,1747468800,50036651,11328,ticket,1747413970,NULL,Colleague cannot see dashboards,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,NULL,1747036503,207403600803073,True,True,NULL,50032163,11184,ticket,1747309204,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1746780993,207403600796444,True,True,NULL,50027232,11061,ticket,1747319122,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,67644ca08039eb758f2da233,1747314372,207403600838954,True,False,NULL,50032163,11503,ticket,1747405096,NULL,Timeline did not un-suspend after re-admission,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1745932399,207403600730140,True,False,NULL,50027232,10329,ticket,1747317495,PASS Not Returned Times,PASS Not Returned Times,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,67321e20baf87953047042cd,1747228105,207403600834536,True,False,NULL,50036651,11395,ticket,1747325976,NULL,Add interactions to show next week (adhoc),resolved,Closed,4,Resolved,ticket_state
+50038045,Customer,66f2638ffd9d55e7185d9a51,1746810620,207403600798561,True,False,NULL,50032161,11123,ticket,1747398665,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50040836,Customer,NULL,1747045217,207403600808809,True,True,1749974400,50040837,11199,ticket,1747312967,NULL,10x device return,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,6763f6fc56d6e569bada85eb,1747059204,207403600818449,True,False,NULL,50036651,11236,ticket,1747382469,NULL,Open document on app from care plan,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1747311477,207403600838678,True,True,NULL,50027232,11507,ticket,1747385380,NULL,OTP logins are showing a few minutes incorrect from actual,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f27179723721837d374b80,1747320418,207403600839391,True,False,NULL,50036651,11518,ticket,1747403422,NULL,Service management documents,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1747299029,207403600837307,True,True,NULL,50006617,11475,ticket,1747393789,NULL,error when applying time off,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1747303701,207403600837953,True,True,NULL,50027232,11479,ticket,1747391486,mileage calculation,mileage calculation,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f25bd78e18645942e023c3,1746790816,207403600797305,True,False,NULL,50036651,11090,ticket,1747382453,NULL,Family portal work around to allow single email for two residents,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50023796,Customer,NULL,1747047254,207403600811723,True,True,NULL,50027232,11205,ticket,1747418088,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1746607148,207403600787277,True,False,NULL,50027232,10872,ticket,1747290217,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1747216865,207403600833206,True,False,NULL,50027232,11369,ticket,1747321087,NULL,Client appointment missing,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747299971,207403600837434,True,True,NULL,50032283,11455,ticket,1747416342,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f285a68e18641b3b78671c,1747305677,207403600838146,True,True,NULL,50032163,11498,ticket,1747413235,NULL,report duplicating pages,in_progress,In progress,2,In progress,ticket_state
+50023835,Customer,NULL,1747208366,207403600831730,True,True,NULL,50032163,11359,ticket,1747388312,information not matching interaction,Critical info resident board,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,66f26dd5f286f0258957c2af,1747229396,207403600834647,True,False,NULL,50036651,11400,ticket,1747296802,NULL,Adding circle of care to emergency pack,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f253b2fd9d55e6835d2f90,1747235344,207403600835208,True,True,1747641600,50036651,11418,ticket,1747421835,NULL,Slow reports,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747308158,207403600838381,True,True,NULL,50027232,11509,ticket,1747321797,NULL,Do not invoice on appointment,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f25518f665d678bf0ef2ac,1747322055,207403600839502,True,True,1747468800,50036651,11524,ticket,1747422691,NULL,Larger report request,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1747301362,207403600837617,True,False,NULL,50027232,11464,ticket,1747405369,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1747299333,207403600837352,True,True,NULL,50027232,11471,ticket,1747385748,NULL,Resident not syncing with Med E Care,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,66f25306fd9d55e2235d64d4,1747169453,207403600830630,True,True,NULL,50032163,11349,ticket,1747298706,NULL,Med E care integration,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1747231992,207403600834932,True,False,NULL,50032163,11408,ticket,1747316597,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50033598,Customer,NULL,1747224961,207403600834202,True,False,NULL,50036651,11389,ticket,1747325968,NULL,Remove superusers,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747297117,207403600837112,True,True,NULL,50027232,11460,ticket,1747313019,Finance - Bank Holidays,Finance - Bank Holidays,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,66f263ec41abcb51154b24d9,1747263303,207403600836262,True,True,NULL,50032161,11433,ticket,1747394388,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f25c3c7237217fa536e17c,1747300414,207403600837490,True,True,1747468800,50036651,11458,ticket,1747421992,NULL,How to change password,resolved,Closed,4,Resolved,ticket_state
+50032795,Customer,66f25b2e082ad5e233985ce8,1747376844,207403600840828,True,True,NULL,50032161,11543,ticket,1747382958,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1747215564,207403600832974,True,True,NULL,0,11365,ticket,1747293380,NULL,Nourish device not working,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1747229598,207403600834673,True,True,NULL,50027232,11411,ticket,1747316028,NULL,Invoice not generating,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,NULL,1747319870,207403600839345,True,False,NULL,50036651,11517,ticket,1747384225,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,NULL,1747321327,207403600839452,True,False,NULL,50036651,11521,ticket,1747384265,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,672dd2e7071def26b8a2ef1c,1747335960,207403600840102,True,True,NULL,50032161,11535,ticket,1747422408,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,67b0a10f40ae1f896ef9c9fe,1747340852,207403600840308,True,True,NULL,50032161,11536,ticket,1747427268,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,NULL,1747326913,207403600839743,True,True,NULL,50032161,11532,ticket,1747413348,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,NULL,1747322459,207403600839526,True,True,NULL,50036651,11525,ticket,1747408908,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,66f25a359fa29f83d301de91,1747371215,207403600840680,True,True,NULL,50032161,11541,ticket,1747373867,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,66f25a359fa29f83d301de91,1747361905,207403600840631,True,False,NULL,50032161,11540,ticket,1747363829,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030542,Customer,NULL,1747318229,207403600839241,True,True,NULL,50036651,11512,ticket,1747404648,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,66f253ce8e186456c3e034f0,1747326511,207403600839734,True,True,NULL,50032161,11531,ticket,1747412927,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,NULL,1747333941,207403600840019,True,True,NULL,50032161,11533,ticket,1747420367,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,673c9dccefe12ed22e79d34e,1747303404,207403600837889,True,False,NULL,50032168,11488,ticket,1747308168,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50023794,Customer,66f25d3587696e048a36be7d,1747326102,207403600839722,True,True,NULL,50032161,11530,ticket,1747412508,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,66f254108a601c2a702b9e38,1747319473,207403600839319,True,True,1747468800,50036651,11516,ticket,1747384193,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50006560,Customer,NULL,1747302061,207403600837719,True,False,NULL,0,11466,ticket,1747302969,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50006560,Customer,66f2670b1971eb1872df0262,1747282479,207403600836404,True,False,NULL,0,11438,ticket,1747283387,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50006560,Customer,66f264981971eb0e76df9f5d,1747314243,207403600838942,True,False,NULL,0,11502,ticket,1747315149,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50006560,Customer,NULL,1747335288,207403600840069,True,False,NULL,0,11534,ticket,1747336194,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50006560,Customer,NULL,1747291851,207403600836647,True,False,NULL,0,11440,ticket,1747292756,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50006560,Customer,NULL,1747288741,207403600836488,True,False,NULL,0,11439,ticket,1747289648,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f255079fa29f781702a3b3,1747225519,207403600834251,True,False,NULL,50036651,11392,ticket,1747382511,NULL,Change screen colour on device,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747347256,207403600840485,True,False,NULL,50032161,11538,ticket,1747363907,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,NULL,1747300129,207403600837448,True,False,NULL,50036651,11456,ticket,1747421978,NULL,Re-admission not showing on suspended resident,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,672dd2e8071def26b8a2ef38,1747216383,207403600833127,True,True,1747468800,50036651,11366,ticket,1747421248,NULL,How to update critical info,resolved,Closed,4,Resolved,ticket_state
+50032795,Customer,66f25a359fa29f83d301de91,1747361575,207403600840627,True,True,NULL,50032161,11539,ticket,1747381206,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1736005756,207403600249827,True,False,NULL,50027232,4372,ticket,1747327070,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2651799eb08be427bec7f,1747299462,207403600837362,True,True,1747468800,50036651,11451,ticket,1747421907,NULL,Forgotten password to training account,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,6763f70056d6e569bada8622,1747230671,207403600834776,True,True,1747468800,50036651,11405,ticket,1747421544,NULL,Go live on 724 Main Rd,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50030326,Customer,66f25b717237217a6e36f6a0,1747306027,207403600838182,True,True,1747468800,50036651,11480,ticket,1747422188,NULL,How to close wound follow up,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,NULL,1747309021,207403600838476,True,True,1747468800,50036651,11490,ticket,1747422251,NULL,If I made a mistake how do I delete it,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f2745861a1c013c736a259,1747299702,207403600837393,True,True,1747468800,50036651,11452,ticket,1747421937,NULL,Cannot access PWS on app,resolved,Closed,4,Resolved,ticket_state
+50023794,Customer,NULL,1747325104,207403600839675,True,True,NULL,50032161,11527,ticket,1747411547,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,NULL,1747323352,207403600839575,True,True,NULL,50036651,11526,ticket,1747409807,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1747304396,207403600838028,True,True,NULL,50032163,11473,ticket,1747390848,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1747237779,207403600835356,True,True,NULL,50006618,11423,ticket,1747324187,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,672dd2e6071def26b8a2ef18,1747222306,207403600833930,True,True,1747468800,50036651,11381,ticket,1747421314,NULL,How do you move a new resident from enrolled status to onboarding,resolved,Closed,4,Resolved,ticket_state
+50032795,Customer,672dd2e9071def26b8a2ef50,1747375990,207403600840800,True,False,NULL,50032161,11542,ticket,1747391922,NULL,Agency staff log in,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747306154,207403600838197,True,True,NULL,50032283,11481,ticket,1747306994,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f25561082ad5e2019837bb,1747211437,207403600832228,True,True,1747468800,50036651,11351,ticket,1747413943,NULL,Changing a respite care plan to a long term one,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f4f990cd188eead96d8071,1747228888,207403600834595,True,True,1747468800,50036651,11396,ticket,1747421464,NULL,How to close warnings,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f267a88e18644ddde14cab,1747236661,207403600835295,True,True,1747468800,50036651,11422,ticket,1747421757,NULL,How to enroll new resident?,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,672dd2e7071def26b8a2ef1a,1747311187,207403600838649,True,True,1747468800,50036651,11497,ticket,1747422410,NULL,How do I access a list of vital signs/observations obtained over the month for a resident,resolved,Closed,4,Resolved,ticket_state
+50038045,Customer,66f26dd7f286f0258957c2cf,1747268447,207403600836327,True,False,NULL,50032161,11437,ticket,1747300332,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50023794,Customer,NULL,1747245934,207403600835650,True,True,NULL,50032161,11428,ticket,1747382528,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,NULL,1747292502,207403600836695,True,True,1747468800,50032161,11441,ticket,1747375487,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f285a28e186408d7786bf7,1747301875,207403600837687,True,True,1747641600,50036651,11463,ticket,1747422050,NULL,Staff member has read only on all interactions,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50023794,Customer,66f253e68e18644e7ee093f1,1747245012,207403600835624,True,True,NULL,50032161,11427,ticket,1747382525,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f259db99eb08b40e7c5b12,1747305552,207403600838136,True,False,NULL,50036651,11478,ticket,1747314974,NULL,Lock device 31508,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,NULL,1747318546,207403600839266,True,True,NULL,50032163,11523,ticket,1747404948,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f268dd87696e0511370827,1747316697,207403600839136,True,True,1747468800,50036651,11508,ticket,1747422446,NULL,How do i create a mental health capacity care plan,resolved,Closed,4,Resolved,ticket_state
+50023428,Customer,NULL,1747139868,207403600828262,True,True,NULL,50027232,11375,ticket,1747388550,Finance Queries,Finance Queries,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,6763f6f856d6e569bada85bd,1747144438,207403600828949,True,False,NULL,50036651,11310,ticket,1747394421,NULL,Find circle of care on app,resolved,Closed,4,Resolved,ticket_state
+50023835,Customer,66f266891971eb17a4df2282,1747302935,207403600837808,True,True,NULL,50032163,11522,ticket,1747391520,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f260cb7237218554365b04,1747215300,207403600832923,True,False,NULL,50036651,11362,ticket,1747382496,NULL,Device cannot take pictures,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1747221512,207403600833828,True,True,NULL,50027232,11419,ticket,1747290151,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,NULL,1747295766,207403600836959,True,False,NULL,50032161,11444,ticket,1747383668,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,NULL,1747310282,207403600838591,True,False,NULL,50036651,11495,ticket,1747384195,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2859e8e186408d7786bce,1747306534,207403600838239,True,True,1747468800,50036651,11482,ticket,1747422224,NULL,How to create an interaction for PEG Feeding / PEG Care,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1747235576,207403600835235,True,False,NULL,50027232,11420,ticket,1747309451,incorrect values on invoice,incorrect values on invoice,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1747301795,207403600837678,True,True,NULL,50027232,11487,ticket,1747313534,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50040836,Customer,NULL,1747126751,207403600825424,True,True,1749974400,50040837,11270,ticket,1747307455,NULL,Return device after factory reset,in_progress,In progress,2,In progress,ticket_state
+0,Customer,NULL,1747295886,207403600836968,True,True,NULL,0,11445,ticket,1747388574,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,66f2582e87696efcea37615e,1747134246,207403600827368,True,False,NULL,50036651,11288,ticket,1747309659,NULL,Staff member cannot login,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f25c0e082ad5da3599134e,1747231001,207403600834824,True,False,NULL,50036651,11406,ticket,1747399037,NULL,Ticket overview of last 6 months,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747324344,207403600839632,True,True,NULL,50032163,11529,ticket,1747410768,single resident affected,Unable to access care plan through mobile,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f273f48e1864a47558e6f7,1747297912,207403600837194,True,False,NULL,50036651,11448,ticket,1747316142,NULL,Pending Data,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747145745,207403600829119,True,True,NULL,50039421,11314,ticket,1747289449,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,66f2670b1971eb1872df0264,1747295076,207403600836918,True,True,NULL,50032163,11443,ticket,1747397652,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2632b9fa29f86f501c26d,1747223802,207403600834100,True,False,NULL,50036651,11382,ticket,1747382505,NULL,Scheduling more than 1 month into the future not showing,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747311389,207403600838669,True,True,NULL,50027232,11506,ticket,1747326066,NULL,Unable to apply time off for inactive dates,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1747234919,207403600835169,True,True,NULL,50032163,11414,ticket,1747321368,NULL,Excel timeline report issue,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2767641abcb9499b3efa5,1747265834,207403600836306,True,False,NULL,50036651,11436,ticket,1747305985,NULL,Create timeline report,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747223626,207403600834085,True,True,NULL,50027232,11415,ticket,1747310029,Not showing in carer drop down box,Unable to apply carer to a appointment,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f26dd2f286f0258957c28f,1747232508,207403600834981,True,True,1747468800,50036651,11410,ticket,1747421628,NULL,How to update wound,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f2670c1971eb1872df026c,1747220631,207403600833722,True,True,1747468800,50036651,11378,ticket,1747421291,NULL,Devices not authorised to login,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,NULL,1747303761,207403600837962,True,True,NULL,50032163,11486,ticket,1747390188,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,67644ca08039eb758f2da233,1747311125,207403600838644,True,True,1747468800,50036651,11496,ticket,1747422399,NULL,Timeline still suspended on active person,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f2589641abcb55854aaea5,1747305385,207403600838122,True,True,1747468800,50036651,11477,ticket,1747422143,NULL,Breaking of rescheduling due to moved interaction,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1747296133,207403600836995,True,True,NULL,50027232,11459,ticket,1747382616,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f25a9c41abcb5b104a4834,1747207552,207403600831646,True,True,NULL,50032161,11347,ticket,1747294008,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1747040514,207403600803423,True,True,NULL,50027232,11232,ticket,1747310835,missing details upon log in,missing details upon log in,submitted,Submitted,1,Submitted,ticket_state
+50038045,Customer,66f26dd7f286f0258957c2cf,1747268447,207403600836327,True,False,NULL,50032161,11437,ticket,1747300332,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032757,Customer,NULL,1746997394,207403600802474,True,False,NULL,50032163,11318,ticket,1747407797,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,NULL,1747234919,207403600835169,True,True,NULL,50032163,11414,ticket,1747321368,NULL,Excel timeline report issue,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1747231992,207403600834932,True,False,NULL,50032163,11408,ticket,1747316597,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747118220,207403600823073,True,True,NULL,50027232,11289,ticket,1747300585,NULL,region logos on report,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2745861a1c013c736a259,1747299702,207403600837393,True,False,NULL,50036651,11452,ticket,1747468832,NULL,Cannot access PWS on app,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747208914,207403600831793,True,True,NULL,50027232,11358,ticket,1747304702,Appointment Errors,Appointment Errors,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1746778901,207403600796224,True,True,NULL,50032163,11051,ticket,1747286606,NULL,Excel timeline report stuck,resolved,Closed,4,Resolved,ticket_state
+50032757,Customer,NULL,1746525535,207403600782015,True,True,NULL,0,10785,ticket,1747296032,NULL,Server issue & Care Given missed showing more than expected,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50023796,Customer,NULL,1746623920,207403600789680,True,True,NULL,50027232,10910,ticket,1747293597,NULL,Shadow carer rates applying correctly,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1747295821,207403600836962,True,False,NULL,50032163,11468,ticket,1747408232,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50032951,Customer,NULL,1744286545,207403600610799,True,True,NULL,50027232,9166,ticket,1747393679,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1747054998,207403600816698,True,True,NULL,50027232,11285,ticket,1747377587,rotas aren't showing up correctly?,rotas aren't showing up correctly?,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1743503342,207403600594653,True,True,NULL,50006617,8433,ticket,1747404182,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1747217790,207403600833356,True,True,NULL,50027232,11401,ticket,1747304328,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1747141121,207403600828486,True,True,NULL,50027232,11329,ticket,1747315716,editing payments for holiday,editing payments for holiday,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1747127116,207403600825537,True,True,NULL,50006617,11298,ticket,1747298648,NULL,Time off summary report error,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1747299817,207403600837406,True,True,NULL,50027232,11469,ticket,1747318637,NULL,Text format from system Email,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1746002670,207403600735559,True,True,NULL,50027232,10425,ticket,1747296178,Text Messaging,Text Messaging,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1747211328,207403600832204,True,True,NULL,50027232,11380,ticket,1747390471,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1747309446,207403600838517,True,False,NULL,50032163,11513,ticket,1747397485,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1746610607,207403600788041,True,True,NULL,50027232,10862,ticket,1747313088,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1747050512,207403600814271,True,True,NULL,50027232,11489,ticket,1747394829,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,67dd2ee2fe925a7b2a559642,1747216327,207403600833114,True,False,NULL,50032163,11384,ticket,1747320111,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747222301,207403600833929,True,False,NULL,50027232,11398,ticket,1747412395,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1746521385,207403600780686,True,True,NULL,50027232,10786,ticket,1747331689,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1747132296,207403600826950,True,True,NULL,50027232,11294,ticket,1747315964,NULL,Invoice groups not applying,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1747212032,207403600832336,True,False,NULL,50027232,11393,ticket,1747311942,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50023427,Customer,NULL,1744025770,207403600604401,True,True,NULL,50032163,8973,ticket,1744364660,Infection Prevention Control Monthly Audit - 700077,Infection Prevention Control Monthly Audit - 700077,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1744018193,207403600604077,True,False,NULL,50027232,8852,ticket,1744388241,NULL,Travel rates and the mileage showing form the wrong location,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1744033868,207403600604738,True,False,NULL,50027232,8857,ticket,1744388043,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1743600135,207403600597706,True,False,NULL,50027232,8598,ticket,1744388029,start date is added?,start date is added?,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1744027530,207403600604478,True,False,NULL,50027232,8844,ticket,1744388042,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1743515570,207403600595381,True,False,NULL,50027232,8819,ticket,1744388044,NULL,Unable to remove time off request,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1740662029,207403600427075,True,False,NULL,50027232,6341,ticket,1744375661,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1744030517,207403600604590,True,True,NULL,50027232,8873,ticket,1744305520,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,66f26ec11971eb0ebddffef7,1743065544,207403600571595,True,True,NULL,50032163,8378,ticket,1744379180,NULL,Cannot update family portal role settings,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1744031818,207403600604637,True,True,NULL,50032161,9164,ticket,1744377713,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1744029479,207403600604550,True,False,NULL,50027232,8849,ticket,1744375661,NULL,Random Travel Time Added,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1744024642,207403600604359,True,False,NULL,50027232,8837,ticket,1744375674,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1743695564,207403600599945,True,False,NULL,50027232,8806,ticket,1744375674,Timesheet Query,Timesheet Query,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f258e699eb08bb4d7c1681,1743671385,207403600598971,True,True,NULL,50032163,8578,ticket,1744368366,NULL,Nourish devices not able to take phone calls,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1743690448,207403600599780,True,True,NULL,50006617,8707,ticket,1744619639,NULL,Scheme can't be deleted,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,66f26861f665d67c580f48ae,1743503988,207403600594701,True,False,NULL,50036651,8390,ticket,1744617743,NULL,Change default on interaction setting,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f273e799eb08d8a429ab56,1744025123,207403600604375,True,False,NULL,50036651,8838,ticket,1744630594,NULL,Download timeline information,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1743699659,207403600600040,True,False,NULL,50032163,8653,ticket,1744647764,NULL,GP connect not showing data,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f258e699eb08bb4d7c1681,1743671385,207403600598971,True,True,NULL,50032163,8578,ticket,1744711743,NULL,Nourish devices not able to take phone calls,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1743583789,207403600596773,True,False,NULL,50032163,8990,ticket,1744634517,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,NULL,1744029167,207403600604540,True,False,NULL,50036651,8847,ticket,1744617742,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1743765904,207403600601090,True,True,NULL,50032163,8711,ticket,1744643125,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,NULL,1744023376,207403600604289,True,False,NULL,50032163,9350,ticket,1744720616,not closed incidents,not closed incidents,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1739871435,207403600380339,True,True,NULL,50032283,7873,ticket,1744622081,NULL,Issue with Wounds,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1744023733,207403600604308,True,True,NULL,50032163,8856,ticket,1744643034,dashboard not updated,dashboard not updated,in_progress,In progress,2,In progress,ticket_state
+50040836,Customer,66f2545b41abcb51914a9935,1743248177,207403600588239,True,True,1745319059,50040837,8220,ticket,1744714259,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1743452342,207403600593398,True,False,NULL,50027232,8641,ticket,1744612343,NULL,GP connect error,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1739878930,207403600381825,True,True,NULL,50032283,5958,ticket,1744622047,NULL,Archived resident wound assessments issue,in_progress,In progress,2,In progress,ticket_state
+50023796,Customer,NULL,1743420177,207403600592034,True,False,NULL,50006617,8450,ticket,1744611441,NULL,Appointment not going through to invoice,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1743410125,207403600591015,True,True,NULL,50032163,8387,ticket,1744643020,NULL,Dashboard issue,in_progress,In progress,2,In progress,ticket_state
+50023835,Customer,NULL,1743491123,207403600593771,True,True,NULL,50032163,8726,ticket,1744630177,NULL,Login issue,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50023835,Customer,66f25f2e41abcb55d64ae85d,1743786008,207403600601738,True,True,NULL,50027232,8735,ticket,1744652301,NULL,Split/Merge queries,in_progress,In progress,2,In progress,ticket_state
+50032951,Customer,NULL,1744031818,207403600604637,True,False,NULL,50032161,9164,ticket,1744620096,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2717999eb08bd597c7660,1744013997,207403600603888,True,True,NULL,50036651,8803,ticket,1744617623,NULL,Nourish devices camera not working,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1744034359,207403600604768,True,False,NULL,50027232,8860,ticket,1744621228,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50040836,Customer,NULL,1744026553,207403600604436,True,True,1745319210,50040837,8841,ticket,1744714410,NULL,Device not charging,in_progress,In progress,2,In progress,ticket_state
+50023835,Customer,66f26ad887696efbe23806b8,1741347265,207403600477961,True,False,NULL,50032163,6735,ticket,1744628932,NULL,Family portal role cannot edit interactions access bug,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,6762ee91de1db1a476de827c,1744013725,207403600603875,True,False,NULL,50036651,8802,ticket,1744617743,NULL,Needs assessment closure issue,resolved,Resolved,4,Resolved,ticket_state
+50040836,Customer,672dd2e6071def26b8a2ef10,1743079842,207403600576413,True,True,1745319205,50040837,8031,ticket,1744714405,NULL,Device not charging,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1742558296,207403600540267,True,False,NULL,50032163,8616,ticket,1744628957,NULL,Can't update interaction for Family Portal role,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1743683759,207403600599541,True,True,NULL,50027232,8957,ticket,1744719460,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1744030517,207403600604590,True,False,NULL,50027232,8873,ticket,1744628288,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,66f26ec11971eb0ebddffef7,1743065544,207403600571595,True,False,NULL,50032163,8378,ticket,1744611551,NULL,Cannot update family portal role settings,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,NULL,1744027822,207403600604490,True,False,NULL,50036651,8845,ticket,1744617743,NULL,App crashing,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1743522943,207403600595777,True,True,NULL,50027232,8441,ticket,1744724790,NULL,Family Portal/CarePlanner Sync,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,NULL,1747129651,207403600826258,True,True,1747555200,50032161,11334,ticket,1747470408,NULL,Care Plan import not working,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f25537082ad5d9ee98d852,1747142770,207403600828743,True,True,NULL,50032163,11319,ticket,1747320689,NULL,Dashboard information not showing,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50030326,Customer,66f27179723721837d374b80,1747149525,207403600829522,True,False,NULL,50036651,11328,ticket,1747468829,NULL,Colleague cannot see dashboards,resolved,Closed,4,Resolved,ticket_state
+50023835,Customer,NULL,1747309328,207403600838508,True,True,NULL,50032163,11515,ticket,1747410653,Interactions,Interactions,in_progress,In progress,2,In progress,ticket_state
+50023796,Customer,NULL,1747047664,207403600812153,True,True,NULL,50027232,11505,ticket,1747316647,NULL,Handover note not syncing and duplicate appointments,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f26dd4f286f0258957c2aa,1747019945,207403600802619,True,True,NULL,50032163,11177,ticket,1747298340,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f256e299eb08bcbb7bb080,1747166970,207403600830495,True,True,NULL,0,11337,ticket,1747397909,NULL,NULL,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50032951,Customer,NULL,1747219911,207403600833643,True,False,NULL,50027232,11409,ticket,1747314402,Information then not displayed correctly after,Carer kicked out of app,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,66f298639fa29f14a1282b3d,1744364372,207403600611780,True,True,NULL,50027232,9261,ticket,1747319240,NULL,Changing appointment time adds new duplicates into Nourish timeline,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1747311389,207403600838669,True,True,NULL,50027232,11506,ticket,1747326066,NULL,Unable to apply time off for inactive dates,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,NULL,1747301197,207403600837585,True,True,1747555200,50032161,11461,ticket,1747472882,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1747212386,207403600832394,True,False,NULL,50036651,11354,ticket,1747468835,NULL,How do I pull a report of the interaction staff signatory to see if this has been completed,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f2767641abcb9499b3efa5,1747265834,207403600836306,True,False,NULL,50036651,11436,ticket,1747305985,NULL,Create timeline report,resolved,Closed,4,Resolved,ticket_state
+50032795,Customer,66f25777723721863b35f597,1747342847,207403600840357,True,True,1747555200,50032161,11537,ticket,1747473505,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1747223626,207403600834085,True,True,NULL,50027232,11415,ticket,1747310029,Not showing in carer drop down box,Unable to apply carer to a appointment,submitted,Submitted,1,Submitted,ticket_state
+50038045,Customer,66f263ec41abcb51154b24d9,1747264138,207403600836281,True,False,NULL,50032161,11435,ticket,1747477120,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,672dd2e9071def26b8a2ef4f,1747309181,207403600838494,True,False,NULL,50036651,11492,ticket,1747468831,NULL,Setup quickclose tags,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,NULL,1747303761,207403600837962,True,True,NULL,50032163,11486,ticket,1747390188,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1747296133,207403600836995,True,True,NULL,50027232,11459,ticket,1747382616,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f259ec9fa29f79ce02d06b,1747224858,207403600834190,True,False,NULL,50036651,11387,ticket,1747468824,NULL,How to update PWS details,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1747298877,207403600837292,True,False,NULL,50027232,11457,ticket,1747304081,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,67644ca08039eb758f2da233,1747311125,207403600838644,True,False,NULL,50036651,11496,ticket,1747468840,NULL,Timeline still suspended on active person,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f2589641abcb55854aaea5,1747305385,207403600838122,True,False,NULL,50036651,11477,ticket,1747468835,NULL,Breaking of rescheduling due to moved interaction,resolved,Closed,4,Resolved,ticket_state
+50032951,Customer,NULL,1747301795,207403600837678,True,True,NULL,50027232,11487,ticket,1747313534,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50040836,Customer,NULL,1747126751,207403600825424,True,True,1749974400,50040837,11270,ticket,1747307455,NULL,Return device after factory reset,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,66f268dd87696e0511370827,1747305380,207403600838121,True,False,NULL,50036651,11476,ticket,1747468841,NULL,How to edit abilities on crit info,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f25a1787696ef9393786cf,1747228986,207403600834607,True,False,NULL,50036651,11397,ticket,1747468826,NULL,Cannot open notifier,resolved,Closed,4,Resolved,ticket_state
+50032759,Customer,66f25a9c41abcb5b104a4834,1747207552,207403600831646,True,True,1747555200,50032161,11347,ticket,1747470375,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1747295886,207403600836968,True,True,NULL,0,11445,ticket,1747388574,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,66f2582e87696efcea37615e,1747134246,207403600827368,True,False,NULL,50036651,11288,ticket,1747309659,NULL,Staff member cannot login,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f25c0e082ad5da3599134e,1747231001,207403600834824,True,False,NULL,50036651,11406,ticket,1747399037,NULL,Ticket overview of last 6 months,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747324344,207403600839632,True,True,NULL,50032163,11529,ticket,1747410768,single resident affected,Unable to access care plan through mobile,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f273f48e1864a47558e6f7,1747297912,207403600837194,True,False,NULL,50036651,11448,ticket,1747316142,NULL,Pending Data,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f26dd2f286f0258957c290,1747309179,207403600838493,True,False,NULL,50036651,11491,ticket,1747468849,NULL,Duplicate interaction in personalised interactions,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f2567e7237217cd636c443,1747229383,207403600834645,True,False,NULL,50036651,11399,ticket,1747468823,NULL,How to close open warnings,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747145745,207403600829119,True,True,NULL,50039421,11314,ticket,1747289449,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f262d387696e011237643c,1747231699,207403600834907,True,False,NULL,50036651,11407,ticket,1747468833,NULL,Turning off provided only interaction,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,66f2670b1971eb1872df0264,1747295076,207403600836918,True,True,NULL,50032163,11443,ticket,1747397652,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2632b9fa29f86f501c26d,1747223802,207403600834100,True,False,NULL,50036651,11382,ticket,1747382505,NULL,Scheduling more than 1 month into the future not showing,resolved,Closed,4,Resolved,ticket_state
+50032795,Customer,NULL,1747323352,207403600839575,True,False,NULL,50036651,11526,ticket,1747566029,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,672dd2e7071def26b8a2ef1d,1747075611,207403600821224,True,True,NULL,50032161,11257,ticket,1747641713,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f262d387696e011237643c,1747231699,207403600834907,True,False,NULL,50036651,11407,ticket,1747468833,NULL,Turning off provided only interaction,resolved,Closed,4,Resolved,ticket_state
+50032853,Customer,67644ca08039eb758f2da233,1747314372,207403600838954,True,False,NULL,50032163,11503,ticket,1747405096,NULL,Timeline did not un-suspend after re-admission,resolved,Closed,4,Resolved,ticket_state
+0,Customer,66f259ce41abcb57184aa2f6,1745482847,207403600676778,True,False,NULL,0,9948,ticket,1747401173,NULL,Life enrichment not refreshing,resolved,Closed,4,Resolved,ticket_state
+50032759,Customer,NULL,1746884267,207403600800250,True,False,NULL,50032161,11142,ticket,1747482885,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50038045,Customer,66f2638ffd9d55e7185d9a51,1746810620,207403600798561,True,False,NULL,50032161,11123,ticket,1747398665,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50023794,Customer,NULL,1747310286,207403600838592,True,False,NULL,50032161,11548,ticket,1747476989,NULL,Device auto signing out after a couple minutes,submitted,Submitted,1,Submitted,ticket_state
+50023428,Customer,NULL,1743180670,207403600586393,True,True,NULL,50027232,8179,ticket,1747468808,IP Address Query,IP Address Query,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2b0e4eaf3532f8f8987a3,1747060574,207403600818862,True,False,NULL,50036651,11242,ticket,1747468825,NULL,How to archive a service management profile,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f253b2fd9d55e6835d2f90,1747235344,207403600835208,True,False,NULL,50036651,11418,ticket,1747643531,NULL,Slow reports,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,6763f6fc56d6e569bada85eb,1747059204,207403600818449,True,False,NULL,50036651,11236,ticket,1747382469,NULL,Open document on app from care plan,resolved,Closed,4,Resolved,ticket_state
+50030326,Customer,66f27179723721837d374b80,1747320418,207403600839391,True,False,NULL,50036651,11518,ticket,1747403422,NULL,Service management documents,resolved,Closed,4,Resolved,ticket_state
+50023835,Customer,NULL,1747208366,207403600831730,True,False,NULL,50032163,11359,ticket,1747658050,information not matching interaction,Critical info resident board,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1747299029,207403600837307,True,True,NULL,50006617,11475,ticket,1747651297,NULL,error when applying time off,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f26dcaf286f0258957c268,1747489556,207403600845139,True,False,NULL,50032161,11632,ticket,1747570094,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f2a89ccd188e223b974893,1747399594,207403600842504,True,False,NULL,50027232,11594,ticket,1747409870,Better Care At Home,Profile duplication during Sync,resolved,Closed,4,Resolved,ticket_state
+50023507,Customer,NULL,1747317576,207403600839193,True,True,NULL,50027232,11590,ticket,1747655989,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1747126772,207403600825431,True,True,NULL,50027232,11292,ticket,1747405444,Activity Log,Activity Log,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f25f46082ad5d81f9936de,1743776363,207403600601499,True,True,NULL,50036651,8721,ticket,1747642811,NULL,What role setting does admin > permissions fall under?,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1747303701,207403600837953,True,True,NULL,50027232,11479,ticket,1747391486,mileage calculation,mileage calculation,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,NULL,1746963467,207403600801730,True,False,NULL,50032161,11160,ticket,1747471237,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f25bd78e18645942e023c3,1746790816,207403600797305,True,False,NULL,50036651,11090,ticket,1747382453,NULL,Family portal work around to allow single email for two residents,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50033598,Customer,67895d3eee0303a8d9038d3d,1747389921,207403600841812,True,False,NULL,50036651,11559,ticket,1747660213,NULL,Enable sim on Nourish devices,resolved,Closed,4,Resolved,ticket_state
+50032757,Customer,66f26dd7f286f0258957c2cb,1744788120,207403600617433,True,False,NULL,50032163,9487,ticket,1747648361,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+50032757,Customer,NULL,1747295821,207403600836962,True,False,NULL,50032163,11468,ticket,1747408232,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+0,Customer,NULL,1745853401,207403600712013,True,False,NULL,0,10357,ticket,1747401062,dashboards not updating correctly,dashboards not updating correctly,resolved,Closed,4,Resolved,ticket_state
+50023796,Customer,NULL,1747054998,207403600816698,True,True,NULL,50027232,11285,ticket,1747377587,rotas aren't showing up correctly?,rotas aren't showing up correctly?,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1747212728,207403600832447,True,True,NULL,50032163,11575,ticket,1747412156,NULL,NULL,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50023796,Customer,NULL,1744101774,207403600605817,True,False,NULL,50027232,8933,ticket,1747671379,NULL,NULL,resolved,Closed,4,Resolved,ticket_state
+0,Customer,NULL,1747045282,207403600808927,True,True,NULL,50006617,11209,ticket,1747651297,Time Off Error,Time Off Error,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1747382432,207403600841198,True,True,NULL,50032163,11550,ticket,1747735106,Logs not loading up,Logs not loading up,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,NULL,1747383607,207403600841281,True,False,NULL,50032163,11558,ticket,1747407020,SSO,SSO,resolved,Closed,4,Resolved,ticket_state
+0,Customer,66f25ac887696ef8ee37853f,1744895189,207403600619976,True,False,NULL,0,9598,ticket,1747401157,NULL,Life enrichment dashboard hasn't refreshed,resolved,Closed,4,Resolved,ticket_state
+50023427,Customer,NULL,1741249429,207403600473901,True,False,NULL,50032163,6647,ticket,1742917394,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023794,Customer,NULL,1734366350,207403600204884,True,False,NULL,50006615,4073,ticket,1737802164,Josephine called looking to set up time off schemes and types,Time off query,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f25bea41abcb51154ade6b,1738846073,207403600331767,True,False,NULL,50032163,8023,ticket,1743077873,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1739286683,207403600358223,True,False,NULL,50036651,5796,ticket,1739521948,NULL,Incident actions did not run,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1740136695,207403600392164,True,False,NULL,50032163,8078,ticket,1743090657,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1739201094,207403600337554,True,False,NULL,50027232,5753,ticket,1739531604,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f25ed899eb08b3267c86dc,1742303383,207403600532478,True,True,NULL,50032163,7603,ticket,1743158324,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50032853,Customer,NULL,1742383665,207403600535105,True,True,NULL,50032163,7434,ticket,1743157888,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1736934912,207403600261413,True,False,NULL,50006615,4967,ticket,1738426312,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,NULL,1736955066,207403600262097,True,False,NULL,50032161,5013,ticket,1740060488,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66fa6f6f1df729305f96cbb8,1736505822,207403600255946,True,False,NULL,50032163,4738,ticket,1737391126,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,6729dac1071defc979d84141,1734326056,207403600204132,True,False,NULL,50032163,4055,ticket,1734439155,NULL,Pending Data - Backup,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f2651799eb08be427bec77,1732105913,207403600153833,True,False,NULL,50032163,3581,ticket,1735887172,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1739883444,207403600382306,True,False,NULL,50032163,6002,ticket,1740052630,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25e72f665d673960f86b0,1737377047,207403600267799,True,False,NULL,50032163,5872,ticket,1741176352,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023428,Customer,NULL,1738312815,207403600316991,True,False,NULL,50027232,5535,ticket,1739533893,Night rate identification and app issues for carers.,Night Rate Identification and App Issues,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f3d125b4cef9f44508f365,1742899802,207403600547156,True,True,NULL,50032163,7883,ticket,1743088481,NULL,7.12.12.0 crashing when opening residents timelines,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f259b799eb08bb877c0fd5,1741696507,207403600493597,True,False,NULL,50036651,6949,ticket,1742290248,NULL,Pending Data,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,NULL,1740770700,207403600436808,True,False,NULL,50032161,6400,ticket,1740998188,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f265fe99eb08b81f7cb35c,1733829454,207403600198570,True,False,NULL,50032163,4013,ticket,1738585146,NULL,Bulk warnings closure,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2670b1971eb1872df026a,1741619093,207403600487873,True,False,NULL,50036651,6881,ticket,1741707759,NULL,Setting device pins,in_progress,In progress,2,In progress,ticket_state
+50032853,Customer,66f282d0a85f725600e897cc,1733140168,207403600187478,True,False,NULL,50032163,3805,ticket,1735825549,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f25fb041abcb52514af776,1739965548,207403600386279,True,False,NULL,50032163,6031,ticket,1740145253,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f26dd2f286f0258957c293,1743429883,207403600592718,True,False,NULL,50036651,8329,ticket,1743484132,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740662029,207403600427075,True,True,NULL,50027232,6341,ticket,1743523284,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1733484452,207403600194851,True,False,NULL,50006617,4462,ticket,1740068334,NULL,Technical Services - Removing time off in 2026,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1741692240,207403600493140,True,False,NULL,50032163,6955,ticket,1743092540,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1731577493,207403600135566,True,False,NULL,50032163,3492,ticket,1735863846,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1742918958,207403600561501,True,True,NULL,50027232,8183,ticket,1743425736,NULL,Travel rates when using a breaks clients,submitted,Submitted,1,Submitted,ticket_state
+50030542,Customer,NULL,1731662003,207403600137243,True,False,NULL,50032163,3479,ticket,1738834934,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1736947808,207403600261867,True,False,NULL,0,4998,ticket,1738233050,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1736934687,207403600261403,True,False,NULL,50006617,5005,ticket,1739443341,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1740829777,207403600438329,True,False,NULL,50032163,6492,ticket,1743181056,Staff member not syncing,Entra AD,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1737969731,207403600289120,True,False,NULL,50027232,5570,ticket,1738944198,NULL,Diary and Finance Queries,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736175999,207403600251388,True,False,NULL,50032163,5092,ticket,1739449764,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1736332662,207403600253467,True,False,NULL,50032163,4564,ticket,1743066776,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f2a89ccd188e223b974893,1739898152,207403600383690,True,False,NULL,50032163,6247,ticket,1743074792,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736942647,207403600261713,True,False,NULL,50032163,5132,ticket,1737116049,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f257b79fa29f82c801e5f7,1740491432,207403600414178,True,False,NULL,50032163,6230,ticket,1741098989,After Death/Deceased interaction,Resident not archiving,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1731082871,207403600127467,True,False,NULL,50006615,3331,ticket,1731426943,Timesheet,Holiday not showing pay on timesheet 02036 - carer Kudakwashe - holiday shows but no pay,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742916107,207403600560649,True,False,NULL,50027232,7899,ticket,1743090534,NULL,Incorrect username or password takes you to 2FA login page instead of saying incorrect password or login,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1732270488,207403600160172,True,False,NULL,50032163,3669,ticket,1735826682,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1729680316,207403600035382,True,False,NULL,50027232,3061,ticket,1741085429,John at visioncare called in because they are unable to assign a new scheme to a care that has holiday booked for future dates and they are unable to access these to delete them. Example is Ambrine Idres. They have a week booked off for each year up until 2028. Said they are happy to delete all periods of time off from 01/01/2026 as they have a printed out report of it.,Unable to assign schemes,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1737636499,207403600283295,True,False,NULL,50006617,5309,ticket,1740998101,Red Error banner on carers time off page.,Time Off Error,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1739375492,207403600363763,True,False,NULL,50006617,5836,ticket,1741698937,Error On Carers Time Off Page,Time Off Page Error,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1724074452,207403600008646,True,False,NULL,50027232,5904,ticket,1741179556,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1743412208,207403600591254,True,True,NULL,0,8370,ticket,1743489924,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030542,Customer,672dd2e7071def26b8a2ef22,1743469743,207403600593581,True,True,NULL,50032161,8365,ticket,1743496405,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1718210769,207403600004162,True,False,NULL,50006617,1052,ticket,1741270839,Spoke with Sophie regarding finance stats for the period of 01/04 - 30/04 showing inaccurate figures of total amount invoiced for the invoicing group NHS Derbyshire Semi Rural.,Finance stats issue,in_progress,In progress,2,In progress,ticket_state
+50023795,Customer,NULL,1740662029,207403600427075,True,False,NULL,50027232,6341,ticket,1743409282,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f251d48a601c24ee2b8fef,1742553935,207403600539978,True,True,NULL,50032163,7760,ticket,1742833242,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1733486823,207403600194922,True,False,NULL,50027232,4216,ticket,1737377585,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1738140412,207403600292692,True,False,NULL,50032163,5530,ticket,1741782533,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f254b299eb08bcbb7b9e43,1742906264,207403600556431,True,False,NULL,50032163,7853,ticket,1743168227,NULL,AD Nourish sync (checking 3 emails not syncing),resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2718ceaf3532b49ce82f4,1739179508,207403600336347,True,False,NULL,50036651,5735,ticket,1740667645,Link - Jesmond Close Offboard,Offboard Jesmond Close,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740596050,207403600421411,True,False,NULL,50032163,6251,ticket,1741190323,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1733138805,207403600187370,True,False,NULL,50027232,5260,ticket,1738602418,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023794,Customer,NULL,1734096240,207403600202871,True,False,NULL,50006615,4042,ticket,1734370677,Perter called looking into body maps,Body maps query,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,672dd2e7071def26b8a2ef1c,1742560276,207403600540381,True,False,NULL,50036651,7576,ticket,1743364352,NULL,Dashboards not updating,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1739785029,207403600371965,True,False,NULL,50032163,8097,ticket,1743093086,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1738929598,207403600333459,True,False,NULL,50032163,8070,ticket,1743090173,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1741354692,207403600478368,True,True,NULL,50032283,6752,ticket,1743074013,"Feedback ​ ​""Can you please add an option on ongoing assessment to add depth of the unstageable pressure ulcer"" _____________________ ​Bug ​ - Wound picture not clickable when it should be 
+ ​",Ongoing assessment feedback & Wound picture bug,resolved,Resolved,4,Resolved,ticket_state
+50023797,Customer,6729eb68c3eabee8c7ea5d38,1731666691,207403600137427,True,False,NULL,50006617,3501,ticket,1735883881,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1740127588,207403600391023,True,True,NULL,50032163,7766,ticket,1742820293,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,676294cc8039ebddc18121c3,1737398600,207403600268323,True,False,NULL,50027232,5367,ticket,1738078313,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1741168597,207403600469794,True,True,NULL,50032163,6700,ticket,1743086513,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50023835,Customer,NULL,1733747561,207403600197454,True,False,NULL,50032163,3973,ticket,1736420577,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,66f2723099eb08bb877cdfe0,1731405510,207403600131750,True,False,NULL,50027232,4802,ticket,1740047661,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f2788561a1c01c6b36c2e1,1739442718,207403600365770,True,False,NULL,50027232,6351,ticket,1741009721,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,NULL,1743458848,207403600593503,True,True,NULL,50032161,8364,ticket,1743496405,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1733745154,207403600197385,True,False,NULL,50032163,3959,ticket,1735854775,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1741940271,207403600501136,True,False,NULL,50027232,7133,ticket,1742294016,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1741772353,207403600496008,True,False,NULL,50032161,7488,ticket,1742887379,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1741020586,207403600457535,True,False,NULL,50032163,6523,ticket,1743180850,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50023835,Customer,NULL,1736426020,207403600254944,True,False,NULL,50006617,4665,ticket,1739203324,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,66f259b799eb08bb877c0fd5,1740409993,207403600395560,True,False,NULL,50036651,6131,ticket,1740527990,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023794,Customer,66f2651699eb08be427bec6d,1739852833,207403600378667,True,False,NULL,50032161,5946,ticket,1741000159,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1741970681,207403600516561,True,False,NULL,50027232,7278,ticket,1742465550,NULL,Title of skills/task not updating,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1737114106,207403600264717,True,False,NULL,50032163,5876,ticket,1741781900,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1742851811,207403600546411,True,True,NULL,50027232,7821,ticket,1743453996,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1739787791,207403600372051,True,False,NULL,50032283,5975,ticket,1743091401,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1742985466,207403600566739,True,True,NULL,50027232,8134,ticket,1743421869,NULL,Call disappearing when task added,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1732022854,207403600142090,True,False,NULL,50032163,3552,ticket,1737052403,NULL,Re-occurring error message affecting app & web,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f252b79fa29f79420287b0,1736079799,207403600250193,True,False,NULL,50032163,4378,ticket,1736518831,NULL,Duplicated Interactions (same time x90+ same people info),resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736422312,207403600254812,True,False,NULL,50032163,4648,ticket,1738063750,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2745c61a1c013c736a27d,1741874101,207403600499985,True,False,NULL,50036651,7097,ticket,1742909054,NULL,Pending Data,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50032757,Customer,NULL,1740643433,207403600421972,True,False,NULL,50032163,6517,ticket,1742369480,NULL,Critical dashboard wounds,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1737648663,207403600283981,True,False,NULL,50027232,5537,ticket,1738329582,"Request for assistance with customizing appointment colors, managing call monitoring costs, and implementing system login restrictions during specific hours.",CarePlanner Technical Services Ticket,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,66f2749fa85f7202c3d176e8,1737656295,207403600284205,True,False,NULL,50032161,5440,ticket,1738863645,NULL,Dashboard showing 10 PWS not 37,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25c718e186451ade0d8ac,1731669392,207403600137558,True,False,NULL,50032163,3478,ticket,1735884147,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1739895914,207403600383561,True,False,NULL,50006617,6000,ticket,1742236941,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1740858141,207403600439096,True,False,NULL,50027232,6482,ticket,1741165348,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1732962141,207403600184361,True,False,NULL,50032163,6181,ticket,1743089976,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023797,Customer,66f26dd9f286f0258957c2dd,1743558912,207403600596228,True,True,1743667200,50032161,8467,ticket,1743581203,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1737032619,207403600263389,True,False,NULL,50032163,5153,ticket,1739883824,NULL,Archived care plans,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1736506838,207403600255972,True,False,NULL,50027232,4737,ticket,1738602419,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1740050698,207403600389089,True,False,NULL,50027232,6086,ticket,1740155321,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f26476082ad5e16498d048,1743170263,207403600585666,True,False,NULL,50036651,8162,ticket,1743442550,NULL,App stuck on login,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1741707011,207403600494457,True,True,NULL,50032163,7383,ticket,1742824341,NULL,Uploading file error,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1736420806,207403600254724,True,False,NULL,50027232,4636,ticket,1742903545,Time Off Payment not coming through to timesheet.,Time Off Payment,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1738063399,207403600291461,True,False,NULL,50032163,5438,ticket,1738236974,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1738922772,207403600333121,True,False,NULL,50027232,5696,ticket,1739784752,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023428,Customer,NULL,1742817349,207403600545069,True,True,NULL,50027232,7752,ticket,1743228841,no warning when next appointment breaches the break time,Breaks and related issues,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,66f264fa99eb08be777be5f9,1741017226,207403600456396,True,False,NULL,50036651,6505,ticket,1741625094,NULL,Residential care template archive,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741254719,207403600474357,True,False,NULL,50032163,6660,ticket,1743091866,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2712aa85f722427a53b61,1741343736,207403600477758,True,False,NULL,50036651,6729,ticket,1741603473,NULL,Scheduling interactions,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736862890,207403600260240,True,False,NULL,50032163,4949,ticket,1738067064,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f256a787696efb60375d22,1741251301,207403600474005,True,False,NULL,50032163,6778,ticket,1743093231,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,NULL,1742814003,207403600544738,True,False,NULL,50036651,7745,ticket,1743155953,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023428,Customer,NULL,1736859278,207403600260129,True,False,NULL,50006615,4933,ticket,1740134560,NULL,Unable to reject or approve existing time off requests after deleting the time off type attached to them.,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1743248724,207403600588267,True,False,NULL,50027232,8240,ticket,1743437402,NULL,Invoice export to xero error,in_progress,In progress,2,In progress,ticket_state
+50032853,Customer,673495cfff7a852caa54010f,1733304626,207403600191414,True,False,NULL,50032163,3867,ticket,1735834231,NULL,Unable to use new test interaction,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1740672503,207403600429862,True,False,NULL,50027232,6331,ticket,1740761000,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f282d0a85f725600e897cc,1733216624,207403600189109,True,False,NULL,50032163,3825,ticket,1735827396,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1739187661,207403600336847,True,False,NULL,50027232,5897,ticket,1739785158,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f257501971eb123bdf21c5,1742554326,207403600540003,True,True,NULL,0,7581,ticket,1743063840,Dashboards Missing,Dashboards Missing,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f254f89fa29f80ab022922,1742567860,207403600540776,True,True,NULL,0,7618,ticket,1743063840,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1743403066,207403600590520,True,True,NULL,50027232,8268,ticket,1743488827,Export Ajax Error,Export Ajax Error,submitted,Submitted,1,Submitted,ticket_state
+50030542,Customer,672dd2e7071def26b8a2ef22,1743469743,207403600593581,True,True,NULL,50032161,8365,ticket,1743496405,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1738929000,207403600333434,True,False,NULL,50032163,5733,ticket,1739363460,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1738774546,207403600330394,True,True,1744358400,50032283,5633,ticket,1741699298,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1741175033,207403600470889,True,False,NULL,50027232,6616,ticket,1741589938,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1742470332,207403600537844,True,False,NULL,50027232,7531,ticket,1742819518,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1741038145,207403600459441,True,False,NULL,50032163,6516,ticket,1743094744,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1741033914,207403600459136,True,False,NULL,50032163,6514,ticket,1741115626,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1733736394,207403600197004,True,True,NULL,50032163,3944,ticket,1743085409,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1739181065,207403600336443,True,False,NULL,50027232,5807,ticket,1739784672,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1738229771,207403600312050,True,False,NULL,50032163,5508,ticket,1739888678,See who turned this off,Pain chek Prompt interaction,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,NULL,1740742672,207403600434542,True,False,NULL,50036651,6366,ticket,1740782519,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2cf923812eee20796805d,1742209750,207403600527079,True,False,NULL,50036651,7252,ticket,1742388340,NULL,Convert to read-only text parameter,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25aef1971eb123bdf42cb,1737035139,207403600263457,True,False,NULL,50032163,5079,ticket,1737120943,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1740665074,207403600428068,True,False,NULL,50032163,8072,ticket,1743090239,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1742739546,207403600543049,True,False,NULL,50032161,7697,ticket,1742744208,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736159125,207403600250780,True,False,NULL,50032163,4495,ticket,1738679730,Duplicates,Wounds issue,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,67079f18fc41ba3cd4e3362c,1736249766,207403600252282,True,False,NULL,50032163,4519,ticket,1736270141,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1740137664,207403600392225,True,False,NULL,0,6126,ticket,1741097717,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f2525299eb08bbfe7bb7c7,1739446057,207403600366073,True,False,NULL,50032163,5976,ticket,1743410092,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1737228851,207403600266371,True,False,NULL,50027232,5192,ticket,1743155533,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,NULL,1740487156,207403600413107,True,False,NULL,50032163,6178,ticket,1740677268,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1739282497,207403600357442,True,False,NULL,50027232,5790,ticket,1739442231,Even when trying to manually change the rate it won't allow for this,Carer pay rates not changing,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1742820645,207403600545313,True,False,NULL,50027232,7777,ticket,1742909219,NULL,"Password reminder, login assistance",resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1732536018,207403600164560,True,False,NULL,50006617,3665,ticket,1742924713,"Timesheet not generating holiday - nothing generates for carer Julie W - timesheet was the 18th-24th, but nothing generates.",Timesheet not generating holiday,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1739795232,207403600372275,True,False,NULL,50032163,5998,ticket,1742208947,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1739960154,207403600385744,True,False,NULL,50032163,8084,ticket,1743091303,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f258d899eb08b4807c5379,1736948291,207403600261891,True,False,NULL,50032163,5085,ticket,1737450823,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1740488097,207403600413396,True,False,NULL,50006617,6187,ticket,1742900698,NULL,Finance assistance and rates,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1738842910,207403600331608,True,False,NULL,50032163,5654,ticket,1740157756,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1732702914,207403600169000,True,False,NULL,50032163,3823,ticket,1736181229,NULL,Pending Data Backup,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1737478280,207403600273762,True,False,NULL,50032163,5293,ticket,1737736709,Multiple attempts made and incident reports are also showing up as needing signing off,Resident can't be archived,resolved,Resolved,4,Resolved,ticket_state
+50023427,Customer,NULL,1741627216,207403600489792,True,False,NULL,50032163,7070,ticket,1741859545,Interaction query,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f25ba21971eb0e76df4e29,1737474403,207403600272810,True,False,NULL,50032161,5279,ticket,1737637304,IDs - 1957198240 - 1957200671 - 1957201496 ​- 1957202811 - 1957203455 - 1957205307,Interaction Deletion Request,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1739452511,207403600366616,True,False,NULL,50032163,5996,ticket,1741796164,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1742907233,207403600556999,True,True,NULL,50032163,8008,ticket,1743078096,Error message,Login issues,in_progress,In progress,2,In progress,ticket_state
+50023796,Customer,NULL,1734368087,207403600204910,True,False,NULL,50006617,4074,ticket,1738846636,.,Cannot change scheme due to time off booked in that period,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1742564920,207403600540616,True,False,NULL,50032163,7628,ticket,1743008309,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1741173663,207403600470667,True,False,NULL,50027232,6663,ticket,1742396645,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1741353196,207403600478301,True,True,NULL,50032163,7767,ticket,1742820300,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1736418185,207403600254599,True,False,NULL,50027232,4637,ticket,1738691096,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50023835,Customer,66f25cd6fd9d55eae35cde91,1740410034,207403600395563,True,False,NULL,50032163,6248,ticket,1740731385,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1741605557,207403600481873,True,False,NULL,50027232,6873,ticket,1741619725,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1737030253,207403600263293,True,True,1745481600,50032283,5088,ticket,1742813492,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,679395f5d2182fbd385032d3,1742286847,207403600530648,True,False,NULL,50032163,7402,ticket,1743093884,NULL,Roles section not visable,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1738008307,207403600290607,True,False,NULL,50027232,5447,ticket,1738913862,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1740566071,207403600418859,True,False,NULL,50027232,6221,ticket,1740580577,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740653599,207403600422845,True,True,NULL,50032163,6310,ticket,1741878338,NULL,Pending data,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f25662f665d672ba0f3d84,1731931899,207403600140598,True,False,NULL,50032163,3531,ticket,1735883779,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,NULL,1742548217,207403600539629,True,False,NULL,50036651,7547,ticket,1743509330,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f263131971eb0e76df923e,1734100681,207403600202992,True,True,NULL,50032161,4973,ticket,1743408028,"""Hi, The breathing assessment is not saving and is asking me to save answers when none is required: Please fill in Please provide the name and contact details any MDT involvement for the condition Please fill in Please provide more detail (E.g. any specific instructions, oxygen flow rate, reason/mode of oxygen administration, timing, frequency, duration and direction of use, physio exercise description) Please fill in Please detail and ensure they are included in the persons allergies""",Breathing Assessment Query,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,66f257921971eb1209df275d,1740581086,207403600420616,True,False,NULL,50036651,6229,ticket,1740748766,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50023796,Customer,NULL,1742484342,207403600538707,True,False,NULL,50027232,7501,ticket,1743009104,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f26dd6f286f0258957c2b6,1742638550,207403600541751,True,False,NULL,50032161,7639,ticket,1743420934,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1741179362,207403600471477,True,False,NULL,50027232,6751,ticket,1742370531,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1740672918,207403600429915,True,False,NULL,50027232,6357,ticket,1740993340,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f259effd9d55dd7b5db0e5,1741253269,207403600474191,True,False,NULL,50032163,6661,ticket,1741605004,Resident - 1194088 Opening e.g. pre-admission checklist will cause the page to reload endlessly,Resident pathway interactions enter reloading loop,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f271508e1864530de19c21,1732102768,207403600153210,True,False,NULL,50032163,3573,ticket,1735886896,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1741182992,207403600471861,True,True,NULL,50032163,6617,ticket,1743439413,NULL,Homes missing on dashboard,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1742758059,207403600543356,True,False,NULL,50027232,7706,ticket,1742887882,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1739984177,207403600387456,True,False,NULL,50027232,6041,ticket,1740412840,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1741338299,207403600477372,True,False,NULL,50027232,6743,ticket,1741779951,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f26062f665d67e0a0ebf0f,1741865719,207403600499435,True,False,NULL,50036651,7081,ticket,1742391432,NULL,Report on archived resident timeline,resolved,Resolved,4,Resolved,ticket_state
+50023428,Customer,NULL,1743161453,207403600584911,True,True,NULL,50027232,8158,ticket,1743414886,NULL,Appointment can't be deleted,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f254e11971eb1380df09a5,1732795440,207403600178997,True,False,NULL,50032163,3759,ticket,1735837137,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,67988f98313b12e9b8289b76,1742384111,207403600535160,True,False,NULL,50036651,7405,ticket,1742849934,NULL,3 Oaks Close on the system that needs changing to 3-4 Oaks Closen Then 4 Oaks Close service archiving.,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742724678,207403600542748,True,False,NULL,50027232,7676,ticket,1743409168,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1732873334,207403600181766,True,False,NULL,50032163,3771,ticket,1737383229,NULL,Care Given - Beta | Missed interactions issue,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1739266378,207403600352241,True,False,NULL,50027232,5782,ticket,1739447307,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1743078929,207403600576061,True,False,NULL,50027232,8052,ticket,1743509678,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f268dc87696e0511370823,1740587289,207403600421075,True,False,NULL,50032163,6242,ticket,1743084516,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1742986772,207403600567045,True,True,NULL,50027232,7936,ticket,1743432434,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,NULL,1740134509,207403600391473,True,False,NULL,50032161,6074,ticket,1741021195,NULL,Pending Data,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1732703106,207403600169129,True,False,NULL,50032163,3729,ticket,1735838950,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1738593318,207403600324565,True,False,NULL,50027232,5577,ticket,1739442230,"Customer needs assistance with creating a roster based on per day rates instead of per hour/minutes, with a maximum allowed duration of 23 hours and 59 minutes.",Issue with Creating Roster for Per Day Rate,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1736248558,207403600252226,True,False,NULL,50032163,4483,ticket,1739799790,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742898552,207403600547114,True,True,NULL,50027232,8002,ticket,1743432434,AJAX HTTP error occurred,AJAX HTTP error occurred,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1732702540,207403600168735,True,False,NULL,50032163,3720,ticket,1735838893,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,6763f6fe56d6e569bada860a,1743163076,207403600585073,True,False,NULL,50036651,8149,ticket,1743265980,NULL,Setting up warnings,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,672dd2e6071def26b8a2ef12,1740071601,207403600390275,True,True,NULL,50032161,6062,ticket,1743408035,Interaction - 10498460 Interactions- 10498475 Interaction - 10498257,Delete Interactions Request - Strathtay House (STT),in_progress,In progress,2,In progress,ticket_state
+50023796,Customer,66f2b070eaf353fdbf6cc290,1742810865,207403600544368,True,True,NULL,50032163,7790,ticket,1742991926,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1741000610,207403600445028,True,False,NULL,50032163,6472,ticket,1741279580,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f252c29fa29f79420287fd,1737642972,207403600283692,True,False,NULL,50032163,5322,ticket,1738776373,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f273f48e1864a47558e6f7,1739877207,207403600381539,True,False,NULL,50036651,5955,ticket,1740323788,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1739529245,207403600368858,True,False,NULL,50027232,6228,ticket,1740580809,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1742212756,207403600527627,True,False,NULL,50032163,7262,ticket,1742303553,NULL,AD Sync stopped resulting in archive of 100 carer profiles,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1738840887,207403600331473,True,False,NULL,50032163,5669,ticket,1739202138,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f259b31971eb1724dec1b5,1742203161,207403600525361,True,True,NULL,50032163,7561,ticket,1742833221,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,NULL,1737374226,207403600267695,True,False,NULL,50032163,5870,ticket,1739450643,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1733753002,207403600197650,True,False,NULL,50032163,4046,ticket,1735857627,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1741975198,207403600517106,True,False,NULL,50027232,7243,ticket,1743409336,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1741849623,207403600498568,True,False,NULL,50027232,7060,ticket,1741856587,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,NULL,1743544932,207403600596133,True,False,NULL,50032161,8464,ticket,1744013483,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f25a617237217c7536e30b,1743778717,207403600601573,True,False,NULL,50036651,8728,ticket,1744013202,NULL,Archiving wounds,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f2623941abcb52b54b0d51,1739186618,207403600336793,True,False,NULL,50032163,5741,ticket,1739282928,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f25cfbf665d677b20f5c53,1733142752,207403600187669,True,False,NULL,50032163,3810,ticket,1735825084,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,678f9a91309c0b42f8dff721,1737982553,207403600289839,True,False,NULL,50032163,5424,ticket,1739448546,ID - 1968791947,Interaction deletion request,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1738589477,207403600324333,True,False,NULL,50032163,5582,ticket,1741785174,NULL,Device boot screen,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f2651799eb08be427bec7b,1731508430,207403600134637,True,False,NULL,50032163,3430,ticket,1735873545,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f2670c1971eb1872df026e,1738691219,207403600327466,True,False,NULL,50032163,5608,ticket,1738844657,NULL,Devices not connecting to WIFI,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,672dd2e6071def26b8a2ef11,1741604269,207403600481808,True,True,NULL,50032163,6854,ticket,1742306508,NULL,Care Plan emergency pack toggle not working after extra care plan import,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1731683326,207403600138047,True,True,NULL,50006617,3491,ticket,1733933307,"Believes payable travel time is incorrect, example is Czeslaw Jeziorski date range of october is 2 hours 9 minutes believe it should be more.",Payable Travel Time,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1738774666,207403600330399,True,False,NULL,50032163,6137,ticket,1740418032,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1732617728,207403600166219,True,False,NULL,50032163,3705,ticket,1735051491,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1739803947,207403600374388,True,False,NULL,50027232,5965,ticket,1740497395,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1742567569,207403600540759,True,False,NULL,50032163,7624,ticket,1742896660,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f252ff7237217ea236996e,1734442558,207403600205735,True,False,NULL,50032163,4110,ticket,1735823594,NULL,Wounds open with no actions,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1736277448,207403600252954,True,False,NULL,50006617,4554,ticket,1743170809,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1736435005,207403600255240,True,False,NULL,50006617,4729,ticket,1738585146,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1740748025,207403600435173,True,False,NULL,50036651,6374,ticket,1741001966,NULL,Reports page not loading,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1738922057,207403600333077,True,False,NULL,50036651,5683,ticket,1739435069,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f276f7dd6f3bee3b4327f7,1737627055,207403600282544,True,False,NULL,50032163,5302,ticket,1737719130,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25bf01971eb1600df1a0f,1737970993,207403600289192,True,False,NULL,50032163,5404,ticket,1741783384,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1738159338,207403600305181,True,False,NULL,50027232,5637,ticket,1739444503,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1741377550,207403600479208,True,False,NULL,50027232,6793,ticket,1741702549,NULL,Appointment error,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1738832639,207403600331015,True,False,NULL,50032163,5671,ticket,1739444570,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f2532841abcb56f24a7216,1738149176,207403600296838,True,False,NULL,50032163,5472,ticket,1738317100,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1733224473,207403600189703,True,False,NULL,50032163,3835,ticket,1735828532,NULL,Incorrect name on report for interaction,submitted,Submitted,1,Submitted,ticket_state
+50023427,Customer,66f2545c1971eb0fc1df08f8,1742558951,207403600540315,True,False,NULL,50032163,7631,ticket,1743420205,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1732789386,207403600178205,True,True,NULL,50006621,3778,ticket,1737031322,NULL,Profile Report Formats,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f253668e1864577de016fa,1733746090,207403600197418,True,False,NULL,50032163,3965,ticket,1735854879,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,NULL,1743081013,207403600576788,True,False,NULL,50036651,8035,ticket,1743087833,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1738774350,207403600330380,True,False,NULL,50032163,5653,ticket,1738842813,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f25c718e186451ade0d8ac,1738662089,207403600325844,True,False,NULL,50032163,8071,ticket,1743090199,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1740048525,207403600388842,True,False,NULL,50032163,8082,ticket,1743090912,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1740673105,207403600429948,True,False,NULL,50036651,6317,ticket,1740757057,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f2541399eb08bbfe7bc532,1731926292,207403600140351,True,False,NULL,50032163,3509,ticket,1735881380,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023428,Customer,NULL,1742902721,207403600553369,True,False,NULL,50027232,7854,ticket,1743169056,Carer not syncing to Birdie,Carer profile not syncing,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1736936012,207403600261451,True,False,NULL,50032163,5057,ticket,1739800258,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1742569216,207403600540852,True,False,NULL,50032163,7604,ticket,1742820652,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,67584cbe467e470e8c1d475a,1743241894,207403600587890,True,True,NULL,50032161,8216,ticket,1743364729,NULL,Importing template,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,66f26dd5f286f0258957c2ad,1740393920,207403600395023,True,False,NULL,50032163,6138,ticket,1740418281,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1743078133,207403600575743,True,True,NULL,50027232,8136,ticket,1743160150,NULL,Time off total,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,6763f6fe56d6e569bada860a,1741770764,207403600495862,True,False,NULL,50036651,6991,ticket,1741777146,NULL,Re-adding needs assessment due to mistake,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1743069444,207403600572087,True,True,NULL,50027232,8017,ticket,1743432434,Ajax Error,Ajax Error,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1740565639,207403600418786,True,False,NULL,50027232,6249,ticket,1740651887,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1741355443,207403600478406,True,False,NULL,50027232,6892,ticket,1742287201,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1742829171,207403600545831,True,False,NULL,50032163,7810,ticket,1742918637,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1733396272,207403600193274,True,False,NULL,50032163,3908,ticket,1735837309,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1739440998,207403600365570,True,False,NULL,50032163,5982,ticket,1740758974,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1742372181,207403600534161,True,False,NULL,50032163,7387,ticket,1743102406,NULL,Camascope won't work,resolved,Resolved,4,Resolved,ticket_state
+50023797,Customer,NULL,1743729529,207403600600328,True,False,NULL,50032161,8664,ticket,1743926821,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,NULL,1743838782,207403600602119,True,True,NULL,50032161,8748,ticket,1744059736,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1738076322,207403600292061,True,False,NULL,50032163,5441,ticket,1741872451,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f2526699eb08bde17b7164,1740740985,207403600434250,True,False,NULL,50032163,6363,ticket,1741789545,NULL,Web Nourish not working on IOS,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742211249,207403600527374,True,False,NULL,50027232,7315,ticket,1742572759,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f25c1c8e18644f61e0dc35,1733490988,207403600195076,True,False,NULL,50032163,3996,ticket,1736418352,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1730725219,207403600114726,True,False,NULL,50006617,5852,ticket,1739441888,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1736260330,207403600252619,True,False,NULL,50032163,4520,ticket,1739894025,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f2515bf665d6753a0f04e5,1738231071,207403600312358,True,False,NULL,50032163,5551,ticket,1738664238,All previously recorded activities for residents are no longer appearing on Nourish after an update. The search function for past activities is not displaying any data prior to a recent date.,Missing Past Activity Data on Nourish,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1737481297,207403600274153,True,False,NULL,50032163,5254,ticket,1739801799,After re-admission scheduled interaction not filling timeline,Empty Timeline,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f2a89ccd188e223b974893,1741190435,207403600472372,True,True,NULL,50006621,6650,ticket,1742215133,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1737625406,207403600282369,True,False,NULL,50027232,5357,ticket,1741009751,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1742479492,207403600538431,True,True,NULL,50032163,7622,ticket,1742904155,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1741099728,207403600466476,True,False,NULL,50027232,6621,ticket,1741962400,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,66f290af99eb08ae014862bd,1742046978,207403600520683,True,False,NULL,50032161,7197,ticket,1742214724,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1733740167,207403600197163,True,False,NULL,50032163,3949,ticket,1735854236,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f27bc8fd9d55a455992602,1741700853,207403600493967,True,False,NULL,50032163,6956,ticket,1742206451,https://seacole.nourishcare.co.uk/voyage-care+ashleigh-house#/clients/661556/instances/287080/interactions/447484984?state=admitted Assessment is not showing info - data is hidden front end,Wound assessment not displaying info,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1739797540,207403600372338,True,True,NULL,50027232,7318,ticket,1742369057,NULL,(Swallow Charity) Time off error code,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,NULL,1735576219,207403600244271,True,False,NULL,50032163,4269,ticket,1738056397,NULL,Device won't scan quick tags,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1741768862,207403600495728,True,False,NULL,50032163,6995,ticket,1741793675,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f267f27237217c45376646,1733412039,207403600193900,True,False,NULL,50032163,3905,ticket,1733743246,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1742207443,207403600526599,True,False,NULL,50032163,7260,ticket,1743093360,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f26dd3f286f0258957c297,1741272690,207403600476060,True,False,NULL,50036651,6680,ticket,1741618392,NULL,Wound care plan,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1743088901,207403600579516,True,False,NULL,50027232,8079,ticket,1743097105,Assistance with invoicing,Invoicing Issue,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1735901187,207403600248472,True,False,NULL,50032163,8068,ticket,1743089444,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1734534673,207403600207047,True,False,NULL,50027232,4162,ticket,1737375137,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,66f285a38e186408d7786c02,1740589859,207403600421216,True,False,NULL,50032161,6244,ticket,1740857630,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740404975,207403600395393,True,False,NULL,50027232,6160,ticket,1741001949,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1734534111,207403600207036,True,False,NULL,50027232,4115,ticket,1742046097,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,66f257ed41abcb53b44aba30,1742039739,207403600520347,True,False,NULL,50032161,7195,ticket,1742217696,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740124813,207403600390926,True,True,NULL,50032163,7770,ticket,1743173118,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,66f2545c1971eb0fc1df08f8,1738335085,207403600318814,True,False,NULL,50032163,5568,ticket,1741792909,Handset with ID 25772 is still flashing despite clearing data. Video evidence provided. Issue escalated to Technical Support for further investigation.,Device Flashing Issue - Ticket #25772,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,66f255be1971eb103adf1443,1741016908,207403600456264,True,False,NULL,50032163,6626,ticket,1742553867,Camascope Integration,Camascope Integration,in_progress,In progress,2,In progress,ticket_state
+50033598,Customer,66f2670c1971eb1872df026d,1743145236,207403600582448,True,False,NULL,50032161,8129,ticket,1743413456,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1737559593,207403600280445,True,False,NULL,50006617,5284,ticket,1739442230,when deleting tasks these are still visible on the mobile app.,Tasks,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1739793648,207403600372239,True,False,NULL,50027232,5959,ticket,1740412713,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1734616035,207403600212053,True,False,NULL,50006617,4139,ticket,1736345922,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f25dae082ad5e52e981038,1741287075,207403600476652,True,False,NULL,50032163,7068,ticket,1742887360,On resident dashboards,Critical information review times,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,NULL,1743255137,207403600588435,True,True,1744012800,50032161,8227,ticket,1743454334,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1733742603,207403600197278,True,False,NULL,50032163,3952,ticket,1735854456,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f268dc87696e0511370823,1737480102,207403600274018,True,False,NULL,50032163,5549,ticket,1738683655,Time not displaying on device 35435 in the top left corner as other devices do,Device 35435 Time Display Issue,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1736169950,207403600251190,True,False,NULL,50027232,4412,ticket,1736760303,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f263141971eb1908dec766,1741077876,207403600461462,True,False,NULL,50032163,6898,ticket,1743091445,NULL,Devices error,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f25cfbf665d677b20f5c53,1742399548,207403600536228,True,True,NULL,50032163,7432,ticket,1743176945,NULL,Re-admission not showing automatically,in_progress,In progress,2,In progress,ticket_state
+50030542,Customer,NULL,1743968838,207403600603595,True,True,NULL,50032161,8783,ticket,1743973532,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f252dbf665d6746f0f1444,1740582863,207403600420730,True,False,NULL,50032163,6569,ticket,1741099550,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f253668e1864577de016fa,1741076150,207403600461112,True,False,NULL,50032163,6582,ticket,1743154299,NULL,interaction repeating Pre moving in decision,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25a3b87696e019037122e,1732637294,207403600167136,True,False,NULL,50032163,5980,ticket,1741789379,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f266bbf665d680250eb729,1734006073,207403600201032,True,False,NULL,50032163,4032,ticket,1735866654,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1742736901,207403600542982,True,False,NULL,50032163,8105,ticket,1743094628,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1736859682,207403600260138,True,False,NULL,50006617,4914,ticket,1739443452,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1739356416,207403600361725,True,False,NULL,50027232,5817,ticket,1739369147,NULL,Finance rates and invoicing,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,6733576f2c194cdecc2f56c7,1737625564,207403600282391,True,False,NULL,50027232,5299,ticket,1737997238,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1742908255,207403600557523,True,True,NULL,50032163,7856,ticket,1743412679,NULL,Location region updating,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1739191430,207403600337042,True,False,NULL,50032163,8027,ticket,1743078375,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1737644988,207403600283796,True,False,NULL,50006617,5674,ticket,1740155000,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50023795,Customer,NULL,1733305645,207403600191454,True,False,NULL,50027232,4179,ticket,1736773179,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f2788561a1c01c6b36c2e1,1738231010,207403600312344,True,False,NULL,50032163,5499,ticket,1739444733,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,66f298639fa29f14a1282b3d,1731587466,207403600136032,True,False,NULL,50032163,3467,ticket,1735861315,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50032795,Customer,NULL,1740842574,207403600438754,True,False,NULL,50032161,6425,ticket,1740872694,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1739790586,207403600372141,True,False,NULL,50032163,6017,ticket,1740397643,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1739810848,207403600376537,True,False,NULL,50032161,5985,ticket,1739900475,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1740998133,207403600443678,True,False,NULL,50032163,6471,ticket,1741599441,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1738686615,207403600327342,True,False,NULL,50006617,5627,ticket,1743155533,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,NULL,1739372785,207403600363503,True,False,NULL,50032163,5835,ticket,1740644708,NULL,Does device table in analytics include device management data,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1733323795,207403600192277,True,False,NULL,50027232,4359,ticket,1736252986,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1735914930,207403600249011,True,False,NULL,50032163,4493,ticket,1738058562,Workforce,Integration,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1738231980,207403600312591,True,False,NULL,50027232,5673,ticket,1738857092,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736182868,207403600251567,True,False,NULL,50032163,4496,ticket,1738060360,Duplicates,Wounds issue,submitted,Submitted,1,Submitted,ticket_state
+50030542,Customer,NULL,1743692983,207403600599882,True,False,NULL,50036651,8638,ticket,1744013483,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,66f26dd2f286f0258957c291,1743932117,207403600603114,True,True,1744099200,50032161,8772,ticket,1744014273,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1732189609,207403600157787,True,True,NULL,50006621,3614,ticket,1735868991,NULL,Handover Not Available,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1740486503,207403600412917,True,False,NULL,50036651,6171,ticket,1740579476,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1735564186,207403600243848,True,False,NULL,50027232,4262,ticket,1736420503,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1737966625,207403600289000,True,False,NULL,50032163,5431,ticket,1741791347,Shows fine via desktop app,Interaction not displaying on mobile app,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1740469828,207403600402690,True,False,NULL,50027232,6190,ticket,1740583157,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1733152658,207403600188242,True,False,NULL,50027232,3817,ticket,1741345400,OTP codes,OTP codes,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1738153813,207403600302287,True,False,NULL,50006617,5624,ticket,1738769216,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,66f25f1cfd9d55e1b15dcf81,1737140910,207403600265679,True,False,NULL,50032163,5173,ticket,1737393757,Interaction Link - https://osjct.nourishcare.co.uk/the-orders-of-st-john-care-trust+gregory-house#/clients/40918/interactions/30041246?date=2025-01-17&amp;mine=false,Re-Admission (Emergency Admission) not working,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740664546,207403600427896,True,False,NULL,50032163,6560,ticket,1741795380,NULL,Report not showing information,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1739450854,207403600366503,True,False,NULL,50027232,5888,ticket,1740414558,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1737562844,207403600280669,True,False,NULL,50032163,5289,ticket,1738320847,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f2554487696efddb373a0b,1742898173,207403600547099,True,False,NULL,50032163,7875,ticket,1743416783,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,NULL,1737556933,207403600280159,True,False,NULL,50032161,5300,ticket,1737719886,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1735929486,207403600249321,True,False,NULL,50032163,4368,ticket,1738058562,NULL,Duplication issue,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1732186657,207403600157499,True,False,NULL,50006617,3593,ticket,1736773179,Time off applied date range goes blank for carer 11 Eliie,Time off applied date range goes blank,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1732622256,207403600166493,True,False,NULL,50027232,7564,ticket,1742556692,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740406819,207403600395446,True,False,NULL,50027232,6153,ticket,1740485731,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1739977006,207403600387023,True,False,NULL,50032163,6177,ticket,1743089380,NULL,Auto timeout,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1741171558,207403600470375,True,True,NULL,50032163,6609,ticket,1742993004,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1729601464,207403600034240,True,False,NULL,50027232,5232,ticket,1737461411,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1739273062,207403600355306,True,False,NULL,50027232,5783,ticket,1740412723,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f259461971eb1babde484f,1741537868,207403600480951,True,False,NULL,50032163,6842,ticket,1742315871,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1739889828,207403600383017,True,False,NULL,50032163,8045,ticket,1743083849,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,NULL,1743458848,207403600593503,True,False,NULL,50032161,8364,ticket,1744013484,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740056712,207403600389458,True,False,NULL,50027232,6054,ticket,1740147928,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1738088903,207403600292386,True,False,NULL,50032163,5585,ticket,1743090327,NULL,Archived care plans,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1742985965,207403600566861,True,True,NULL,50027232,7930,ticket,1743432434,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1736178280,207403600251468,True,True,NULL,50027232,4553,ticket,1743412948,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1733495390,207403600195241,True,False,NULL,50027232,4177,ticket,1736773179,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1731660374,207403600137182,True,False,NULL,50032163,3469,ticket,1735885858,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1735818618,207403600247023,True,True,NULL,50027232,4307,ticket,1742900692,Gina called in relation to the timesheets for Carer 19143 &amp; 12812 not including payments for time-off,Time-Off Payment,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f3e1c8cd188e201d6cd0ca,1738314608,207403600317144,True,True,NULL,50032163,5526,ticket,1741883899,"Incident/accident documentation filled out correctly, but no email notifications received when incidents occur. No error messages displayed. Escalation to myself and Elaine Clay not functioning as expected.",Escalation Notification Not Working,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1742215069,207403600527931,True,False,NULL,50027232,7442,ticket,1742472735,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1734008449,207403600201103,True,False,NULL,50032163,4036,ticket,1741785236,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f26dcbf286f0258957c26d,1736511341,207403600256112,True,False,NULL,50032163,5213,ticket,1737391169,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1739792413,207403600372196,True,False,NULL,0,5941,ticket,1742986536,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,66f259a499eb08b4a27c6058,1740587989,207403600421122,True,False,NULL,50036651,6243,ticket,1740653768,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,66f2545b41abcb51914a9935,1740123306,207403600390870,True,False,NULL,50032161,6067,ticket,1740471850,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f26dd5f286f0258957c2ad,1733820996,207403600198268,True,False,NULL,50032163,3976,ticket,1735853682,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1743008805,207403600570240,True,True,NULL,50027232,8042,ticket,1743170953,NULL,Company admin cannot see finance tab within appointments,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1733395010,207403600193218,True,False,NULL,50006617,3886,ticket,1739526063,NULL,Pay rate round up increments,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f251d2082ad5d81f98ba6f,1733843421,207403600199008,True,False,NULL,50032161,4544,ticket,1737051475,"Hospital - Enhanced Observations 1:1 - add 1 electronic signature box to the 1:1 form 
+ 
+ Hospital - Enhanced Observations 2:1 - 2 x elect sign to the 2:1 form 
+ 
+ Hospital - Enhanced Observations 3:1 - 3 x elect sign to the 3:1 
+ 
+ Hospital - Enhanced Observations 4:1 - 4 x elect sign to the 4:1 form",Add Signatures to enhanced obs forms,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1730904515,207403600122748,True,False,NULL,50032163,3435,ticket,1735883419,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023428,Customer,NULL,1741258783,207403600474848,True,True,NULL,50042538,7482,ticket,1743408511,NULL,Query regarding redacting clients,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,66f2605b723721805b36f91d,1743810030,207403600601971,True,False,NULL,50032161,8743,ticket,1743886007,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f25955082ad5e3029829f7,1743938079,207403600603198,True,False,NULL,50032161,8776,ticket,1744027191,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1742218551,207403600528347,True,False,NULL,50027232,7320,ticket,1742572746,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f253d341abcb5b464a06c4,1737028427,207403600263232,True,False,NULL,50032163,5068,ticket,1739801661,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50038045,Customer,673495cfff7a852caa54010f,1738339031,207403600319057,True,False,NULL,50032161,5544,ticket,1739529862,Customer reports missing interaction on person's timeline despite it being populated on 15th of January. Urgent bug raised due to significant impact on service.,Missing Interaction on Timeline,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1741335454,207403600477211,True,False,NULL,50027232,6747,ticket,1742287175,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1737638104,207403600283385,True,False,NULL,50032163,5327,ticket,1741781999,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,672cd0a0f9c5029a2619a422,1741263620,207403600475350,True,False,NULL,50036651,6666,ticket,1742289902,High warnings are set to 1 mins which results in warnings being raised close to immediately after interaction appears on timeline example - https://seacole.nourishcare.co.uk/voyage-care+milehouse-lane#/clients/733707/interactions/450567498?date=2025-03-10&amp;mine=false&amp;state=admitted Appeared on the timeline at 00:03AM due to be completed by 00:35AM It was actually completed 00:55AM (20 minutes after its planned finish time) which result in the warning being raised as the warning is set to raise if its 1 minute overdue (it would have to be completed at 00:35am as warning raises around 00:36AM),Sleep check warnings,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,66f2651599eb08be427bec63,1742921038,207403600561899,True,True,NULL,50036651,7885,ticket,1743408049,NULL,Emergency pack toggle potential issue,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1741275315,207403600476255,True,False,NULL,50027232,6692,ticket,1741345368,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,673c9dccefe12ed22e79d34e,1740952438,207403600440730,True,False,NULL,50032163,6574,ticket,1741962188,NULL,Family portal login error,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,672dd2e8071def26b8a2ef34,1743007005,207403600570111,True,True,NULL,50036651,7972,ticket,1743449018,NULL,Reviewing wounds,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,NULL,1737966944,207403600289010,True,False,NULL,50032163,5376,ticket,1741784934,NULL,Finding Info on Westerleigh 55 Repositioning interaction,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1742895752,207403600546890,True,True,NULL,50027232,7962,ticket,1743432434,Sage Export Ajax Error,Sage Export Ajax Error,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1736523247,207403600256421,True,False,NULL,50032163,4764,ticket,1736764572,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740999006,207403600444211,True,False,NULL,50032163,6478,ticket,1743435582,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740770997,207403600436820,True,False,NULL,50032163,6437,ticket,1741012701,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1736165722,207403600251056,True,False,NULL,50027232,4396,ticket,1737547701,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1731678401,207403600137889,True,False,NULL,50032163,3496,ticket,1739450106,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1740695417,207403600431498,True,False,NULL,50032163,8075,ticket,1743156025,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1739965223,207403600386243,True,False,NULL,50027232,6012,ticket,1740497395,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1739975612,207403600386917,True,False,NULL,50027232,7517,ticket,1742490296,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1739964565,207403600386192,True,False,NULL,50032163,6057,ticket,1740992962,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1733824398,207403600198377,True,False,NULL,50027232,4175,ticket,1736773179,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740737515,207403600433585,True,True,NULL,50032163,8087,ticket,1743159193,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f2658c1971eb1872def387,1737114225,207403600264720,True,False,NULL,50032163,5140,ticket,1737635062,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740999493,207403600444475,True,False,NULL,50027232,6620,ticket,1741610068,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f252f8082ad5db7798b859,1731409590,207403600131996,True,False,NULL,50032163,3458,ticket,1735869557,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,6710e4c466ae35fe5db9d65c,1733307091,207403600191537,True,False,NULL,50032163,3877,ticket,1735833510,NULL,Tracking history of personalised interactions,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1736350884,207403600253995,True,False,NULL,50032163,4595,ticket,1737543233,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741269851,207403600475851,True,False,NULL,50032163,6676,ticket,1743096213,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1731511241,207403600134740,True,False,NULL,50032163,3434,ticket,1735873847,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1732523838,207403600163830,True,False,NULL,50032163,3657,ticket,1735828052,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,NULL,1737541618,207403600278116,True,False,NULL,50032161,5261,ticket,1737558294,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1739547482,207403600369995,True,False,NULL,50032163,5967,ticket,1739893365,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1737462572,207403600269336,True,False,NULL,50032163,5874,ticket,1739451306,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1736325291,207403600253303,True,False,NULL,50027232,4548,ticket,1736760527,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1742483658,207403600538673,True,True,NULL,0,7527,ticket,1743063840,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1739010523,207403600334560,True,False,NULL,50027232,5723,ticket,1739363448,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,672dd2e8071def26b8a2ef34,1743006491,207403600570072,True,False,NULL,50036651,7969,ticket,1743364254,NULL,Night check rescheduling user error,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,NULL,1741530727,207403600480861,True,False,NULL,50032161,6828,ticket,1741554441,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1733916022,207403600199881,True,False,NULL,50027232,3994,ticket,1738602407,Collins at ambergreencare called in about medication issues on Alan K's MAR chart. Requested a Shake report from Dhrumil.,Medication issues,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1740747456,207403600435119,True,False,NULL,50027232,6745,ticket,1743182932,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1739199293,207403600337459,True,False,NULL,50027232,6021,ticket,1740412792,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1736781574,207403600258586,True,False,NULL,50027232,4846,ticket,1740047225,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f2ae481971eb78f8a77234,1733739112,207403600197124,True,False,NULL,50032163,3954,ticket,1735854141,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1743419578,207403600591988,True,True,NULL,50027232,8312,ticket,1743488750,Sage Ajax Error,Sage Ajax Error,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,672dd2e8071def26b8a2ef34,1743007005,207403600570111,True,False,NULL,50036651,7972,ticket,1743484175,NULL,Reviewing wounds,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f25b6c41abcb5d0549ffad,1740475833,207403600404116,True,True,NULL,50032163,7551,ticket,1743001829,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50023795,Customer,66fa7c71c2d0e8844bc81575,1739975133,207403600386886,True,False,NULL,50027232,6083,ticket,1742396693,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1736417722,207403600254580,True,False,NULL,50027232,4632,ticket,1738948028,Time Off Added for 2027 so can't remove.,Time Off Not Reachable,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1738924085,207403600333182,True,False,NULL,50027232,5720,ticket,1740649652,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1732874474,207403600181881,True,False,NULL,50027232,3765,ticket,1738948042,Jason at premiercw called in because they have been encountering an issue with carers being deauthenticated from the app.,Carer logged out of the app,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740140736,207403600392395,True,False,NULL,50027232,6092,ticket,1740497510,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1732098269,207403600152065,True,False,NULL,50032163,3563,ticket,1735886451,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032759,Customer,NULL,1736858859,207403600260120,True,False,NULL,50032161,4896,ticket,1740407589,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1737023666,207403600263037,True,False,NULL,50032163,5050,ticket,1737116047,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1733907327,207403600199624,True,False,NULL,50032163,4024,ticket,1735870209,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50033287,Customer,NULL,1739880373,207403600382005,True,False,NULL,50036651,5960,ticket,1740124223,NULL,Pending Data,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1734086722,207403600201814,True,False,NULL,50032163,4038,ticket,1735879178,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1741622439,207403600488966,True,False,NULL,50027232,6897,ticket,1742455162,NULL,Export appointment value different,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,66f26dd1f286f0258957c284,1740822698,207403600437878,True,False,NULL,50032161,6414,ticket,1740998382,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1742914062,207403600559968,True,False,NULL,50032163,7945,ticket,1743412935,NULL,Family portal Email link,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1737543491,207403600278496,True,False,NULL,50032163,5271,ticket,1737625211,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1736530471,207403600256559,True,False,NULL,50032163,4770,ticket,1737383222,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,672dd2e7071def26b8a2ef1d,1741781805,207403600496848,True,False,NULL,50036651,7012,ticket,1742289914,NULL,Rescheduling and Scheduling issue,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1741871305,207403600499825,True,False,NULL,50027232,7174,ticket,1742281666,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f252ff7237217ea236996e,1731514899,207403600134853,True,False,NULL,50032163,3489,ticket,1735871868,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1737124000,207403600265281,True,False,NULL,50006617,5154,ticket,1738846649,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1739963997,207403600386149,True,False,NULL,50032163,5995,ticket,1741883465,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1739133759,207403600335910,True,False,NULL,50027232,5771,ticket,1740580608,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,NULL,1743444622,207403600593266,True,True,NULL,50032161,8351,ticket,1743496405,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,66f26dd5f286f0258957c2b0,1743517899,207403600595533,True,True,1744188180,50040837,8429,ticket,1743583380,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f3e1d426d66e7e4bd72869,1737987418,207403600290083,True,False,NULL,50032161,5414,ticket,1738141933,"Interaction - 1960596277 
+ Interaction - 1960598524 
+ File - 14252002",Deletion Request,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,NULL,1740653247,207403600422824,True,False,NULL,50006615,6279,ticket,1741182185,Removing the task from appearing on appointments,Task on schedule,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,NULL,1736519611,207403600256341,True,False,NULL,50032161,4750,ticket,1737887675,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1737021902,207403600262959,True,False,NULL,50006617,5036,ticket,1739443096,"Appointment time not come back from Birdie, when attempting to save it says an error occured.",Appointment Error,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1736355069,207403600254089,True,False,NULL,50032163,4611,ticket,1738063503,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,66f2546787696efb3f374a42,1732879959,207403600182316,True,False,NULL,50032163,3784,ticket,1735843474,NULL,Unable to see a resident when creating a report,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25e2e9fa29f82c80214b3,1738570849,207403600322725,True,False,NULL,50032163,5564,ticket,1738758728,NULL,Not receiving escalation Emails,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f254b5f665d6758d0f2163,1731920221,207403600140068,True,False,NULL,50032163,3505,ticket,1731998254,Checks completed,Pending data,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f28f4df286f0a91e4befe5,1742305311,207403600532637,True,False,NULL,50036651,7334,ticket,1742958071,NULL,Device issues,waiting_on_customer,Waiting on you,3,Waiting on customer,ticket_state
+50032757,Customer,NULL,1739553518,207403600370208,True,False,NULL,50032163,5984,ticket,1743088422,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f2617a7237217a91372f00,1742309803,207403600533012,True,False,NULL,50032163,7461,ticket,1743093394,Completed previously and now missing,Missing care plans sections,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1732268446,207403600160000,True,False,NULL,50032163,3630,ticket,1735826458,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1733915366,207403600199867,True,False,NULL,50027232,4172,ticket,1736773179,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741262451,207403600475232,True,False,NULL,50032163,6662,ticket,1741865602,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742800411,207403600543668,True,False,NULL,50027232,7721,ticket,1742887582,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f2554287696efc29374f17,1738596485,207403600324788,True,False,NULL,50032163,5787,ticket,1739279325,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742318772,207403600533524,True,False,NULL,50027232,7441,ticket,1742829583,appointment errors (duplicated,appointment errors,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1734615602,207403600211943,True,False,NULL,50032163,8088,ticket,1743092252,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742307362,207403600532823,True,False,NULL,50027232,7363,ticket,1742896392,Appointment Error,Appointment Error,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1742378075,207403600534623,True,False,NULL,50027232,7431,ticket,1742829596,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1738921411,207403600333045,True,False,NULL,50027232,5693,ticket,1739265347,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1735563468,207403600243804,True,False,NULL,50027232,4282,ticket,1736421097,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030542,Customer,672dd2e7071def26b8a2ef24,1743455894,207403600593458,True,True,NULL,50032161,8361,ticket,1743496405,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030542,Customer,672dd2e8071def26b8a2ef35,1743526086,207403600595852,True,True,NULL,50032161,8445,ticket,1743534158,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f264ca99eb08b5657cb782,1732019100,207403600141961,True,False,NULL,50032163,3546,ticket,1735875680,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f279d987696eb8ceef6c22,1739375034,207403600363725,True,False,NULL,50032163,5860,ticket,1741112734,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f269e58e18645502e149b2,1736249155,207403600252254,True,False,NULL,50032163,4486,ticket,1738060361,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1735903441,207403600248607,True,False,NULL,50032161,4347,ticket,1738095138,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1734441822,207403600205713,True,False,NULL,50027232,4125,ticket,1735576778,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1724075378,207403600008651,True,False,NULL,0,2064,ticket,1737375499,50% cancellation,50% cancellation,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1735812816,207403600246710,True,False,NULL,50027232,4298,ticket,1736252901,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1742981882,207403600565766,True,True,NULL,50027232,7920,ticket,1743005199,Time Off Payments,Time Off Payments,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,672dd2e7071def26b8a2ef1d,1742933500,207403600563094,True,False,NULL,50032161,7895,ticket,1743152436,NULL,Cannot find night check,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1736779466,207403600258521,True,False,NULL,50027232,4860,ticket,1738602419,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1742738791,207403600543028,True,False,NULL,50027232,7693,ticket,1742804026,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1734099902,207403600202967,True,False,NULL,50027232,4171,ticket,1734703739,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1714643837,207403600001514,True,False,NULL,0,237,ticket,1738584744,"Carer Comfort unable to login to the app, crashing when loading and showing an error",App crashing when attempting to login,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,NULL,1742560196,207403600540373,True,False,NULL,50036651,7575,ticket,1742900651,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1736507336,207403600255990,True,False,NULL,50032163,4746,ticket,1739537870,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f27b5061a1c091481d7214,1732570884,207403600165552,True,False,NULL,50032163,3795,ticket,1735056648,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1740050567,207403600389078,True,False,NULL,50027232,6026,ticket,1741001936,NULL,Notes not showing after call attended,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1735826205,207403600247295,True,False,NULL,50006615,4602,ticket,1736423181,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2745d61a1c013c736a28c,1741164668,207403600469152,True,False,NULL,50032161,6587,ticket,1741618495,NULL,Pending Data,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1737537237,207403600277082,True,False,NULL,50027232,5354,ticket,1737995769,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50023795,Customer,NULL,1737459777,207403600269247,True,False,NULL,50027232,5241,ticket,1737972224,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1733412239,207403600193908,True,False,NULL,50032163,3907,ticket,1735836351,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1734019207,207403600201335,True,False,NULL,50032163,4028,ticket,1739462111,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f26dd1f286f0258957c286,1732269695,207403600160099,True,False,NULL,50032163,3629,ticket,1732286394,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1743414377,207403600591477,True,False,NULL,50032163,8381,ticket,1743511219,NULL,Interaction Bug,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1738342285,207403600319186,True,False,NULL,50027232,5597,ticket,1738914370,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741166199,207403600469348,True,False,NULL,50032163,8098,ticket,1743093283,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1734341468,207403600204261,True,False,NULL,0,4059,ticket,1736435272,NULL,Template copy: Rainbow Living,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1739195024,207403600337224,True,False,NULL,50006617,5754,ticket,1740387208,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1735035165,207403600237066,True,False,NULL,50006617,4215,ticket,1738846636,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1739349686,207403600360643,True,False,NULL,50027232,5833,ticket,1739784942,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1740656410,207403600424738,True,True,NULL,50027232,6318,ticket,1741270875,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f2842e87696e97e41391f1,1742653404,207403600542012,True,False,NULL,50032163,7672,ticket,1743095011,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f271f77237217eeb37b99a,1733434095,207403600194305,True,False,NULL,50032163,3957,ticket,1735838690,NULL,Device search,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1741002881,207403600445935,True,False,NULL,50032163,8104,ticket,1743094378,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1732533265,207403600164412,True,False,NULL,50006617,5839,ticket,1739381951,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f253d341abcb5b464a06c4,1736958353,207403600262195,True,False,NULL,50032163,5025,ticket,1739449406,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f2526699eb08bde17b7164,1736505971,207403600255951,True,False,NULL,50032163,4735,ticket,1736524060,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1742551821,207403600539844,True,False,NULL,50032163,7556,ticket,1743072725,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736769484,207403600258223,True,False,NULL,50032163,8077,ticket,1743163405,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f254e272372185c535e55f,1732267082,207403600159890,True,False,NULL,50032163,3628,ticket,1735826305,Nourish - Children Coordinator Nourish - Nurse,Checking history of two roles,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1737721373,207403600285711,True,False,NULL,50027232,5342,ticket,1738580029,Appointment Error on the system,Appointment Error,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1740499462,207403600415569,True,False,NULL,50036651,6184,ticket,1740756517,NULL,Care Plan role access,resolved,Resolved,4,Resolved,ticket_state
+50032795,Customer,66f2618799eb08bcbb7c07a0,1737549428,207403600279394,True,False,NULL,50032161,5275,ticket,1737970540,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1733157207,207403600188479,True,False,NULL,50032163,3839,ticket,1735828430,NULL,Tracking service management profile picture,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1740498209,207403600415393,True,False,NULL,50032163,6311,ticket,1741179926,NULL,Device error on personal device,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740047732,207403600388756,True,False,NULL,50032163,6068,ticket,1741788154,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1739452879,207403600366648,True,False,NULL,50027232,5890,ticket,1739873367,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1733911582,207403600199738,True,False,NULL,50032163,3993,ticket,1735862630,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1743077007,207403600575214,True,True,NULL,50027232,8135,ticket,1743507958,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1743003760,207403600569490,True,True,NULL,50027232,7966,ticket,1743432434,Sage Export Ajax Error,Sage Export Ajax Error,submitted,Submitted,1,Submitted,ticket_state
+50023428,Customer,NULL,1742984773,207403600566556,True,False,NULL,50027232,7978,ticket,1743075142,NULL,Timesheet error for training,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1732291788,207403600161347,True,False,NULL,50032163,3651,ticket,1735825888,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741269834,207403600475850,True,False,NULL,50032163,8150,ticket,1743163316,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741608384,207403600482026,True,False,NULL,50032163,6876,ticket,1741772389,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1732525726,207403600163904,True,False,NULL,50032163,3676,ticket,1735828498,NULL,Pending data on Device,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1732699068,207403600167840,True,False,NULL,50032163,3719,ticket,1735840064,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,6763f70456d6e569bada8662,1740929278,207403600440321,True,False,NULL,50032161,6451,ticket,1741295618,NULL,No template imported to 32 Greenburn Drive,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f26a28f665d67f0f0ef6d1,1741951757,207403600510252,True,False,NULL,50032163,7142,ticket,1742466532,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1738918421,207403600332925,True,False,NULL,50006617,5695,ticket,1739785518,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1740581230,207403600420629,True,False,NULL,50032163,6263,ticket,1741879204,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f2565bf665d67d150e944c,1740574387,207403600419962,True,False,NULL,50032163,6337,ticket,1741001292,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f254ae9fa29f83a801c526,1742548357,207403600539638,True,False,NULL,50032163,7577,ticket,1742566325,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,6793ab18ff157fbb36e1f1b4,1737728011,207403600285994,True,False,NULL,50032163,5353,ticket,1737998934,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1742384673,207403600535217,True,True,NULL,50006617,7489,ticket,1743157971,Error Unnasigning schemes,Error Unnasigning Schemes,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f2608341abcb553b4af211,1733394298,207403600193182,True,False,NULL,50032163,3891,ticket,1735836923,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1741356160,207403600478442,True,True,NULL,50032163,6794,ticket,1743414278,NULL,Device not in locked mode,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,67bc853ecb5f82435bd598c0,1742913151,207403600559629,True,True,NULL,50032161,8173,ticket,1743417959,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f26dd8f286f0258957c2d6,1741189924,207403600472328,True,False,NULL,50032163,6624,ticket,1741608328,NULL,Printing timeline PDF results in spaces between each interaction,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f26095f665d67cad0efa8c,1732789511,207403600178226,True,False,NULL,50032163,3758,ticket,1735839556,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f3ebaacd19ee9dc5369d41,1737546224,207403600278973,True,False,NULL,50032163,5401,ticket,1741783255,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1737113074,207403600264679,True,False,NULL,50032163,5142,ticket,1737132226,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023796,Customer,NULL,1737378348,207403600267839,True,False,NULL,50027232,5204,ticket,1737388341,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,672dd2e8071def26b8a2ef34,1743007005,207403600570111,True,False,NULL,50036651,7972,ticket,1743484175,NULL,Reviewing wounds,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1733326073,207403600192356,True,False,NULL,50032163,3875,ticket,1736181234,NULL,Pending Data,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f25f367237217d24371141,1741267289,207403600475655,True,True,NULL,50032283,6671,ticket,1741865753,NULL,IOS iPad web error,in_progress,In progress,2,In progress,ticket_state
+0,Customer,NULL,1736954156,207403600262061,True,True,NULL,50006621,5099,ticket,1739551066,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1742909341,207403600558076,True,True,NULL,50027232,8016,ticket,1743155439,Controcc,Controcc,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1733412077,207403600193901,True,False,NULL,50032163,3906,ticket,1739808951,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1737026625,207403600263166,True,False,NULL,50032163,5063,ticket,1742814255,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1737641885,207403600283626,True,False,NULL,50027232,5324,ticket,1738159607,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1738057199,207403600291046,True,False,NULL,50032163,8039,ticket,1743083158,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742717590,207403600542586,True,False,NULL,50027232,7689,ticket,1742823567,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f269e48e18645502e149a1,1741183048,207403600471869,True,False,NULL,50032163,6612,ticket,1741866664,NULL,Biography error message,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f29becf286f0206193d772,1741005675,207403600447472,True,False,NULL,50036651,6483,ticket,1741081832,NULL,Migrated Wounds how to close,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1731672269,207403600137670,True,False,NULL,50032163,3866,ticket,1735884462,NULL,App installation QCS,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1735588836,207403600244426,True,False,NULL,50027232,4639,ticket,1736420885,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1737372820,207403600267652,True,False,NULL,50032163,5249,ticket,1737475584,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1731924475,207403600140271,True,False,NULL,50032163,3582,ticket,1735881220,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f2cfb33a8825aa83604126,1738242830,207403600314405,True,False,NULL,50032163,5521,ticket,1739889265,NULL,Can't save staff information changes,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f26bb0082ad5d92b99ab03,1736504329,207403600255889,True,False,NULL,50032163,4726,ticket,1738063751,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,NULL,1740676190,207403600430323,True,False,NULL,50032161,6325,ticket,1740739190,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1733486204,207403600194905,True,False,NULL,50032163,3930,ticket,1735837867,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1740397939,207403600395147,True,False,NULL,50032163,6225,ticket,1741789102,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1737382385,207403600267988,True,False,NULL,50032163,5203,ticket,1737646430,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1737995658,207403600290407,True,False,NULL,50006617,5399,ticket,1739447391,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,66f2745d61a1c013c736a28c,1742753213,207403600543278,True,False,NULL,50032161,7702,ticket,1743409916,NULL,Pending Data,in_progress,In progress,2,In progress,ticket_state
+50023796,Customer,66df0ee5206fa534b916a82d,1737970163,207403600289146,True,False,NULL,50032163,5403,ticket,1742369808,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,66f255607237217a9136bbe2,1733387664,207403600192963,True,False,NULL,50032163,3960,ticket,1735832641,The documents won't upload but when converted to Word.Doc uploads fine,PDF document upload,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741618217,207403600487440,True,True,NULL,50032163,7765,ticket,1742894371,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f258501971eb189ede7956,1739542533,207403600369732,True,True,NULL,50032163,7762,ticket,1742820263,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f296251971eb83e5c82f01,1730987059,207403600125122,True,False,NULL,50032163,3528,ticket,1735879116,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f254b5f665d6758d0f2163,1733996593,207403600200731,True,False,NULL,50032163,4011,ticket,1735877712,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1736334151,207403600253517,True,False,NULL,50032163,5412,ticket,1738071518,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1734296894,207403600204051,True,False,NULL,50032163,4142,ticket,1739799897,NULL,Painchek,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1742464506,207403600537317,True,False,NULL,50006617,7565,ticket,1743082220,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1739978372,207403600387128,True,False,NULL,50032163,6029,ticket,1741783952,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1733485922,207403600194896,True,False,NULL,50032163,3933,ticket,1735837835,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023797,Customer,NULL,1730103501,207403600069072,True,False,NULL,0,3533,ticket,1737718378,Not showing extra hour on the confirm appointments page ticket with devs converting to customer ticket.,Extra Hour Visual Error,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1731410942,207403600132074,True,False,NULL,50032163,3513,ticket,1735869665,NULL,Incidents & Accidents board not showing updates,in_progress,In progress,2,In progress,ticket_state
+50032795,Customer,NULL,1741942644,207403600501213,True,False,NULL,50032161,7126,ticket,1742305172,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1730296782,207403600086960,True,True,NULL,50032163,6182,ticket,1740578939,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1741682066,207403600491406,True,False,NULL,50006617,6918,ticket,1742987507,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1737460870,207403600269287,True,False,NULL,50027232,5234,ticket,1738583340,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1739458966,207403600367102,True,False,NULL,50032163,5977,ticket,1743409895,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f259ae1971eb196fde727c,1740061327,207403600389761,True,False,NULL,50036651,6045,ticket,1740488905,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1733484452,207403600194850,True,False,NULL,50032163,3931,ticket,1735837647,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1730795590,207403600117180,True,False,NULL,50006617,5296,ticket,1737625272,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1736511864,207403600256130,True,False,NULL,50027232,4748,ticket,1738602418,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f2525f082ad5d85298c130,1739041589,207403600335004,True,False,NULL,50032161,5727,ticket,1739136401,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1741785206,207403600497062,True,True,NULL,50027232,7480,ticket,1742568820,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1741860106,207403600499038,True,False,NULL,50032163,7161,ticket,1743426953,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,NULL,1739787536,207403600372043,True,False,NULL,50032163,8297,ticket,1743496306,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25c0e99eb08b7e47c600b,1739886552,207403600382608,True,False,NULL,50032163,6174,ticket,1740487231,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1740045825,207403600388619,True,False,NULL,50027232,6020,ticket,1740676997,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1742716529,207403600542549,True,False,NULL,50027232,7674,ticket,1743409168,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032759,Customer,66f2545b41abcb51914a9935,1743248177,207403600588239,True,True,1743494400,50032161,8220,ticket,1743421128,NULL,NULL,in_progress,In progress,2,In progress,ticket_state
+50030326,Customer,66f6671e34acc51f1388ee92,1741168178,207403600469727,True,False,NULL,50036651,6588,ticket,1742390065,Archived on 12th Dec 2024 by Nourish (Superuser may have requested),Newlands road 56 archived template,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1741609794,207403600482079,True,False,NULL,50027232,6942,ticket,1743408521,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1742820950,207403600545331,True,False,NULL,50027232,7973,ticket,1743425220,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1739553323,207403600370198,True,False,NULL,50036651,5916,ticket,1739896558,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1738593165,207403600324551,True,False,NULL,50032163,5581,ticket,1739891609,in affect since the service went live last week,dashboards on new residents not displaying information,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1732279726,207403600160795,True,False,NULL,50032163,3644,ticket,1735825334,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1736339164,207403600253682,True,True,NULL,50032283,4571,ticket,1743092277,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f2554487696efddb373a0b,1739788192,207403600372065,True,False,NULL,50032163,5968,ticket,1739969313,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1736265895,207403600252785,True,False,NULL,50027232,4538,ticket,1737133694,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1732460938,207403600163314,True,False,NULL,50032163,3672,ticket,1735826483,NULL,Scheduling,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1743071962,207403600572394,True,False,NULL,50027232,8009,ticket,1743156669,Birdie Integration,Birdie Integration,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1742910195,207403600558446,True,True,NULL,50027232,7916,ticket,1743164583,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1737022068,207403600262967,True,False,NULL,50032163,5062,ticket,1739801403,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1740745050,207403600434844,True,False,NULL,50027232,6399,ticket,1741072974,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1736406901,207403600254393,True,False,NULL,50006617,4621,ticket,1739442681,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f3c60e063bca2bc1ac3bed,1733219617,207403600189277,True,False,NULL,50032163,3843,ticket,1735827680,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1742315155,207403600533364,True,False,NULL,50027232,7394,ticket,1742829484,"Visual error, showing as assigned to call on this page when clicking on this",Call & Care Monitoring,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1735911491,207403600248883,True,False,NULL,50027232,4355,ticket,1736759854,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1737046167,207403600263727,True,False,NULL,50032163,5166,ticket,1737628589,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741953262,207403600511233,True,False,NULL,50032163,7147,ticket,1743497482,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50033598,Customer,672dd2e9071def26b8a2ef4e,1743442336,207403600593228,True,True,1743667200,50032161,8348,ticket,1743595311,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f2805edd6f3ba6102b4d61,1734433659,207403600205488,True,False,NULL,50032163,4101,ticket,1738064194,NULL,Bowel Alarm set up,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1741352157,207403600478245,True,False,NULL,50027232,6763,ticket,1742396638,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f262b699eb08b6117ca205,1742808367,207403600544090,True,False,NULL,50032163,8003,ticket,1743074136,NULL,Wound pictures not viewable on interactions,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1742483402,207403600538659,True,True,NULL,50006617,7512,ticket,1742819463,Scheme Not available - time off contained within this range,Scheme Not Available,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1741254142,207403600474286,True,False,NULL,50027232,6746,ticket,1741713796,Caching issues leading to wrong tool tip displayed.,Caching Issues,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1736169454,207403600251178,True,False,NULL,50032163,4460,ticket,1739462792,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740696424,207403600431529,True,False,NULL,50027232,6342,ticket,1740742076,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1740048495,207403600388839,True,False,NULL,50032163,6024,ticket,1743078967,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1742728917,207403600542832,True,False,NULL,50027232,7831,ticket,1743409348,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023427,Customer,66f253437237217c4536a6eb,1732558427,207403600165412,True,False,NULL,50032163,3709,ticket,1735828893,NULL,Profile picture upload,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1719907531,207403600005397,True,False,NULL,50006615,1345,ticket,1732887876,Stephen called in because they noticed this morning that a colon in a clients surname was showing the code instead of the symbol.,Symbol code displaying in clients name,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66f2576e87696efc69375cf8,1741360758,207403600478687,True,False,NULL,50032163,6762,ticket,1742396619,"It has been confirmed this happened due to multiple people attempting to connect from the same IP with invalid login tokens. ​(If someone tries to log in with correct credentials, but an invalid authenticity token, they get an error. This could happen if they’ve left the app logged in for an extremely long time and their authenticity token has expired. If multiple of these happen within a short period of time on the same IP it can appear as an attack and the IP is blocked for a short period of time)",Blocked error message,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f2683b41abcb5b944a9ede,1742204010,207403600525636,True,False,NULL,50032163,8091,ticket,1743092831,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1740691500,207403600431302,True,False,NULL,50027232,6339,ticket,1741083178,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030542,Customer,NULL,1741198304,207403600472820,True,False,NULL,50032161,6633,ticket,1741212935,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,66f279d987696eb8ceef6c22,1740586889,207403600421046,True,False,NULL,50032163,6250,ticket,1740987914,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1734429938,207403600205328,True,False,NULL,50027232,4133,ticket,1734610715,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1742560614,207403600540394,True,False,NULL,50027232,7866,ticket,1743009091,Time Off Scheme Date,Time Off Scheme Date,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1738342464,207403600319194,True,False,NULL,50027232,5575,ticket,1738841781,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1743513287,207403600595263,True,True,NULL,50027232,8439,ticket,1743611312,NULL,OTP device show decode error,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1737969997,207403600289138,True,False,NULL,50027232,5408,ticket,1739174604,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1737036549,207403600263506,True,False,NULL,50027232,5102,ticket,1738579301,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1742477930,207403600538332,True,True,NULL,0,7485,ticket,1743063840,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032795,Customer,NULL,1736773180,207403600258334,True,False,NULL,50032161,4855,ticket,1736878276,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,672dd2e8071def26b8a2ef2e,1742309246,207403600532982,True,False,NULL,50036651,7351,ticket,1742391835,NULL,How to archive resident profile,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,66fa6d69b460c485c56b06f4,1742814857,207403600544828,True,False,NULL,50036651,7747,ticket,1743152410,NULL,Slow login,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1734014657,207403600201250,True,False,NULL,50032163,4026,ticket,1735862039,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f262728e1864552fe0fa4e,1738207659,207403600310291,True,False,NULL,50032163,5487,ticket,1739887861,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1742546718,207403600539565,True,True,NULL,0,7598,ticket,1743063840,NULL,Dashboard missing information,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1741017587,207403600456564,True,False,NULL,50027232,6518,ticket,1741692066,NULL,Blank invoice,submitted,Submitted,1,Submitted,ticket_state
+50033598,Customer,66f26dd6f286f0258957c2c1,1742683222,207403600542332,True,False,NULL,50032161,7656,ticket,1742975283,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1741554481,207403600481116,True,False,NULL,50027232,6905,ticket,1741776018,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,66f26ad887696efbe23806b8,1741177470,207403600471244,True,False,NULL,50032163,6607,ticket,1741359250,NULL,Service management template copy,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1741255568,207403600474448,True,False,NULL,50027232,6655,ticket,1741260384,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1742316670,207403600533439,True,False,NULL,50032163,8094,ticket,1743092984,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f2554487696efddb373a0b,1742529745,207403600539383,True,True,NULL,0,7542,ticket,1743063840,NULL,Dashboard data showing incorrect,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1741360435,207403600478662,True,False,NULL,50032163,6832,ticket,1743096416,New laptop access,Device management,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,NULL,1735809705,207403600246543,True,False,NULL,50032163,6695,ticket,1743084083,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f27b8ca85f7270f59a606d,1734541211,207403600207183,True,False,NULL,50032163,4167,ticket,1735824724,All devices at the gables,Data not displaying on devices,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1729243216,207403600030495,True,False,NULL,0,5978,ticket,1741882793,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1742848445,207403600546378,True,False,NULL,50032163,8106,ticket,1743094738,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25a1787696ef9393786cf,1730908838,207403600122982,True,False,NULL,50032163,5525,ticket,1741783840,"Allergies and resident profiles are disappearing from eMAR after interactions in Nourish, specifically hospital admissions. This issue requires investigation and resolution by the technical services team.",Integration Issue with eMAR and Nourish,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1743452677,207403600593404,True,True,NULL,50027232,8362,ticket,1743495763,NULL,Xero export error,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1740739918,207403600434048,True,False,NULL,50032163,6691,ticket,1743416804,Kicked to handover notes,Can't update timeline,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741008273,207403600448082,True,False,NULL,50032163,6485,ticket,1741102049,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f296251971eb83e5c82f01,1737390451,207403600268217,True,True,NULL,50032163,5615,ticket,1743415689,NULL,Circle of care can't access platform,in_progress,In progress,2,In progress,ticket_state
+50032757,Customer,66f257b79fa29f82c801e5f2,1732108515,207403600154148,True,False,NULL,50032163,3590,ticket,1735887413,NULL,Document upload error,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f26273f286f0301957681d,1740049259,207403600388907,True,False,NULL,50032163,6697,ticket,1742300599,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741957177,207403600513049,True,True,NULL,50032163,7927,ticket,1743182194,permissions not reflecting correctly,permissions not reflecting correctly,submitted,Submitted,1,Submitted,ticket_state
+50021565,Customer,NULL,1739045610,207403600335063,True,True,NULL,0,5732,ticket,1739554300,To keep open so we can communicate around the issue,Network connection problems,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1740568024,207403600419150,True,False,NULL,50027232,6204,ticket,1741781744,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023835,Customer,NULL,1735634719,207403600244670,True,False,NULL,50006617,6270,ticket,1740733232,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1730720848,207403600114158,True,False,NULL,50027232,4450,ticket,1742577210,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f26273f286f0301957681d,1740154370,207403600392939,True,False,NULL,50032163,6698,ticket,1742231000,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,66f25f1f1971eb11c0df6734,1733163414,207403600188608,True,False,NULL,50032163,3831,ticket,1736956306,NULL,PDF File upload error,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1731933243,207403600140638,True,False,NULL,50006617,3517,ticket,1741692022,"Charolotte at helpathomemedway called in because carers time off wasn't appearing on their timesheets. This was because the time off type was set to Do not pay. This was an automatic set up from when they received the update, so will get written confirmation from them and amend the issue on my end.",Time off not on timesheets,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,NULL,1737718428,207403600285590,True,False,NULL,50032163,5340,ticket,1743094542,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1735574418,207403600244227,True,True,NULL,50006617,4272,ticket,1742292148,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50030326,Customer,NULL,1732015242,207403600141803,True,False,NULL,50032163,3536,ticket,1739897429,NULL,Help Centre Access Issue,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1729686662,207403600035606,True,True,NULL,50032163,3483,ticket,1743187636,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,66f27b5061a1c091481d7214,1739288775,207403600358555,True,False,NULL,50032163,5999,ticket,1741788139,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1737377479,207403600267808,True,False,NULL,50032163,5197,ticket,1739193736,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1741965234,207403600515552,True,False,NULL,50032163,7592,ticket,1743095030,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1736932998,207403600261334,True,False,NULL,50027232,4987,ticket,1737997247,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1741347375,207403600477966,True,False,NULL,50032163,6781,ticket,1743496941,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1743495199,207403600593989,True,True,NULL,50027232,8396,ticket,1743505733,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023507,Customer,NULL,1715865426,207403600002381,True,False,NULL,50027232,5310,ticket,1737638101,Tooltip displaying displaying incorrectly.,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1727177771,207403600011673,True,False,NULL,50032163,8172,ticket,1743177179,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1733756892,207403600197763,True,False,NULL,50032163,8073,ticket,1743090318,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032951,Customer,NULL,1741006516,207403600447681,True,False,NULL,50027232,6715,ticket,1741602724,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032853,Customer,NULL,1737626616,207403600282489,True,False,NULL,50032163,5308,ticket,1743078411,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f25c1e99eb08b8737c57ed,1731077307,207403600127265,True,True,1746000000,50032163,8151,ticket,1743422778,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032853,Customer,66f25ba91971eb0e76df4ea1,1743065853,207403600571631,True,False,NULL,50032163,8126,ticket,1743428955,https://org.nourishcare.co.uk/affinity+oak-road#/clients/452531/careplan/client_categories/828874/client_subcategories/5436884?state=admitted,Cannot edit name of care plan page,resolved,Resolved,4,Resolved,ticket_state
+0,Customer,66f282d0a85f725600e897cc,1733748637,207403600197496,True,True,NULL,50006621,3966,ticket,1735830230,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1734519776,207403600206665,True,False,NULL,50027232,4124,ticket,1738599726,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1739269535,207403600353903,True,False,NULL,50032163,5997,ticket,1741795904,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,NULL,1740151664,207403600392846,True,False,NULL,50027232,6125,ticket,1741190993,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1732029017,207403600145477,True,False,NULL,50027232,4220,ticket,1736512815,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023835,Customer,66f26273f286f0301957681d,1740559896,207403600417722,True,False,NULL,50032163,6699,ticket,1742300573,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50030326,Customer,NULL,1734696365,207403600224243,True,False,NULL,50032161,4158,ticket,1735829981,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1733318143,207403600192039,True,False,NULL,50027232,4178,ticket,1736773179,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1741356486,207403600478450,True,False,NULL,50027232,6767,ticket,1742308538,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,NULL,1742472199,207403600537992,True,False,NULL,50032163,7545,ticket,1743009881,can't complete interaction,Wound error,resolved,Resolved,4,Resolved,ticket_state
+50023507,Customer,NULL,1742980353,207403600565319,True,True,NULL,50027232,8184,ticket,1743432434,NULL,Xero export error,submitted,Submitted,1,Submitted,ticket_state
+50023795,Customer,NULL,1733739678,207403600197145,True,False,NULL,50027232,4197,ticket,1735835088,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50032757,Customer,66f26dd2f286f0258957c291,1736691035,207403600257467,True,False,NULL,50032163,4955,ticket,1739449146,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50023796,Customer,NULL,1737115689,207403600264766,True,False,NULL,50027232,5150,ticket,1737375091,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032951,Customer,NULL,1741348553,207403600478042,True,False,NULL,50006617,6750,ticket,1742282604,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+0,Customer,NULL,1737157628,207403600265821,True,True,NULL,50039421,5184,ticket,1739529180,NULL,NULL,submitted,Submitted,1,Submitted,ticket_state
+50032757,Customer,NULL,1738343971,207403600319237,True,False,NULL,50032163,5907,ticket,1739542519,NULL,NULL,resolved,Resolved,4,Resolved,ticket_state
+50023795,Customer,NULL,1743089751,207403600579713,True,True,NULL,50027232,8089,ticket,1743519905,Client Locations,Client Locations,submitted,Submitted,1,Submitted,ticket_state

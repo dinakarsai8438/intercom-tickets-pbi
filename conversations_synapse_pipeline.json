@@ -1,0 +1,1073 @@
+{
+    "name": "01- Incremental Load",
+    "properties": {
+        "activities": [
+            {
+                "name": "Lookup watermark",
+                "type": "Lookup",
+                "dependsOn": [
+                    {
+                        "activity": "Delete incremental conversation_ids_list",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    },
+                    {
+                        "activity": "Delete incremental raw json",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "AzureSqlSource",
+                        "sqlReaderQuery": "select timestamp_updated_at from watermark",
+                        "queryTimeout": "02:00:00",
+                        "partitionOption": "None"
+                    },
+                    "dataset": {
+                        "referenceName": "DynamicInternal_SqlTable",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "table_name": "watermark",
+                            "schema_name": "dbo",
+                            "db_name": "intercom"
+                        }
+                    },
+                    "firstRowOnly": false
+                }
+            },
+            {
+                "name": "set watermark variable",
+                "type": "SetVariable",
+                "dependsOn": [
+                    {
+                        "activity": "Lookup watermark",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "variableName": "updated_at_timestamp",
+                    "value": {
+                        "value": "@activity('Lookup watermark').output.value[0].timestamp_updated_at\n",
+                        "type": "Expression"
+                    }
+                }
+            },
+            {
+                "name": "Copy ids from conversations table",
+                "type": "Copy",
+                "dependsOn": [
+                    {
+                        "activity": "set watermark variable",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "AzureSqlSource",
+                        "sqlReaderQuery": {
+                            "value": "@concat('SELECT id\nFROM dbo.',pipeline().parameters.entity_name,'\nWHERE updated_at >=', variables('updated_at_timestamp'),';')",
+                            "type": "Expression"
+                        },
+                        "queryTimeout": "02:00:00",
+                        "partitionOption": "None"
+                    },
+                    "sink": {
+                        "type": "JsonSink",
+                        "storeSettings": {
+                            "type": "AzureBlobFSWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "JsonWriteSettings"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "DynamicInternal_SqlTable",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "table_name": "conversations",
+                            "schema_name": "dbo",
+                            "db_name": "intercom"
+                        }
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "Json_adls_sink",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "folder_name": "incremental_conversation_ids_list",
+                            "container_name": "intercom-conversation-history"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Delete incremental conversation_ids_list",
+                "type": "Delete",
+                "dependsOn": [
+                    {
+                        "activity": "Copy to archive",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_conversation_ids_list",
+                            "container_name": "intercom-conversation-history"
+                        }
+                    },
+                    "enableLogging": false,
+                    "storeSettings": {
+                        "type": "AzureBlobFSReadSettings",
+                        "recursive": true,
+                        "wildcardFileName": "*",
+                        "enablePartitionDiscovery": false
+                    }
+                }
+            },
+            {
+                "name": "Copy to archive",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobFSReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "sink": {
+                        "type": "JsonSink",
+                        "storeSettings": {
+                            "type": "AzureBlobFSWriteSettings",
+                            "copyBehavior": "MergeFiles"
+                        },
+                        "formatSettings": {
+                            "type": "JsonWriteSettings"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_raw_json",
+                            "container_name": "intercom-conversation-history"
+                        }
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "Json_adls_sink",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "folder_name": "incremental_archive",
+                            "container_name": "intercom-conversation-history"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Delete incremental raw json",
+                "type": "Delete",
+                "dependsOn": [
+                    {
+                        "activity": "Copy to archive",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_raw_json",
+                            "container_name": "intercom-conversation-history"
+                        }
+                    },
+                    "enableLogging": false,
+                    "storeSettings": {
+                        "type": "AzureBlobFSReadSettings",
+                        "recursive": true,
+                        "wildcardFileName": "*",
+                        "enablePartitionDiscovery": false
+                    }
+                }
+            },
+            {
+                "name": "incremental API to json",
+                "type": "SynapseNotebook",
+                "dependsOn": [
+                    {
+                        "activity": "incremental conversation ids array",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "notebook": {
+                        "referenceName": "incremental API to Json",
+                        "type": "NotebookReference"
+                    },
+                    "parameters": {
+                        "Base_URL": {
+                            "value": {
+                                "value": "@pipeline().parameters.Base_URL",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        },
+                        "entity_name": {
+                            "value": {
+                                "value": "@pipeline().parameters.entity_name",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        },
+                        "Authorization": {
+                            "value": {
+                                "value": "@pipeline().parameters.Authorization",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        },
+                        "Intercom_Version": {
+                            "value": {
+                                "value": "@pipeline().parameters.Intercom_Version",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        }
+                    },
+                    "snapshot": true,
+                    "conf": {
+                        "spark.dynamicAllocation.enabled": null,
+                        "spark.dynamicAllocation.minExecutors": null,
+                        "spark.dynamicAllocation.maxExecutors": null
+                    },
+                    "numExecutors": null
+                }
+            },
+            {
+                "name": "incremental json to parquet",
+                "type": "SynapseNotebook",
+                "dependsOn": [
+                    {
+                        "activity": "incremental API to json",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "notebook": {
+                        "referenceName": "incremental Json to Parquet",
+                        "type": "NotebookReference"
+                    },
+                    "snapshot": true,
+                    "conf": {
+                        "spark.dynamicAllocation.enabled": null,
+                        "spark.dynamicAllocation.minExecutors": null,
+                        "spark.dynamicAllocation.maxExecutors": null
+                    },
+                    "numExecutors": null
+                }
+            },
+            {
+                "name": "Lookup incremental ddl",
+                "type": "Lookup",
+                "dependsOn": [
+                    {
+                        "activity": "ForEach table",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobFSReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*.json",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_ddl",
+                            "container_name": "intercom-conversation-history"
+                        }
+                    },
+                    "firstRowOnly": false
+                }
+            },
+            {
+                "name": "incremental ddl array",
+                "type": "SetVariable",
+                "dependsOn": [
+                    {
+                        "activity": "Lookup incremental ddl",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "variableName": "incremental_ddl",
+                    "value": {
+                        "value": "@json(activity('Lookup incremental ddl').output.value[0]._corrupt_record)",
+                        "type": "Expression"
+                    }
+                }
+            },
+            {
+                "name": "execute each Alter Table ddl",
+                "type": "ForEach",
+                "dependsOn": [
+                    {
+                        "activity": "incremental ddl array",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "items": {
+                        "value": "@variables('incremental_ddl')",
+                        "type": "Expression"
+                    },
+                    "batchCount": 50,
+                    "activities": [
+                        {
+                            "name": "execute Alter Table ddl",
+                            "type": "Script",
+                            "dependsOn": [],
+                            "policy": {
+                                "timeout": "0.12:00:00",
+                                "retry": 0,
+                                "retryIntervalInSeconds": 30,
+                                "secureOutput": false,
+                                "secureInput": false
+                            },
+                            "userProperties": [],
+                            "linkedServiceName": {
+                                "referenceName": "LS_DynamicNourishDB",
+                                "type": "LinkedServiceReference",
+                                "parameters": {
+                                    "paramServerName": "nourish-internal.database.windows.net",
+                                    "paramLSDBName": "intercom"
+                                }
+                            },
+                            "typeProperties": {
+                                "scripts": [
+                                    {
+                                        "type": "Query",
+                                        "text": {
+                                            "value": "@item()",
+                                            "type": "Expression"
+                                        }
+                                    }
+                                ],
+                                "scriptBlockExecutionTimeout": "02:00:00"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Get incremental parquet folders",
+                "type": "GetMetadata",
+                "dependsOn": [
+                    {
+                        "activity": "execute each Alter Table ddl",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "dataset": {
+                        "referenceName": "Binary_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "folder_name": "incremental_conversation_history_parquet",
+                            "container_name": "intercom-conversation-history",
+                            "file_name": "*.*"
+                        }
+                    },
+                    "fieldList": [
+                        "childItems"
+                    ],
+                    "storeSettings": {
+                        "type": "AzureBlobFSReadSettings",
+                        "recursive": true,
+                        "enablePartitionDiscovery": false
+                    },
+                    "formatSettings": {
+                        "type": "BinaryReadSettings"
+                    }
+                }
+            },
+            {
+                "name": "ForEach incremental parquet array",
+                "type": "ForEach",
+                "dependsOn": [
+                    {
+                        "activity": "Get incremental parquet folders",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "items": {
+                        "value": "@activity('Get incremental parquet folders').output.childItems",
+                        "type": "Expression"
+                    },
+                    "batchCount": 50,
+                    "activities": [
+                        {
+                            "name": "incremental Copy from parquet to db",
+                            "type": "Copy",
+                            "dependsOn": [],
+                            "policy": {
+                                "timeout": "0.12:00:00",
+                                "retry": 0,
+                                "retryIntervalInSeconds": 30,
+                                "secureOutput": false,
+                                "secureInput": false
+                            },
+                            "userProperties": [],
+                            "typeProperties": {
+                                "source": {
+                                    "type": "ParquetSource",
+                                    "storeSettings": {
+                                        "type": "AzureBlobFSReadSettings",
+                                        "recursive": true,
+                                        "wildcardFileName": "*.parquet",
+                                        "enablePartitionDiscovery": false
+                                    },
+                                    "formatSettings": {
+                                        "type": "ParquetReadSettings"
+                                    }
+                                },
+                                "sink": {
+                                    "type": "AzureSqlSink",
+                                    "writeBehavior": "insert",
+                                    "sqlWriterUseTableLock": false
+                                },
+                                "enableStaging": false,
+                                "translator": {
+                                    "type": "TabularTranslator",
+                                    "typeConversion": true,
+                                    "typeConversionSettings": {
+                                        "allowDataTruncation": true,
+                                        "treatBooleanAsNumber": false
+                                    }
+                                }
+                            },
+                            "inputs": [
+                                {
+                                    "referenceName": "Parquet_adls",
+                                    "type": "DatasetReference",
+                                    "parameters": {
+                                        "folder_name": {
+                                            "value": "@concat('incremental_conversation_history_parquet/',item().name)",
+                                            "type": "Expression"
+                                        },
+                                        "file_name": "*.*",
+                                        "container_name": "intercom-conversation-history"
+                                    }
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "referenceName": "DynamicInternal_SqlTable",
+                                    "type": "DatasetReference",
+                                    "parameters": {
+                                        "table_name": "@item().name",
+                                        "schema_name": "dbo",
+                                        "db_name": "intercom"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "fetch all conversation history tables",
+                "type": "Script",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "linkedServiceName": {
+                    "referenceName": "LS_DynamicNourishDB",
+                    "type": "LinkedServiceReference",
+                    "parameters": {
+                        "paramServerName": "nourish-internal.database.windows.net",
+                        "paramLSDBName": "intercom"
+                    }
+                },
+                "typeProperties": {
+                    "scripts": [
+                        {
+                            "type": "Query",
+                            "text": "SELECT TABLE_NAME\r\nFROM INFORMATION_SCHEMA.TABLES\r\nWHERE TABLE_SCHEMA = 'dbo'\r\n  AND TABLE_NAME LIKE 'conversation_history_%';\r\n"
+                        }
+                    ],
+                    "scriptBlockExecutionTimeout": "02:00:00"
+                }
+            },
+            {
+                "name": "ForEach table",
+                "type": "ForEach",
+                "dependsOn": [
+                    {
+                        "activity": "fetch all conversation history tables",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    },
+                    {
+                        "activity": "incremental json to parquet",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "items": {
+                        "value": "@activity('fetch all conversation history tables').output.resultSets[0].rows\n",
+                        "type": "Expression"
+                    },
+                    "batchCount": 50,
+                    "activities": [
+                        {
+                            "name": "delete ids from all tables",
+                            "type": "Script",
+                            "dependsOn": [],
+                            "policy": {
+                                "timeout": "0.12:00:00",
+                                "retry": 0,
+                                "retryIntervalInSeconds": 30,
+                                "secureOutput": false,
+                                "secureInput": false
+                            },
+                            "userProperties": [],
+                            "linkedServiceName": {
+                                "referenceName": "LS_DynamicNourishDB",
+                                "type": "LinkedServiceReference",
+                                "parameters": {
+                                    "paramServerName": "nourish-internal.database.windows.net",
+                                    "paramLSDBName": "intercom"
+                                }
+                            },
+                            "typeProperties": {
+                                "scripts": [
+                                    {
+                                        "type": "Query",
+                                        "text": {
+                                            "value": "@concat('DELETE FROM dbo.', item().TABLE_NAME, ' WHERE __id__ IN (''', join(variables('capture_ids'), ''','''), ''')')",
+                                            "type": "Expression"
+                                        }
+                                    }
+                                ],
+                                "scriptBlockExecutionTimeout": "02:00:00"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Lookup incremental conversation ids",
+                "type": "Lookup",
+                "dependsOn": [
+                    {
+                        "activity": "Copy ids from conversations table",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobFSReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*.json",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_conversation_ids_list",
+                            "container_name": "intercom-conversation-history"
+                        }
+                    },
+                    "firstRowOnly": false
+                }
+            },
+            {
+                "name": "incremental conversation ids array",
+                "type": "SetVariable",
+                "dependsOn": [
+                    {
+                        "activity": "Lookup incremental conversation ids",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "variableName": "capture_ids",
+                    "value": {
+                        "value": "@array(activity('Lookup incremental conversation ids').output.value)\n",
+                        "type": "Expression"
+                    }
+                }
+            },
+            {
+                "name": "update latest updated at from conversation table",
+                "type": "SqlServerStoredProcedure",
+                "dependsOn": [
+                    {
+                        "activity": "ForEach incremental parquet array",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "storedProcedureName": "[dbo].[UpdateWatermark]"
+                },
+                "linkedServiceName": {
+                    "referenceName": "LS_DynamicNourishDB",
+                    "type": "LinkedServiceReference",
+                    "parameters": {
+                        "paramServerName": "nourish-internal.database.windows.net",
+                        "paramLSDBName": "intercom"
+                    }
+                }
+            },
+            {
+                "name": "Failure Teams Alert",
+                "type": "ExecutePipeline",
+                "dependsOn": [
+                    {
+                        "activity": "Wait1",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "pipeline": {
+                        "referenceName": "Teams Notifications",
+                        "type": "PipelineReference"
+                    },
+                    "waitOnCompletion": true,
+                    "parameters": {
+                        "paramRunId": {
+                            "value": "@pipeline().RunId",
+                            "type": "Expression"
+                        },
+                        "paramPipelineName": {
+                            "value": "@pipeline().Pipeline",
+                            "type": "Expression"
+                        },
+                        "paramTriggerTime": {
+                            "value": "@pipeline().TriggerTime",
+                            "type": "Expression"
+                        },
+                        "paramStatus": {
+                            "value": "Failed",
+                            "type": "Expression"
+                        },
+                        "paramExecutionEndTime": {
+                            "value": "@utcNow()",
+                            "type": "Expression"
+                        },
+                        "paramRunDuration": {
+                            "value": "blank",
+                            "type": "Expression"
+                        },
+                        "paramTitle": "Intercom Conversation History"
+                    }
+                }
+            },
+            {
+                "name": "Success Teams Alert",
+                "type": "ExecutePipeline",
+                "dependsOn": [
+                    {
+                        "activity": "update latest updated at from conversation table",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "pipeline": {
+                        "referenceName": "Teams Notifications",
+                        "type": "PipelineReference"
+                    },
+                    "waitOnCompletion": true,
+                    "parameters": {
+                        "paramRunId": {
+                            "value": "@pipeline().RunId",
+                            "type": "Expression"
+                        },
+                        "paramPipelineName": {
+                            "value": "@pipeline().Pipeline",
+                            "type": "Expression"
+                        },
+                        "paramTriggerTime": {
+                            "value": "@pipeline().TriggerTime",
+                            "type": "Expression"
+                        },
+                        "paramStatus": {
+                            "value": "Succeeded",
+                            "type": "Expression"
+                        },
+                        "paramExecutionEndTime": {
+                            "value": "@utcNow()",
+                            "type": "Expression"
+                        },
+                        "paramRunDuration": {
+                            "value": "blank",
+                            "type": "Expression"
+                        },
+                        "paramTitle": "Intercom Conversation History"
+                    }
+                }
+            },
+            {
+                "name": "Wait1",
+                "type": "Wait",
+                "dependsOn": [
+                    {
+                        "activity": "Copy to archive",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Delete incremental conversation_ids_list",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Delete incremental raw json",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Lookup watermark",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "set watermark variable",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Copy ids from conversations table",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Lookup incremental conversation ids",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "incremental conversation ids array",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "incremental API to json",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "incremental json to parquet",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "fetch all conversation history tables",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "ForEach table",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Lookup incremental ddl",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "incremental ddl array",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "execute each Alter Table ddl",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Get incremental parquet folders",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "ForEach incremental parquet array",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "update latest updated at from conversation table",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "waitTimeInSeconds": 1
+                }
+            }
+        ],
+        "parameters": {
+            "Base_URL": {
+                "type": "string",
+                "defaultValue": "https://api.eu.intercom.io/"
+            },
+            "entity_name": {
+                "type": "string",
+                "defaultValue": "conversations"
+            },
+            "Authorization": {
+                "type": "string",
+                "defaultValue": "Bearer dG9rOmUyZDMzNGVlX2ZkNDdfNGNiZl9iNWNlXzdkMDZhZWY3Y2M4YToxOjA6ZXUtd2VzdC0x"
+            },
+            "Intercom_Version": {
+                "type": "string",
+                "defaultValue": "2.11"
+            }
+        },
+        "variables": {
+            "updated_at_timestamp": {
+                "type": "Integer"
+            },
+            "incremental_ddl": {
+                "type": "Array",
+                "defaultValue": []
+            },
+            "table_name": {
+                "type": "String"
+            },
+            "sample": {
+                "type": "Array"
+            },
+            "capture_ids": {
+                "type": "Array",
+                "defaultValue": []
+            },
+            "ddl_0": {
+                "type": "Integer"
+            }
+        },
+        "folder": {
+            "name": "Conversation History"
+        },
+        "annotations": []
+    }
+}

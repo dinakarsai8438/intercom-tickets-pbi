@@ -1,0 +1,1060 @@
+{
+    "name": "02- Intercom Tickets Incremental Load",
+    "properties": {
+        "activities": [
+            {
+                "name": "Copy to archive",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobFSReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "sink": {
+                        "type": "JsonSink",
+                        "storeSettings": {
+                            "type": "AzureBlobFSWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "JsonWriteSettings"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_raw_json",
+                            "container_name": "intercom-tickets"
+                        }
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "Json_adls_sink",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "folder_name": "incremental_archive",
+                            "container_name": "intercom-tickets"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Delete ticket ids",
+                "type": "Delete",
+                "dependsOn": [
+                    {
+                        "activity": "Copy to archive",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_ticket_ids_list",
+                            "container_name": "intercom-tickets"
+                        }
+                    },
+                    "enableLogging": false,
+                    "storeSettings": {
+                        "type": "AzureBlobFSReadSettings",
+                        "recursive": true,
+                        "wildcardFileName": "*",
+                        "enablePartitionDiscovery": false
+                    }
+                }
+            },
+            {
+                "name": "Delete all raw json",
+                "type": "Delete",
+                "dependsOn": [
+                    {
+                        "activity": "Copy to archive",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_raw_json",
+                            "container_name": "intercom-tickets"
+                        }
+                    },
+                    "enableLogging": false,
+                    "storeSettings": {
+                        "type": "AzureBlobFSReadSettings",
+                        "recursive": true,
+                        "wildcardFileName": "*",
+                        "enablePartitionDiscovery": false
+                    }
+                }
+            },
+            {
+                "name": "Lookup watermark",
+                "type": "Lookup",
+                "dependsOn": [
+                    {
+                        "activity": "Delete ticket ids",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    },
+                    {
+                        "activity": "Delete all raw json",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "AzureSqlSource",
+                        "sqlReaderQuery": "select timestamp_updated_at from [dbo].[intercomticketswatermark]",
+                        "queryTimeout": "02:00:00",
+                        "partitionOption": "None"
+                    },
+                    "dataset": {
+                        "referenceName": "DynamicInternal_SqlTable",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "table_name": "intercom_tickets_watermark",
+                            "schema_name": "dbo",
+                            "db_name": "intercom"
+                        }
+                    },
+                    "firstRowOnly": false
+                }
+            },
+            {
+                "name": "set watermark variable",
+                "type": "SetVariable",
+                "dependsOn": [
+                    {
+                        "activity": "Lookup watermark",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "variableName": "tickets_updated_at_timestamp",
+                    "value": {
+                        "value": "@activity('Lookup watermark').output.value[0].timestamp_updated_at",
+                        "type": "Expression"
+                    }
+                }
+            },
+            {
+                "name": "Copy ticket ids",
+                "type": "Copy",
+                "dependsOn": [
+                    {
+                        "activity": "set watermark variable",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "AzureSqlSource",
+                        "sqlReaderQuery": {
+                            "value": "@concat(\n    'SELECT __ticket_id__ ',\n    'FROM [dbo].[conversation_history_rest_of_fields] ',\n    'WHERE __updated_at__ >= ', variables('tickets_updated_at_timestamp'), \n    ' AND __ticket_id__ IS NOT NULL;'\n)\n",
+                            "type": "Expression"
+                        },
+                        "queryTimeout": "02:00:00",
+                        "partitionOption": "None"
+                    },
+                    "sink": {
+                        "type": "JsonSink",
+                        "storeSettings": {
+                            "type": "AzureBlobFSWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "JsonWriteSettings"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "DynamicInternal_SqlTable",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "table_name": "conversation_history_rest_of_fields",
+                            "schema_name": "dbo",
+                            "db_name": "intercom"
+                        }
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "incremental_ticket_ids.json",
+                            "folder_name": "incremental_ticket_ids_list",
+                            "container_name": "intercom-tickets"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "ForEach1",
+                "type": "ForEach",
+                "dependsOn": [
+                    {
+                        "activity": "fetch all intercom tickets tables",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    },
+                    {
+                        "activity": "Json to Parquet",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "items": {
+                        "value": "@activity('fetch all intercom tickets tables').output.resultSets[0].rows\n",
+                        "type": "Expression"
+                    },
+                    "batchCount": 50,
+                    "activities": [
+                        {
+                            "name": "delete ids from all tables",
+                            "type": "Script",
+                            "dependsOn": [],
+                            "policy": {
+                                "timeout": "0.12:00:00",
+                                "retry": 0,
+                                "retryIntervalInSeconds": 30,
+                                "secureOutput": false,
+                                "secureInput": false
+                            },
+                            "userProperties": [],
+                            "linkedServiceName": {
+                                "referenceName": "LS_DynamicNourishDB",
+                                "type": "LinkedServiceReference",
+                                "parameters": {
+                                    "paramServerName": "nourish-internal.database.windows.net",
+                                    "paramLSDBName": "intercom"
+                                }
+                            },
+                            "typeProperties": {
+                                "scripts": [
+                                    {
+                                        "type": "Query",
+                                        "text": {
+                                            "value": "@concat('DELETE FROM dbo.', item().TABLE_NAME, ' WHERE __id__ IN (''', join(variables('capture_ticket_ids'), ''','''), ''')')",
+                                            "type": "Expression"
+                                        }
+                                    }
+                                ],
+                                "scriptBlockExecutionTimeout": "02:00:00"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "fetch all intercom tickets tables",
+                "type": "Script",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "linkedServiceName": {
+                    "referenceName": "LS_DynamicNourishDB",
+                    "type": "LinkedServiceReference",
+                    "parameters": {
+                        "paramServerName": "nourish-internal.database.windows.net",
+                        "paramLSDBName": "intercom"
+                    }
+                },
+                "typeProperties": {
+                    "scripts": [
+                        {
+                            "type": "Query",
+                            "text": "SELECT TABLE_NAME\r\nFROM INFORMATION_SCHEMA.TABLES\r\nWHERE TABLE_SCHEMA = 'dbo'\r\n  AND TABLE_NAME LIKE 'intercom_tickets_%';\r\n"
+                        }
+                    ],
+                    "scriptBlockExecutionTimeout": "02:00:00"
+                }
+            },
+            {
+                "name": "Lookup incremental ticket ids",
+                "type": "Lookup",
+                "dependsOn": [
+                    {
+                        "activity": "Copy ticket ids",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobFSReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*.json",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_ticket_ids_list",
+                            "container_name": "intercom-tickets"
+                        }
+                    },
+                    "firstRowOnly": false
+                }
+            },
+            {
+                "name": "incremental conversation ids array",
+                "type": "SetVariable",
+                "dependsOn": [
+                    {
+                        "activity": "Lookup incremental ticket ids",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "variableName": "capture_ticket_ids",
+                    "value": {
+                        "value": "@array(activity('Lookup incremental ticket ids').output.value)\n",
+                        "type": "Expression"
+                    }
+                }
+            },
+            {
+                "name": "Lookup tickets incremental ddl",
+                "type": "Lookup",
+                "dependsOn": [
+                    {
+                        "activity": "ForEach1",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "AzureBlobFSReadSettings",
+                            "recursive": true,
+                            "wildcardFileName": "*.json",
+                            "enablePartitionDiscovery": false
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "dataset": {
+                        "referenceName": "Json_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "file_name": "*.*",
+                            "folder_name": "incremental_ddl",
+                            "container_name": "intercom-tickets"
+                        }
+                    },
+                    "firstRowOnly": false
+                }
+            },
+            {
+                "name": "incremental ddl array",
+                "type": "SetVariable",
+                "dependsOn": [
+                    {
+                        "activity": "Lookup tickets incremental ddl",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "variableName": "tickets_incremental_ddl",
+                    "value": {
+                        "value": "@json(activity('Lookup tickets incremental ddl').output.value[0]._corrupt_record)",
+                        "type": "Expression"
+                    }
+                }
+            },
+            {
+                "name": "execute each Alter Table ddl",
+                "type": "ForEach",
+                "dependsOn": [
+                    {
+                        "activity": "incremental ddl array",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "items": {
+                        "value": "@variables('tickets_incremental_ddl')",
+                        "type": "Expression"
+                    },
+                    "batchCount": 50,
+                    "activities": [
+                        {
+                            "name": "execute Alter Table ddl",
+                            "type": "Script",
+                            "dependsOn": [],
+                            "policy": {
+                                "timeout": "0.12:00:00",
+                                "retry": 0,
+                                "retryIntervalInSeconds": 30,
+                                "secureOutput": false,
+                                "secureInput": false
+                            },
+                            "userProperties": [],
+                            "linkedServiceName": {
+                                "referenceName": "LS_DynamicNourishDB",
+                                "type": "LinkedServiceReference",
+                                "parameters": {
+                                    "paramServerName": "nourish-internal.database.windows.net",
+                                    "paramLSDBName": "intercom"
+                                }
+                            },
+                            "typeProperties": {
+                                "scripts": [
+                                    {
+                                        "type": "Query",
+                                        "text": {
+                                            "value": "@item()",
+                                            "type": "Expression"
+                                        }
+                                    }
+                                ],
+                                "scriptBlockExecutionTimeout": "02:00:00"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Get incremental parquet folders",
+                "type": "GetMetadata",
+                "dependsOn": [
+                    {
+                        "activity": "execute each Alter Table ddl",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "dataset": {
+                        "referenceName": "Binary_adls",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "folder_name": "incremental_parquet",
+                            "container_name": "intercom-tickets",
+                            "file_name": "*.*"
+                        }
+                    },
+                    "fieldList": [
+                        "childItems"
+                    ],
+                    "storeSettings": {
+                        "type": "AzureBlobFSReadSettings",
+                        "recursive": true,
+                        "enablePartitionDiscovery": false
+                    },
+                    "formatSettings": {
+                        "type": "BinaryReadSettings"
+                    }
+                }
+            },
+            {
+                "name": "ForEach array",
+                "type": "ForEach",
+                "dependsOn": [
+                    {
+                        "activity": "Get incremental parquet folders",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "items": {
+                        "value": "@activity('Get incremental parquet folders').output.childItems",
+                        "type": "Expression"
+                    },
+                    "batchCount": 50,
+                    "activities": [
+                        {
+                            "name": "Copy from parquet to db",
+                            "type": "Copy",
+                            "dependsOn": [],
+                            "policy": {
+                                "timeout": "0.12:00:00",
+                                "retry": 0,
+                                "retryIntervalInSeconds": 30,
+                                "secureOutput": false,
+                                "secureInput": false
+                            },
+                            "userProperties": [],
+                            "typeProperties": {
+                                "source": {
+                                    "type": "ParquetSource",
+                                    "storeSettings": {
+                                        "type": "AzureBlobFSReadSettings",
+                                        "recursive": true,
+                                        "wildcardFileName": "*.parquet",
+                                        "enablePartitionDiscovery": false
+                                    },
+                                    "formatSettings": {
+                                        "type": "ParquetReadSettings"
+                                    }
+                                },
+                                "sink": {
+                                    "type": "AzureSqlSink",
+                                    "writeBehavior": "insert",
+                                    "sqlWriterUseTableLock": false
+                                },
+                                "enableStaging": false,
+                                "translator": {
+                                    "value": "@item().name",
+                                    "type": "Expression"
+                                }
+                            },
+                            "inputs": [
+                                {
+                                    "referenceName": "Parquet_adls",
+                                    "type": "DatasetReference",
+                                    "parameters": {
+                                        "folder_name": {
+                                            "value": "@concat('incremental_parquet/',item().name)",
+                                            "type": "Expression"
+                                        },
+                                        "file_name": "*.*",
+                                        "container_name": "intercom-tickets"
+                                    }
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "referenceName": "DynamicInternal_SqlTable",
+                                    "type": "DatasetReference",
+                                    "parameters": {
+                                        "table_name": "@item().name",
+                                        "schema_name": "dbo",
+                                        "db_name": "intercom"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "get latest updated at from C_H_rest_of_fields",
+                "type": "SqlServerStoredProcedure",
+                "dependsOn": [
+                    {
+                        "activity": "ForEach array",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "storedProcedureName": "[dbo].[intercom_tickets_UpdateWatermark]"
+                },
+                "linkedServiceName": {
+                    "referenceName": "LS_DynamicNourishDB",
+                    "type": "LinkedServiceReference",
+                    "parameters": {
+                        "paramServerName": "nourish-internal.database.windows.net",
+                        "paramLSDBName": "intercom"
+                    }
+                }
+            },
+            {
+                "name": "Copy API to Json",
+                "type": "SynapseNotebook",
+                "dependsOn": [
+                    {
+                        "activity": "incremental conversation ids array",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "notebook": {
+                        "referenceName": "Intercom Tickets Incremental Load API to Json",
+                        "type": "NotebookReference"
+                    },
+                    "parameters": {
+                        "Base_URL": {
+                            "value": {
+                                "value": "@pipeline().parameters.Base_URL",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        },
+                        "entity_name": {
+                            "value": {
+                                "value": "@pipeline().parameters.entity_name",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        },
+                        "Authorization": {
+                            "value": {
+                                "value": "@pipeline().parameters.Authorization",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        },
+                        "Intercom_Version": {
+                            "value": {
+                                "value": "@pipeline().parameters.Intercom_Version",
+                                "type": "Expression"
+                            },
+                            "type": "string"
+                        }
+                    },
+                    "snapshot": true,
+                    "conf": {
+                        "spark.dynamicAllocation.enabled": null,
+                        "spark.dynamicAllocation.minExecutors": null,
+                        "spark.dynamicAllocation.maxExecutors": null
+                    },
+                    "numExecutors": null
+                }
+            },
+            {
+                "name": "Json to Parquet",
+                "type": "SynapseNotebook",
+                "dependsOn": [
+                    {
+                        "activity": "Copy API to Json",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "notebook": {
+                        "referenceName": "Intercom Tickets Incremental Load Json To Parquet",
+                        "type": "NotebookReference"
+                    },
+                    "snapshot": true,
+                    "conf": {
+                        "spark.dynamicAllocation.enabled": null,
+                        "spark.dynamicAllocation.minExecutors": null,
+                        "spark.dynamicAllocation.maxExecutors": null
+                    },
+                    "numExecutors": null
+                }
+            },
+            {
+                "name": "Failure Teams Alert",
+                "type": "ExecutePipeline",
+                "dependsOn": [
+                    {
+                        "activity": "Wait1",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "pipeline": {
+                        "referenceName": "Teams Notifications",
+                        "type": "PipelineReference"
+                    },
+                    "waitOnCompletion": true,
+                    "parameters": {
+                        "paramRunId": {
+                            "value": "@pipeline().RunId",
+                            "type": "Expression"
+                        },
+                        "paramPipelineName": {
+                            "value": "@pipeline().Pipeline",
+                            "type": "Expression"
+                        },
+                        "paramTriggerTime": {
+                            "value": "@pipeline().TriggerTime",
+                            "type": "Expression"
+                        },
+                        "paramStatus": {
+                            "value": "Failed",
+                            "type": "Expression"
+                        },
+                        "paramExecutionEndTime": {
+                            "value": "@utcNow()",
+                            "type": "Expression"
+                        },
+                        "paramRunDuration": {
+                            "value": "blank",
+                            "type": "Expression"
+                        },
+                        "paramTitle": "Intercom Tickets"
+                    }
+                }
+            },
+            {
+                "name": "Success Teams Alert",
+                "type": "ExecutePipeline",
+                "dependsOn": [
+                    {
+                        "activity": "get latest updated at from C_H_rest_of_fields",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "pipeline": {
+                        "referenceName": "Teams Notifications",
+                        "type": "PipelineReference"
+                    },
+                    "waitOnCompletion": true,
+                    "parameters": {
+                        "paramRunId": {
+                            "value": "@pipeline().RunId",
+                            "type": "Expression"
+                        },
+                        "paramPipelineName": {
+                            "value": "@pipeline().Pipeline",
+                            "type": "Expression"
+                        },
+                        "paramTriggerTime": {
+                            "value": "@pipeline().TriggerTime",
+                            "type": "Expression"
+                        },
+                        "paramStatus": {
+                            "value": "Succeeded",
+                            "type": "Expression"
+                        },
+                        "paramExecutionEndTime": {
+                            "value": "@utcNow()",
+                            "type": "Expression"
+                        },
+                        "paramRunDuration": {
+                            "value": "blank",
+                            "type": "Expression"
+                        },
+                        "paramTitle": "Intercom Tickets"
+                    }
+                }
+            },
+            {
+                "name": "Wait1",
+                "type": "Wait",
+                "dependsOn": [
+                    {
+                        "activity": "Copy to archive",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Delete ticket ids",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Delete all raw json",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Lookup watermark",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "set watermark variable",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Copy ticket ids",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Lookup incremental ticket ids",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "incremental conversation ids array",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Copy API to Json",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Json to Parquet",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "fetch all intercom tickets tables",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "ForEach1",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Lookup tickets incremental ddl",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "incremental ddl array",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "execute each Alter Table ddl",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "Get incremental parquet folders",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "ForEach array",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    },
+                    {
+                        "activity": "get latest updated at from C_H_rest_of_fields",
+                        "dependencyConditions": [
+                            "Failed"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "waitTimeInSeconds": 1
+                }
+            }
+        ],
+        "parameters": {
+            "Base_URL": {
+                "type": "string",
+                "defaultValue": "https://api.eu.intercom.io/"
+            },
+            "entity_name": {
+                "type": "string",
+                "defaultValue": "tickets"
+            },
+            "Authorization": {
+                "type": "string",
+                "defaultValue": "Bearer dG9rOmUyZDMzNGVlX2ZkNDdfNGNiZl9iNWNlXzdkMDZhZWY3Y2M4YToxOjA6ZXUtd2VzdC0x"
+            },
+            "Intercom_Version": {
+                "type": "string",
+                "defaultValue": "2.12"
+            }
+        },
+        "variables": {
+            "tickets_updated_at_timestamp": {
+                "type": "Integer"
+            },
+            "capture_ticket_ids": {
+                "type": "Array",
+                "defaultValue": []
+            },
+            "tickets_incremental_ddl": {
+                "type": "Array",
+                "defaultValue": []
+            }
+        },
+        "folder": {
+            "name": "Intercom Tickets"
+        },
+        "annotations": []
+    }
+}

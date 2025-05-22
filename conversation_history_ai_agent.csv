@@ -1,0 +1,1001 @@
+﻿__id__,__ai_agent_last_answer_type__,__ai_agent_rating__,__ai_agent_rating_remark__,__ai_agent_resolution_state__,__ai_agent_source_title__,__ai_agent_source_type__,__ai_agent_content_sources_total_count__,__ai_agent_content_sources_type__,__ai_agent_content_sources_content_sources_content_type__,__ai_agent_content_sources_content_sources_locale__,__ai_agent_content_sources_content_sources_title__,__ai_agent_content_sources_content_sources_url__,__ai_agent_content_sources_content_sources__
+207403600603673,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600601499,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600615861,ai_answer,NULL,NULL,abandoned,Fin AI Test,workflow,7,content_source.list,article,en,Mental Capacity Assessment and Best Interest Decision Interaction,/fin-ai-agent/content?content=article&id=287162,NULL
+207403600599192,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600545802,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,Why are some of our services not showing on the dashboard?,/fin-ai-agent/content?content=content_snippet&id=76243,NULL
+207403600602517,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600599050,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600615630,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600616704,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600599708,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600597694,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Care Instructions (Document accessibility),/fin-ai-agent/content?content=article&id=287249,NULL
+207403600244306,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600610583,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600611632,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614628,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616380,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,5,content_source.list,article,en,ContrOCC Report Guide – East Sussex County Council,/fin-ai-agent/content?content=article&id=223995,NULL
+207403600600079,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600323810,NULL,NULL,NULL,NULL,NEW Front End - Welcome to Nourish Customer Support,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600604359,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Xero Export Report,/fin-ai-agent/content?content=article&id=221923,NULL
+207403600592154,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Getting Started with Nourish Community,/fin-ai-agent/content?content=article&id=287194,NULL
+207403600610399,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How do I handover Information?,/fin-ai-agent/content?content=article&id=287195,NULL
+207403600614519,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600588239,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606757,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,Data Retention Report,/fin-ai-agent/content?content=article&id=287391,NULL
+207403600604791,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600606406,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600591711,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606653,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600574721,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606981,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600600953,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,Skin Integrity & Wound Management,/fin-ai-agent/content?content=article&id=287193,NULL
+207403600368864,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600594977,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605973,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612077,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600569258,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600569258,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600569258,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How do Assessments Work?,/fin-ai-agent/content?content=article&id=287277,NULL
+207403600610550,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,How to Save an interaction for Later,/fin-ai-agent/content?content=article&id=287266,NULL
+207403600604547,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600601738,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616067,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Arquella Integration 👨‍⚕️📱,/fin-ai-agent/content?content=article&id=287191,NULL
+207403600616067,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Blaucomm Integration,/fin-ai-agent/content?content=article&id=287203,NULL
+207403600616067,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Nexus by GHM Care Integration 👨‍⚕️📱,/fin-ai-agent/content?content=article&id=287239,NULL
+207403600606082,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606400,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Whzan Integration👨‍⚕️,/fin-ai-agent/content?content=article&id=287226,NULL
+207403600606400,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Nexus by GHM Care Integration 👨‍⚕️📱,/fin-ai-agent/content?content=article&id=287239,NULL
+207403600606400,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,e-Reception Integration,/fin-ai-agent/content?content=article&id=287387,NULL
+207403600459241,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606643,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600607469,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616573,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600616573,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Multi Organisation Access for a Staff Member,/fin-ai-agent/content?content=article&id=287295,NULL
+207403600616573,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600565228,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605754,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600605754,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Protocols,/fin-ai-agent/content?content=article&id=287263,NULL
+207403600608113,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,GP Connect - How to setup?,/fin-ai-agent/content?content=article&id=287260,NULL
+207403600612015,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Altra integration,/fin-ai-agent/content?content=article&id=287166,NULL
+207403600612015,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600612015,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600610726,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600610726,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600611861,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600611861,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600611861,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600611861,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Multi Organisation Access for a Staff Member,/fin-ai-agent/content?content=article&id=287295,NULL
+207403600611861,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600611861,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Transferring care to another service within your organisation,/fin-ai-agent/content?content=article&id=312226,NULL
+207403600605659,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600604617,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600608130,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600610356,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616025,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,"How to set up an Quick Close Tag (QCT, NFC Tag)",/fin-ai-agent/content?content=article&id=287325,NULL
+207403600612039,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600608726,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612073,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606623,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,"How to set up an Quick Close Tag (QCT, NFC Tag)",/fin-ai-agent/content?content=article&id=287325,NULL
+207403600616213,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,Data Retention Report,/fin-ai-agent/content?content=article&id=287391,NULL
+207403600604075,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Using Multiple Rates on a Single Appointment (Split Rates),/fin-ai-agent/content?content=article&id=253680,NULL
+207403600604075,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Adding or Editing Invoice/Payment Groups,/fin-ai-agent/content?content=article&id=288039,NULL
+207403600606272,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,How to Generate Invoices and Timesheets,/fin-ai-agent/content?content=article&id=242345,NULL
+207403600606272,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Adding or Editing Invoice/Payment Groups,/fin-ai-agent/content?content=article&id=288039,NULL
+207403600606824,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600611689,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614172,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Auto Lock App,/fin-ai-agent/content?content=article&id=287204,NULL
+207403600614172,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600614172,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600614982,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600599409,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Setting up a care schedule,/fin-ai-agent/content?content=article&id=287178,NULL
+207403600599409,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to Save an interaction for Later,/fin-ai-agent/content?content=article&id=287266,NULL
+207403600601473,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Carer/Client Dashboard page,/fin-ai-agent/content?content=article&id=292240,NULL
+207403600601473,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,The Call & Care Monitoring Report,/fin-ai-agent/content?content=article&id=335734,NULL
+207403600605845,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Nexus by GHM Care Integration 👨‍⚕️📱,/fin-ai-agent/content?content=article&id=287239,NULL
+207403600605845,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Rescheduling - How to make an interaction appear again after a set time,/fin-ai-agent/content?content=article&id=287327,NULL
+207403600605845,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600606704,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to Unarchive a Care plan Folder/Page,/fin-ai-agent/content?content=article&id=287211,NULL
+207403600606704,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to view an Archived Care / Support Plan and un-archive if needed,/fin-ai-agent/content?content=article&id=287308,NULL
+207403600606117,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600604816,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612163,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,3,content_source.list,article,en,Nourish Community – Onboarding Setup,/fin-ai-agent/content?content=article&id=224003,NULL
+207403600612163,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,3,content_source.list,article,en,GP Connect for Nourish Community,/fin-ai-agent/content?content=article&id=287181,NULL
+207403600612163,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,3,content_source.list,article,en,Getting Started with Nourish Community,/fin-ai-agent/content?content=article&id=287194,NULL
+207403600608747,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600608747,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600595508,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How do Assessments Work?,/fin-ai-agent/content?content=article&id=287277,NULL
+207403600595508,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How do I add a new Resident / Client / Service User,/fin-ai-agent/content?content=article&id=287320,NULL
+207403600605230,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606835,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605627,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606089,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600606089,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,Updates to Interactions - 2022,/fin-ai-agent/content?content=article&id=287253,NULL
+207403600606089,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,Protocols,/fin-ai-agent/content?content=article&id=287263,NULL
+207403600606089,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,How do Assessments Work?,/fin-ai-agent/content?content=article&id=287277,NULL
+207403600616338,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616045,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600616045,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to set warning for an interaction if it isn't completed,/fin-ai-agent/content?content=article&id=287326,NULL
+207403600616045,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to view and close Warnings,/fin-ai-agent/content?content=article&id=287338,NULL
+207403600602163,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612288,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Nourish Data sets,/fin-ai-agent/content?content=article&id=287275,NULL
+207403600612288,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Critical Information dashboard,/fin-ai-agent/content?content=article&id=345715,NULL
+207403600615159,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Client/Carer Roster Report,/fin-ai-agent/content?content=article&id=326427,NULL
+207403600615159,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,The Call & Care Monitoring Report,/fin-ai-agent/content?content=article&id=335734,NULL
+207403600615159,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,The Stats by Carer & Client Report,/fin-ai-agent/content?content=article&id=338486,NULL
+207403600607118,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600603831,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605575,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,Why are some of our services not showing on the dashboard?,/fin-ai-agent/content?content=content_snippet&id=76243,NULL
+207403600605575,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Amba Integration,/fin-ai-agent/content?content=article&id=287190,NULL
+207403600611516,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Skin Integrity & Wound Management,/fin-ai-agent/content?content=article&id=287193,NULL
+207403600611516,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Managing skin & wound concerns that require attention via the Critical Information Page,/fin-ai-agent/content?content=article&id=389511,NULL
+207403600611723,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600611723,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600611957,NULL,NULL,NULL,NULL,Fin AI Test,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600610782,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600596700,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600600661,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,AD Connect Integration 🕮,/fin-ai-agent/content?content=article&id=287214,NULL
+207403600600661,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Connect to Active Directory via the App Registration method,/fin-ai-agent/content?content=article&id=338568,NULL
+207403600608728,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600529456,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600592777,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600592777,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600592777,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600565082,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600565082,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Care Instructions (Document accessibility),/fin-ai-agent/content?content=article&id=287249,NULL
+207403600565082,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How do I add a Profile Photo for a Resident / Service User,/fin-ai-agent/content?content=article&id=287314,NULL
+207403600565082,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,content_snippet,en,"Photos upload sideways when the original files are not, how can I fix this issue?",/fin-ai-agent/content?content=content_snippet&id=75212,NULL
+207403600601691,NULL,NULL,NULL,NULL,Fin AI Test,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600603673,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,"Photos upload sideways when the original files are not, how can I fix this issue?",/fin-ai-agent/content?content=content_snippet&id=75212,NULL
+207403600601482,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600601482,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600607213,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614213,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600614213,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600614213,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to log in to Nourish using Microsoft credentials (OAuth),/fin-ai-agent/content?content=article&id=382905,NULL
+207403600606188,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616546,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,7,content_source.list,article,en,ContrOCC Report Guide – East Sussex County Council,/fin-ai-agent/content?content=article&id=223995,NULL
+207403600616546,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,7,content_source.list,article,en,ContrOCC Report Guide – Surrey County Council Export,/fin-ai-agent/content?content=article&id=223996,NULL
+207403600616546,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,7,content_source.list,article,en,ContrOCC Report Guides – Leicestershire County Council Exports,/fin-ai-agent/content?content=article&id=223997,NULL
+207403600616546,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,7,content_source.list,article,en,ContrOCC Report Guides – Stockton Borough Council Export,/fin-ai-agent/content?content=article&id=223998,NULL
+207403600616546,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,7,content_source.list,article,en,Time Off - Day-to-Day Management,/fin-ai-agent/content?content=article&id=227461,NULL
+207403600616546,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,7,content_source.list,article,en,Automatic Travel Rates,/fin-ai-agent/content?content=article&id=287841,NULL
+207403600616546,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,7,content_source.list,article,en,Carer/Client Dashboard page,/fin-ai-agent/content?content=article&id=292240,NULL
+207403600611748,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to view an Archived Care / Support Plan and un-archive if needed,/fin-ai-agent/content?content=article&id=287308,NULL
+207403600611748,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to add / Import a Care / Support Plan and Timeline to a Resident,/fin-ai-agent/content?content=article&id=287321,NULL
+207403600608713,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600607961,custom_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Shift Setup & Pay Guide,/fin-ai-agent/content?content=article&id=253780,NULL
+207403600607961,custom_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,custom_answer,en,Time off - NR,/fin-ai-agent/custom-answers/14692,NULL
+207403600597495,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Cancelling an Appointment,/fin-ai-agent/content?content=article&id=258604,NULL
+207403600597495,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Building a Client's Schedule,/fin-ai-agent/content?content=article&id=265498,NULL
+207403600597495,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,How to Change the Time of an Appointment,/fin-ai-agent/content?content=article&id=270257,NULL
+207403600597495,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,The 'Save & Update Schedule' Button,/fin-ai-agent/content?content=article&id=281721,NULL
+207403600350120,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600526752,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600021396,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600380339,custom_answer,NULL,NULL,routed_to_team,NEW Front End - Welcome to Nourish Customer Support,workflow,1,content_source.list,custom_answer,en,Archiving / Suspending a Resident / Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600366320,NULL,NULL,NULL,NULL,NEW Front End - Welcome to Nourish Customer Support,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600498152,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,Whzan Integration👨‍⚕️,/fin-ai-agent/content?content=article&id=287226,NULL
+207403600556999,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Family Portal - Roles,/fin-ai-agent/content?content=article&id=287288,NULL
+207403600556999,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Family Portal Access,/fin-ai-agent/content?content=article&id=287322,NULL
+207403600598896,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Libraries - How do I edit a Library Interaction?,/fin-ai-agent/content?content=article&id=287270,NULL
+207403600598896,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to remove a Parameter / Question from an Interaction,/fin-ai-agent/content?content=article&id=287279,NULL
+207403600598896,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600598896,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to add a new Parameter / Question into an Interaction,/fin-ai-agent/content?content=article&id=287331,NULL
+207403600478368,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614715,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600597495,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,The Prevent and Warn Page,/fin-ai-agent/content?content=article&id=365979,NULL
+207403600605880,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,2,content_source.list,article,en,"Mobile App – Authentication, Setup, and Revoking Access",/fin-ai-agent/content?content=article&id=224014,NULL
+207403600605880,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,2,content_source.list,article,en,The Mobile App – Key Features,/fin-ai-agent/content?content=article&id=224016,NULL
+207403600606182,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Personal Care notes,/fin-ai-agent/content?content=article&id=287283,NULL
+207403600606182,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Personal Care Instructions,/fin-ai-agent/content?content=article&id=287298,NULL
+207403600601216,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600604308,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Radar Healthcare Integration,/fin-ai-agent/content?content=article&id=287220,NULL
+207403600604308,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Insights reporting dashboards,/fin-ai-agent/content?content=article&id=312191,NULL
+207403600604308,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,Why are some of our services not showing on the dashboard?,/fin-ai-agent/content?content=content_snippet&id=76243,NULL
+207403600606633,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600600423,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600529143,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600529143,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How do I add a Profile Photo for a Resident / Service User,/fin-ai-agent/content?content=article&id=287314,NULL
+207403600529143,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600599653,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600607088,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Building a Client's Schedule,/fin-ai-agent/content?content=article&id=265498,NULL
+207403600605365,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,eLearning - Reporting Suite,/fin-ai-agent/content?content=article&id=322873,NULL
+207403600607088,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,How to Create a One-Off Appointment on the Roster,/fin-ai-agent/content?content=article&id=268799,NULL
+207403600607088,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,The 'Save & Update Schedule' Button,/fin-ai-agent/content?content=article&id=281721,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,How to Copy Groups & Rates,/fin-ai-agent/content?content=article&id=223986,NULL
+207403600605365,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Client/Carer Roster Report,/fin-ai-agent/content?content=article&id=326427,NULL
+207403600605365,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,The Personal Details Report,/fin-ai-agent/content?content=article&id=344709,NULL
+207403600603802,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,ContrOCC Report Guide – East Sussex County Council,/fin-ai-agent/content?content=article&id=223995,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,ContrOCC Report Guide – Surrey County Council Export,/fin-ai-agent/content?content=article&id=223996,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,ContrOCC Report Guides – Leicestershire County Council Exports,/fin-ai-agent/content?content=article&id=223997,NULL
+207403600606349,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Mobile App Settings Guide,/fin-ai-agent/content?content=article&id=224015,NULL
+207403600606349,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,The Mobile App – Key Features,/fin-ai-agent/content?content=article&id=224016,NULL
+207403600607516,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to Create a new Interaction,/fin-ai-agent/content?content=article&id=287208,NULL
+207403600607516,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Ally Integration (Acoustic Monitoring) 👂,/fin-ai-agent/content?content=article&id=287218,NULL
+207403600607516,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Reporting - How to create a report from the interactions on the Timeline,/fin-ai-agent/content?content=article&id=287312,NULL
+207403600607516,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600591831,NULL,NULL,NULL,NULL,Fin AI Test,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600614407,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606258,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,How to Create/Edit a Care/Support Plan Template,/fin-ai-agent/content?content=article&id=287212,NULL
+207403600610570,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600603875,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600607479,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600497967,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600610723,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Skin Integrity & Wound Management,/fin-ai-agent/content?content=article&id=287193,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,Adding or Editing Invoice/Payment Groups,/fin-ai-agent/content?content=article&id=288039,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,Setting Up Finance Rates,/fin-ai-agent/content?content=article&id=288302,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,Financial Information,/fin-ai-agent/content?content=article&id=292641,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,The Finance Stats Reports,/fin-ai-agent/content?content=article&id=356260,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,Regions,/fin-ai-agent/content?content=article&id=361021,NULL
+207403600616348,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,10,content_source.list,article,en,The Company Details Page,/fin-ai-agent/content?content=article&id=361244,NULL
+207403600606387,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600610773,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Care Plan & Support Privileges,/fin-ai-agent/content?content=article&id=287255,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Restricting the editability of Personalised Interactions,/fin-ai-agent/content?content=article&id=287259,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Libraries - How do I edit a Library Interaction?,/fin-ai-agent/content?content=article&id=287270,NULL
+207403600610723,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to edit a daily record / interaction on the timeline,/fin-ai-agent/content?content=article&id=287303,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,How to remove a Parameter / Question from an Interaction,/fin-ai-agent/content?content=article&id=287279,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,How to edit a daily record / interaction on the timeline,/fin-ai-agent/content?content=article&id=287303,NULL
+207403600610723,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Managing skin & wound concerns that require attention via the Critical Information Page,/fin-ai-agent/content?content=article&id=389511,NULL
+207403600605613,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600615271,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Time Off - Day-to-Day Management,/fin-ai-agent/content?content=article&id=227461,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Fluid Targets,/fin-ai-agent/content?content=article&id=287306,NULL
+207403600615271,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Shift Setup & Pay Guide,/fin-ai-agent/content?content=article&id=253780,NULL
+207403600615271,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Time Off Management FAQs,/fin-ai-agent/content?content=article&id=287567,NULL
+207403600605591,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600591829,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600591829,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600613014,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,6,content_source.list,article,en,Time Off Schemes & Types,/fin-ai-agent/content?content=article&id=226023,NULL
+207403600613014,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,6,content_source.list,article,en,Time Off Management Overview,/fin-ai-agent/content?content=article&id=227443,NULL
+207403600613014,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,6,content_source.list,article,en,Assigning a Time Off Scheme,/fin-ai-agent/content?content=article&id=227454,NULL
+207403600613014,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,6,content_source.list,article,en,Time Off - Day-to-Day Management,/fin-ai-agent/content?content=article&id=227461,NULL
+207403600613014,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,6,content_source.list,article,en,Updating Carer Scheme Assignments,/fin-ai-agent/content?content=article&id=268500,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,How to run a report of the Care Plan,/fin-ai-agent/content?content=article&id=287311,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Reporting - How to create a report from the interactions on the Timeline,/fin-ai-agent/content?content=article&id=287312,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600612949,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,12,content_source.list,article,en,How to add a new Parameter / Question into an Interaction,/fin-ai-agent/content?content=article&id=287331,NULL
+207403600599968,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605257,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600611826,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600603982,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Mobile App Settings Guide,/fin-ai-agent/content?content=article&id=224015,NULL
+207403600603982,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Setting Up Call Monitoring Alerts,/fin-ai-agent/content?content=article&id=239336,NULL
+207403600603982,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Checklists,/fin-ai-agent/content?content=article&id=301448,NULL
+207403600603982,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Call Monitoring Overview,/fin-ai-agent/content?content=article&id=320129,NULL
+207403600603982,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,The Call & Care Monitoring Report,/fin-ai-agent/content?content=article&id=335734,NULL
+207403600613014,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,6,content_source.list,article,en,Time Off Management FAQs,/fin-ai-agent/content?content=article&id=287567,NULL
+207403600599519,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,Why are some of our services not showing on the dashboard?,/fin-ai-agent/content?content=content_snippet&id=76243,NULL
+207403600599519,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,2024 Product Releases,/fin-ai-agent/content?content=article&id=287384,NULL
+207403600616837,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600608472,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Care Instructions (Document accessibility),/fin-ai-agent/content?content=article&id=287249,NULL
+207403600608472,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,"DoLS, AWI and DNACPR interactions",/fin-ai-agent/content?content=article&id=287286,NULL
+207403600614619,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Setting up a care schedule,/fin-ai-agent/content?content=article&id=287178,NULL
+207403600614619,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600614619,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Rescheduling - How to make an interaction appear again after a set time,/fin-ai-agent/content?content=article&id=287327,NULL
+207403600614619,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600614619,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,2024 Product Releases,/fin-ai-agent/content?content=article&id=287384,NULL
+207403600614619,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,7,content_source.list,custom_answer,en,Where to record something?,/fin-ai-agent/custom-answers/12951,NULL
+207403600614619,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,7,content_source.list,custom_answer,en,Scheduling an interaction monthly,/fin-ai-agent/custom-answers/12970,NULL
+207403600477961,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605144,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to set warning for an interaction if it isn't completed,/fin-ai-agent/content?content=article&id=287326,NULL
+207403600605144,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Rescheduling - How to make an interaction appear again after a set time,/fin-ai-agent/content?content=article&id=287327,NULL
+207403600599834,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600615431,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,Creating & Assigning Appointment Tasks,/fin-ai-agent/content?content=article&id=224007,NULL
+207403600615431,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,The Client/Carer Diary – Settings & Customising Categories,/fin-ai-agent/content?content=article&id=224013,NULL
+207403600615431,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,Mobile App Settings Guide,/fin-ai-agent/content?content=article&id=224015,NULL
+207403600615431,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,Notes Sync from Nourish Rostering,/fin-ai-agent/content?content=article&id=287164,NULL
+207403600599392,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600595863,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600599164,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606198,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600606198,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to Save an interaction for Later,/fin-ai-agent/content?content=article&id=287266,NULL
+207403600606198,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Edit after close privilege,/fin-ai-agent/content?content=article&id=287267,NULL
+207403600606198,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600614772,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Setting up a care schedule,/fin-ai-agent/content?content=article&id=287178,NULL
+207403600614772,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Updates to Interactions - 2022,/fin-ai-agent/content?content=article&id=287253,NULL
+207403600614772,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How do I add a Profile Photo for a Resident / Service User,/fin-ai-agent/content?content=article&id=287314,NULL
+207403600614772,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,custom_answer,en,How to add a resident profile picture,/fin-ai-agent/custom-answers/13649,NULL
+207403600571599,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600599757,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600611161,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Blaucomm Integration,/fin-ai-agent/content?content=article&id=287203,NULL
+207403600611161,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600611971,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600611971,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600611971,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How do Assessments Work?,/fin-ai-agent/content?content=article&id=287277,NULL
+207403600292306,NULL,NULL,NULL,NULL,NEW Front End - Welcome to Nourish Customer Support,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600600956,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to edit a daily record / interaction on the timeline,/fin-ai-agent/content?content=article&id=287303,NULL
+207403600600956,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to view an Archived Care / Support Plan and un-archive if needed,/fin-ai-agent/content?content=article&id=287308,NULL
+207403600600956,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to change the time of an interaction,/fin-ai-agent/content?content=article&id=287323,NULL
+207403600600956,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,2024 Product Releases,/fin-ai-agent/content?content=article&id=287384,NULL
+207403600606467,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to add / Import a Care / Support Plan and Timeline to a Resident,/fin-ai-agent/content?content=article&id=287321,NULL
+207403600606467,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Printing a Care / Support Plan,/fin-ai-agent/content?content=article&id=287329,NULL
+207403600595777,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600597143,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to Create/Edit a Care/Support Plan Template,/fin-ai-agent/content?content=article&id=287212,NULL
+207403600597143,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to add / Import a Care / Support Plan and Timeline to a Resident,/fin-ai-agent/content?content=article&id=287321,NULL
+207403600616216,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600565766,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,Time Off Schemes & Types,/fin-ai-agent/content?content=article&id=226023,NULL
+207403600565766,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,Time Off Pay Matrix,/fin-ai-agent/content?content=article&id=227453,NULL
+207403600565766,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,Time Off Management FAQs,/fin-ai-agent/content?content=article&id=287567,NULL
+207403600565766,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,4,content_source.list,article,en,The Uninvoiced & Untimesheeted Appointments Report,/fin-ai-agent/content?content=article&id=351195,NULL
+207403600595580,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600318278,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600615275,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600252679,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600612117,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600383551,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600594653,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Time Off Reports,/fin-ai-agent/content?content=article&id=268502,NULL
+207403600594653,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Time Off Management FAQs,/fin-ai-agent/content?content=article&id=287567,NULL
+207403600606539,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600606539,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to Create a New Role,/fin-ai-agent/content?content=article&id=287297,NULL
+207403600606902,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606385,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Protocols,/fin-ai-agent/content?content=article&id=287263,NULL
+207403600606385,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600604884,custom_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,1,content_source.list,custom_answer,en,Time off - NR,/fin-ai-agent/custom-answers/14692,NULL
+207403600608000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600613824,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606644,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600611378,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600608072,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Setting up a care schedule,/fin-ai-agent/content?content=article&id=287178,NULL
+207403600608072,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Updates to Interactions - 2022,/fin-ai-agent/content?content=article&id=287253,NULL
+207403600608072,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600608072,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to edit a daily record / interaction on the timeline,/fin-ai-agent/content?content=article&id=287303,NULL
+207403600607899,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,Multi Organisation Access for a Staff Member,/fin-ai-agent/content?content=article&id=287295,NULL
+207403600595448,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612659,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600612659,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,2025 Product Releases,/fin-ai-agent/content?content=article&id=372297,NULL
+207403600612659,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,Why are some of our services not showing on the dashboard?,/fin-ai-agent/content?content=content_snippet&id=76243,NULL
+207403600614570,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600614570,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,How to allocate 1 staff member to a role,/fin-ai-agent/content?content=article&id=287294,NULL
+207403600614570,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600614570,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,How to reset / set a new password for staff,/fin-ai-agent/content?content=article&id=287337,NULL
+207403600614570,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600615033,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614249,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,3,content_source.list,article,en,How do I handover Information?,/fin-ai-agent/content?content=article&id=287195,NULL
+207403600614249,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,3,content_source.list,article,en,Handover,/fin-ai-agent/content?content=article&id=287281,NULL
+207403600614249,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,3,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600601330,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600535194,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600535194,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600535194,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to log in to Nourish using Microsoft credentials (OAuth),/fin-ai-agent/content?content=article&id=382905,NULL
+207403600593313,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Relish Integration,/fin-ai-agent/content?content=article&id=287177,NULL
+207403600593313,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600611200,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614951,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605919,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,1,content_source.list,article,en,Managing Care Plans,/fin-ai-agent/content?content=article&id=235621,NULL
+207403600615127,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,Why are some of our services not showing on the dashboard?,/fin-ai-agent/content?content=content_snippet&id=76243,NULL
+207403600615127,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Radar Healthcare Integration,/fin-ai-agent/content?content=article&id=287220,NULL
+207403600615127,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Insights reporting dashboards,/fin-ai-agent/content?content=article&id=312191,NULL
+207403600613304,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600613304,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600613304,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,Care Types and Status Filter,/fin-ai-agent/content?content=article&id=287256,NULL
+207403600613304,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,How to view the Care Plan of an Archived Resident / Service User,/fin-ai-agent/content?content=article&id=287307,NULL
+207403600613304,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,How do I add a new Resident / Client / Service User,/fin-ai-agent/content?content=article&id=287320,NULL
+207403600606669,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600610363,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Call Monitoring Using OTP Devices,/fin-ai-agent/content?content=article&id=318198,NULL
+207403600610363,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Call Monitoring Overview,/fin-ai-agent/content?content=article&id=320129,NULL
+207403600601403,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,1,content_source.list,article,en,Training,/fin-ai-agent/content?content=article&id=303402,NULL
+207403600604791,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600610266,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,7,content_source.list,article,en,My Roster Preferences,/fin-ai-agent/content?content=article&id=223989,NULL
+207403600610266,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,7,content_source.list,article,en,The Mobile App – Key Features,/fin-ai-agent/content?content=article&id=224016,NULL
+207403600610266,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,7,content_source.list,article,en,Setting Up a Run of Appointments,/fin-ai-agent/content?content=article&id=253704,NULL
+207403600610266,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,7,content_source.list,article,en,The Family Portal,/fin-ai-agent/content?content=article&id=287175,NULL
+207403600610266,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,7,content_source.list,article,en,Getting Started with Nourish Community,/fin-ai-agent/content?content=article&id=287194,NULL
+207403600610266,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,7,content_source.list,article,en,The Stats by Carer & Client Report,/fin-ai-agent/content?content=article&id=338486,NULL
+207403600610266,ai_answer,NULL,NULL,confirmed_resolution,Default answer (new),workflow,7,content_source.list,article,en,The Stats by Date Report,/fin-ai-agent/content?content=article&id=342820,NULL
+207403600611064,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,CM LiveIntegrate Setup Guide,/fin-ai-agent/content?content=article&id=251103,NULL
+207403600611064,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Time Off Management FAQs,/fin-ai-agent/content?content=article&id=287567,NULL
+207403600611064,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,The Settings Page,/fin-ai-agent/content?content=article&id=361360,NULL
+207403600616095,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600616095,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600595902,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614873,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Nourish Assessments,/fin-ai-agent/content?content=article&id=287278,NULL
+207403600614873,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600614873,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,content_snippet,en,How do I add a new service?,/fin-ai-agent/content?content=content_snippet&id=75213,NULL
+207403600614873,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,content_snippet,en,How can I add risk assessments that are not included in the list accessed via the blue plus button?,/fin-ai-agent/content?content=content_snippet&id=75756,NULL
+207403600614873,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600614873,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600606551,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600606551,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600601330,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Restricting the editability of Personalised Interactions,/fin-ai-agent/content?content=article&id=287259,NULL
+207403600601330,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Past Versions,/fin-ai-agent/content?content=article&id=287269,NULL
+207403600601330,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Libraries - How do I edit a Library Interaction?,/fin-ai-agent/content?content=article&id=287270,NULL
+207403600601330,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,How to remove a Parameter / Question from an Interaction,/fin-ai-agent/content?content=article&id=287279,NULL
+207403600601330,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,How to edit a daily record / interaction on the timeline,/fin-ai-agent/content?content=article&id=287303,NULL
+207403600601330,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,How to add a new Parameter / Question into an Interaction,/fin-ai-agent/content?content=article&id=287331,NULL
+207403600612114,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600607586,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Relish Integration,/fin-ai-agent/content?content=article&id=287177,NULL
+207403600607586,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Rescheduling - How to make an interaction appear again after a set time,/fin-ai-agent/content?content=article&id=287327,NULL
+207403600606378,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614940,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,6,content_source.list,article,en,Two-factor authentication (2FA/MFA),/fin-ai-agent/content?content=article&id=223990,NULL
+207403600614940,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,6,content_source.list,article,en,"Mobile App – Authentication, Setup, and Revoking Access",/fin-ai-agent/content?content=article&id=224014,NULL
+207403600614940,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,6,content_source.list,article,en,The Users Page,/fin-ai-agent/content?content=article&id=356636,NULL
+207403600614940,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,6,content_source.list,article,en,The Sessions Page,/fin-ai-agent/content?content=article&id=362972,NULL
+207403600614940,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,6,content_source.list,article,en,2025 Product Releases,/fin-ai-agent/content?content=article&id=372270,NULL
+207403600614940,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,6,content_source.list,article,en,Logging In With Biometrics,/fin-ai-agent/content?content=article&id=380883,NULL
+207403600611063,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to Create a new Interaction,/fin-ai-agent/content?content=article&id=287208,NULL
+207403600611063,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to add a new Parameter / Question into an Interaction,/fin-ai-agent/content?content=article&id=287331,NULL
+207403600604986,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600604986,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Past Versions,/fin-ai-agent/content?content=article&id=287269,NULL
+207403600604986,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to view the Care Plan of an Archived Resident / Service User,/fin-ai-agent/content?content=article&id=287307,NULL
+207403600604986,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,content_snippet,en,How do I view the archived care plans?,/fin-ai-agent/content?content=content_snippet&id=75727,NULL
+207403600614152,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600597165,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600610867,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600611616,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Restricting the editability of Personalised Interactions,/fin-ai-agent/content?content=article&id=287259,NULL
+207403600611616,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Libraries - How do I edit a Library Interaction?,/fin-ai-agent/content?content=article&id=287270,NULL
+207403600611616,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to add a new Parameter / Question into an Interaction,/fin-ai-agent/content?content=article&id=287331,NULL
+207403600611892,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,"How to set up an Quick Close Tag (QCT, NFC Tag)",/fin-ai-agent/content?content=article&id=287325,NULL
+207403600606007,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600611652,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to allocate 1 staff member to a role,/fin-ai-agent/content?content=article&id=287294,NULL
+207403600611652,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Multi Organisation Access for a Staff Member,/fin-ai-agent/content?content=article&id=287295,NULL
+207403600616126,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600616126,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Viewing Critical Information,/fin-ai-agent/content?content=article&id=287290,NULL
+207403600605638,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600605638,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Protocols,/fin-ai-agent/content?content=article&id=287263,NULL
+207403600605638,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600610769,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to Create a new Interaction,/fin-ai-agent/content?content=article&id=287208,NULL
+207403600610769,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600602189,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600392478,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600604858,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600610433,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Edit after close privilege,/fin-ai-agent/content?content=article&id=287267,NULL
+207403600610433,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How to edit a daily record / interaction on the timeline,/fin-ai-agent/content?content=article&id=287303,NULL
+207403600615894,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600615894,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,How to change your own password,/fin-ai-agent/content?content=article&id=287332,NULL
+207403600615894,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600615894,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600615477,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Setting up a care schedule,/fin-ai-agent/content?content=article&id=287178,NULL
+207403600615477,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Restricting the editability of Personalised Interactions,/fin-ai-agent/content?content=article&id=287259,NULL
+207403600615477,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,How can I add risk assessments that are not included in the list accessed via the blue plus button?,/fin-ai-agent/content?content=content_snippet&id=75756,NULL
+207403600611745,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600614590,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Where to record an Incident / Accident?,/fin-ai-agent/custom-answers/12953,NULL
+207403600600836,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Care Type & Link to Library,/fin-ai-agent/content?content=article&id=287271,NULL
+207403600600836,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Permissions to access timelines,/fin-ai-agent/content?content=article&id=287310,NULL
+207403600605734,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612008,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,GP Connect for Nourish Community,/fin-ai-agent/content?content=article&id=287181,NULL
+207403600612008,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600614200,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600614200,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to Save Nourish onto a desktop,/fin-ai-agent/content?content=article&id=287336,NULL
+207403600614200,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,content_snippet,en,"How can I reactivate two devices with serial numbers DX3GVOJXPLJP and FFWCXPDPPLJT that show ""Nourish not installed"" and ""not authorised to login""?",/fin-ai-agent/content?content=content_snippet&id=76224,NULL
+207403600605714,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Docobo Remote Monitoring Integration,/fin-ai-agent/content?content=article&id=287202,NULL
+207403600605714,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Whzan Integration👨‍⚕️,/fin-ai-agent/content?content=article&id=287226,NULL
+207403600604435,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600612799,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,content_snippet,en,How do I archive care plans?,/fin-ai-agent/content?content=content_snippet&id=75742,NULL
+207403600612799,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600612799,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,custom_answer,en,Archiving / Suspending a Resident / Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600612799,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,4,content_source.list,custom_answer,en,Removing a duplicated client / resident profile,/fin-ai-agent/custom-answers/12611,NULL
+207403600596049,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600604468,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600614244,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600604964,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Amba Integration,/fin-ai-agent/content?content=article&id=287190,NULL
+207403600604964,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600605693,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600610919,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,The Family Portal,/fin-ai-agent/content?content=article&id=287175,NULL
+207403600610919,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Getting Started with Nourish Community,/fin-ai-agent/content?content=article&id=287194,NULL
+207403600610919,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,3,content_source.list,article,en,Protocols,/fin-ai-agent/content?content=article&id=287263,NULL
+207403600614422,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606857,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606482,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Setting Up Family Portal,/fin-ai-agent/custom-answers/12979,NULL
+207403600616277,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Nourish Data sets,/fin-ai-agent/content?content=article&id=287275,NULL
+207403600616277,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Nourish Assessments,/fin-ai-agent/content?content=article&id=287278,NULL
+207403600616277,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Recording Critical Information,/fin-ai-agent/content?content=article&id=287285,NULL
+207403600600706,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600600706,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Care Types and Status Filter,/fin-ai-agent/content?content=article&id=287256,NULL
+207403600600706,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Care Type & Link to Library,/fin-ai-agent/content?content=article&id=287271,NULL
+207403600600706,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,4,content_source.list,article,en,Fluid Targets,/fin-ai-agent/content?content=article&id=287306,NULL
+207403600604355,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,How to Schedule Care Plan Reviews,/fin-ai-agent/content?content=article&id=287209,NULL
+207403600395507,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600608076,custom_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600612618,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600612618,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Camascope Remote Monitoring Integration,/fin-ai-agent/content?content=article&id=287199,NULL
+207403600612618,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Docobo Remote Monitoring Integration,/fin-ai-agent/content?content=article&id=287202,NULL
+207403600612618,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Ally Integration (Acoustic Monitoring) 👂,/fin-ai-agent/content?content=article&id=287218,NULL
+207403600612618,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Whzan Integration👨‍⚕️,/fin-ai-agent/content?content=article&id=287226,NULL
+207403600612618,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Updates to Interactions - 2022,/fin-ai-agent/content?content=article&id=287253,NULL
+207403600612618,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,7,content_source.list,article,en,Bowel Warnings (3 days),/fin-ai-agent/content?content=article&id=327981,NULL
+207403600600945,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600604635,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,Creating & Assigning Appointment Tasks,/fin-ai-agent/content?content=article&id=224007,NULL
+207403600604635,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,Building a Client's Schedule,/fin-ai-agent/content?content=article&id=265498,NULL
+207403600604635,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,How to Create a One-Off Appointment on the Roster,/fin-ai-agent/content?content=article&id=268799,NULL
+207403600604635,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,Notes Sync from Nourish Rostering,/fin-ai-agent/content?content=article&id=287164,NULL
+207403600611494,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Transfer of Care Pathway,/fin-ai-agent/content?content=article&id=287200,NULL
+207403600611494,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600599657,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Time Off Schemes & Types,/fin-ai-agent/content?content=article&id=226023,NULL
+207403600599657,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Time Off - Day-to-Day Management,/fin-ai-agent/content?content=article&id=227461,NULL
+207403600606053,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600599909,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,"Mobile App – Authentication, Setup, and Revoking Access",/fin-ai-agent/content?content=article&id=224014,NULL
+207403600599909,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600613352,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,2,content_source.list,article,en,Rescheduling - How to make an interaction appear again after a set time,/fin-ai-agent/content?content=article&id=287327,NULL
+207403600613352,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,2,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600593504,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Time Off Functionality on the Mobile App,/fin-ai-agent/content?content=article&id=227459,NULL
+207403600593504,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Sending an Email from Nourish Rostering,/fin-ai-agent/content?content=article&id=235690,NULL
+207403600610299,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,5,content_source.list,article,en,How to manage 'status' for people supported?,/fin-ai-agent/content?content=article&id=287173,NULL
+207403600610299,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,5,content_source.list,article,en,How to view the Care Plan of an Archived Resident / Service User,/fin-ai-agent/content?content=article&id=287307,NULL
+207403600610299,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,5,content_source.list,article,en,Data Retention Report,/fin-ai-agent/content?content=article&id=287391,NULL
+207403600610299,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,5,content_source.list,article,en,Transferring care to another service within your organisation,/fin-ai-agent/content?content=article&id=312226,NULL
+207403600606470,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,2025 Product Releases,/fin-ai-agent/content?content=article&id=372270,NULL
+207403600606470,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,2,content_source.list,article,en,Domain Name Change and Email Address Update - Technical Support Guide,/fin-ai-agent/content?content=article&id=400844,NULL
+207403600604826,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600604826,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600615284,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,Time Off Schemes & Types,/fin-ai-agent/content?content=article&id=226023,NULL
+207403600615284,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,Assigning a Time Off Scheme,/fin-ai-agent/content?content=article&id=227454,NULL
+207403600615284,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,Time Off - Day-to-Day Management,/fin-ai-agent/content?content=article&id=227461,NULL
+207403600615284,ai_answer,NULL,NULL,assumed_resolution,Default answer (new),workflow,4,content_source.list,article,en,Time Off Management FAQs,/fin-ai-agent/content?content=article&id=287567,NULL
+207403600606389,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Getting Started (Deputy Manager),/fin-ai-agent/content?content=article&id=287242,NULL
+207403600606389,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Reporting - How to create a report from the interactions on the Timeline,/fin-ai-agent/content?content=article&id=287312,NULL
+207403600606389,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Data Retention Report,/fin-ai-agent/content?content=article&id=287391,NULL
+207403600606389,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,2025 Product Releases,/fin-ai-agent/content?content=article&id=372297,NULL
+207403600606389,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,content_snippet,en,How do I add a new service?,/fin-ai-agent/content?content=content_snippet&id=75213,NULL
+207403600606389,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,content_snippet,en,Why are some of our services not showing on the dashboard?,/fin-ai-agent/content?content=content_snippet&id=76243,NULL
+207403600605956,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,1,content_source.list,article,en,How to edit a daily record / interaction on the timeline,/fin-ai-agent/content?content=article&id=287303,NULL
+207403600607656,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Care Type & Link to Library,/fin-ai-agent/content?content=article&id=287271,NULL
+207403600607656,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How do Assessments Work?,/fin-ai-agent/content?content=article&id=287277,NULL
+207403600611714,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600611714,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,How do Assessments Work?,/fin-ai-agent/content?content=article&id=287277,NULL
+207403600611714,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,article,en,Recording Critical Information,/fin-ai-agent/content?content=article&id=287285,NULL
+207403600611714,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,custom_answer,en,Removing a duplicated client / resident profile,/fin-ai-agent/custom-answers/12611,NULL
+207403600611714,ai_answer,NULL,NULL,assumed_resolution,Fin AI Test,workflow,6,content_source.list,custom_answer,en,Updating Abilities,/fin-ai-agent/custom-answers/12959,NULL
+207403600607463,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600611984,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600608355,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,Auto Lock App,/fin-ai-agent/content?content=article&id=287204,NULL
+207403600608355,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600608355,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,How to log in to Nourish using Microsoft credentials (OAuth),/fin-ai-agent/content?content=article&id=382905,NULL
+207403600608355,ai_answer,NULL,NULL,confirmed_resolution,Fin AI Test,workflow,4,content_source.list,article,en,Nourish Notifier App,/fin-ai-agent/content?content=article&id=402454,NULL
+207403600606895,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600606895,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,How to Create a New Role,/fin-ai-agent/content?content=article&id=287297,NULL
+207403600606895,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,Setting up Roles,/fin-ai-agent/content?content=article&id=287302,NULL
+207403600606895,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,Permissions to access timelines,/fin-ai-agent/content?content=article&id=287310,NULL
+207403600606895,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,5,content_source.list,article,en,How to reset / set a new password for staff,/fin-ai-agent/content?content=article&id=287337,NULL
+207403600597926,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600607931,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600600604,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600605542,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600594024,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600615066,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600615066,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Common issues that relate to Wifi in the organisation (app),/fin-ai-agent/content?content=article&id=287316,NULL
+207403600602511,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600599914,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Admission Pathway,/fin-ai-agent/content?content=article&id=287201,NULL
+207403600599914,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Updates to Interactions - 2022,/fin-ai-agent/content?content=article&id=287253,NULL
+207403600616893,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600616147,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Getting started on Nourish: A set-up guide for Superusers,/fin-ai-agent/content?content=article&id=286983,NULL
+207403600616147,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Care Type & Link to Library,/fin-ai-agent/content?content=article&id=287271,NULL
+207403600606813,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Skin Integrity & Wound Management,/fin-ai-agent/content?content=article&id=287193,NULL
+207403600606813,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Managing skin & wound concerns that require attention via the Critical Information Page,/fin-ai-agent/content?content=article&id=389511,NULL
+207403600616449,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600025173,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600598687,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,2025 Product Releases,/fin-ai-agent/content?content=article&id=372297,NULL
+207403600598687,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Managing skin & wound concerns that require attention via the Critical Information Page,/fin-ai-agent/content?content=article&id=389511,NULL
+207403600599388,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,How to Schedule Care Plan Reviews,/fin-ai-agent/content?content=article&id=287209,NULL
+207403600599388,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Care Type & Link to Library,/fin-ai-agent/content?content=article&id=287271,NULL
+207403600599388,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,How do Assessments Work?,/fin-ai-agent/content?content=article&id=287277,NULL
+207403600599388,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,How to change the time of an interaction,/fin-ai-agent/content?content=article&id=287323,NULL
+207403600599388,ai_answer,NULL,NULL,routed_to_team,Default answer (new),workflow,5,content_source.list,article,en,Setting up a Schedule for an Interaction,/fin-ai-agent/content?content=article&id=287330,NULL
+207403600594745,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Speech to text (App),/fin-ai-agent/content?content=article&id=287268,NULL
+207403600594745,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Libraries - What are they?,/fin-ai-agent/content?content=article&id=287276,NULL
+207403600601643,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Device Management,/fin-ai-agent/content?content=article&id=287238,NULL
+207403600601643,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,How do I add a Profile Photo for a Resident / Service User,/fin-ai-agent/content?content=article&id=287314,NULL
+207403600606855,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600606619,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to Save an interaction for Later,/fin-ai-agent/content?content=article&id=287266,NULL
+207403600606619,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,Care Type & Link to Library,/fin-ai-agent/content?content=article&id=287271,NULL
+207403600606619,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,3,content_source.list,article,en,How to change the time of an interaction,/fin-ai-agent/content?content=article&id=287323,NULL
+207403600610286,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600597187,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600596773,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600602119,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600268217,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600122982,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600513049,ai_answer,NULL,NULL,routed_to_team,Fin AI Test,workflow,2,content_source.list,article,en,Edit after close privilege,/fin-ai-agent/content?content=article&id=287267,NULL
+207403600077980,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600068147,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600105164,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600034019,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600096153,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Resident / Person Transfer,/fin-ai-agent/custom-answers/12955,NULL
+207403600070613,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600095085,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600091651,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600077377,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600029527,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600098621,NULL,NULL,NULL,NULL,Nourish Fin,profile,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600066662,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600083529,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600104645,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600089006,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600107018,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600029076,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600088102,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600053207,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600055680,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600112451,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600033048,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600110553,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600087474,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600031224,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600024408,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600050454,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600102921,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Ordering New Devices,/fin-ai-agent/custom-answers/12948,NULL
+207403600114913,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Cannot add Circle of Care / Family,/fin-ai-agent/custom-answers/12967,NULL
+207403600025846,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Updating Clinical History & Medical Condition,/fin-ai-agent/custom-answers/12961,NULL
+207403600033523,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600112724,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600033059,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600110075,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600070167,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Allergies & Intolerances,/fin-ai-agent/custom-answers/12957,NULL
+207403600033021,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Setting Up Family Portal,/fin-ai-agent/custom-answers/12979,NULL
+207403600034434,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600071617,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600032540,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600033756,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600114182,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600097476,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600115301,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600103779,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600033955,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600086759,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600035758,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600106540,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600092788,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600034567,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600102155,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600030735,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600024271,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Updating Clinical History & Medical Condition,/fin-ai-agent/custom-answers/12961,NULL
+207403600028253,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600071631,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600092790,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600012627,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Allergies & Intolerances,/fin-ai-agent/custom-answers/12957,NULL
+207403600102632,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600030391,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600017890,custom_answer,NULL,NULL,routed_to_team,Nourish Fin,profile,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600048783,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600053522,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600060125,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600051706,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600028395,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600028392,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600095911,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600029467,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600073340,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600018968,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600093043,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600031052,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600092431,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600035218,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600074009,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600035733,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600068274,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600112070,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600071371,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600113989,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Ordering New Quick Close Tags,/fin-ai-agent/custom-answers/12949,NULL
+207403600032911,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600109946,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600095423,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Printing Care / Support Plans,/fin-ai-agent/custom-answers/12984,NULL
+207403600035310,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600032527,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600070623,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600090404,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600110087,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600095456,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600108781,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Access Changed Error,/fin-ai-agent/custom-answers/12954,NULL
+207403600114368,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600015061,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Where to record something?,/fin-ai-agent/custom-answers/12951,NULL
+207403600018118,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600113621,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600077867,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600080420,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600105045,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600105651,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Where to record something?,/fin-ai-agent/custom-answers/12951,NULL
+207403600069503,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600081872,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600063691,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600105255,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600059244,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Abilities,/fin-ai-agent/custom-answers/12959,NULL
+207403600111767,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600012290,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600035328,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Removing a duplicated client / resident profile,/fin-ai-agent/custom-answers/12611,NULL
+207403600088166,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600107762,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Where is the body map?,/fin-ai-agent/custom-answers/12950,NULL
+207403600115180,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600100065,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600059273,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Setting Up Family Portal,/fin-ai-agent/custom-answers/12979,NULL
+207403600067905,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600050297,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600052609,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600067298,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,2,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600067298,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,2,content_source.list,custom_answer,en,Removing a duplicated client / resident profile,/fin-ai-agent/custom-answers/12611,NULL
+207403600037249,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600037249,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Creating New Resident / Person Profile,/fin-ai-agent/custom-answers/12985,NULL
+207403600034414,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600040237,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600102494,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Where to record something?,/fin-ai-agent/custom-answers/12951,NULL
+207403600073239,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Setting Up Family Portal,/fin-ai-agent/custom-answers/12979,NULL
+207403600105349,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600073752,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600103313,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600071160,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600029903,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600102616,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600083714,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600034986,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600013324,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600083681,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600099004,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating DNACPR,/fin-ai-agent/custom-answers/12964,NULL
+207403600114492,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600029450,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600035242,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Creating New Resident / Person Profile,/fin-ai-agent/custom-answers/12985,NULL
+207403600021396,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600112186,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Printing Care / Support Plans,/fin-ai-agent/custom-answers/12984,NULL
+207403600058310,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600033144,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600104731,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600032773,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600028423,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600060847,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600018803,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600072262,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600007783,custom_answer,NULL,NULL,routed_to_team,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600062882,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600019498,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600015158,custom_answer,NULL,NULL,confirmed_resolution,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600031117,custom_answer,NULL,NULL,routed_to_team,Nourish Fin,profile,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600103926,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600014140,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Printing Care / Support Plans,/fin-ai-agent/custom-answers/12984,NULL
+207403600015737,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600015737,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600071339,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600103287,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600051312,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600089502,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600095248,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600035640,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600054035,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600011864,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600027413,custom_answer,NULL,NULL,routed_to_team,Nourish Fin,profile,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600060073,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Cannot see a Resident/Person You Support,/fin-ai-agent/custom-answers/12613,NULL
+207403600103222,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600086131,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600013185,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600086960,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600029307,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600067662,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600102651,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600034544,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600034898,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Resident / Person Transfer,/fin-ai-agent/custom-answers/12955,NULL
+207403600056574,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600110281,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600110281,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Onboarding Resident / Person,/fin-ai-agent/custom-answers/12986,NULL
+207403600114323,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600112408,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600032399,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600033992,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600013079,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Clinical History & Medical Condition,/fin-ai-agent/custom-answers/12961,NULL
+207403600113172,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600115014,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600108257,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600090041,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600107992,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600020632,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600085378,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600063009,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600063009,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600078675,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600030635,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600033930,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600072811,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600113583,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Updating DNACPR,/fin-ai-agent/custom-answers/12964,NULL
+207403600111970,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600068045,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600102131,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Updating Abilities,/fin-ai-agent/custom-answers/12959,NULL
+207403600072663,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600038509,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600019570,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600030373,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Where to record an Incident / Accident?,/fin-ai-agent/custom-answers/12953,NULL
+207403600074402,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Adding Circle of Care,/fin-ai-agent/custom-answers/12976,NULL
+207403600019656,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600075566,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600049458,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600088593,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,3,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600088593,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,3,content_source.list,custom_answer,en,Resident / Person Transfer,/fin-ai-agent/custom-answers/12955,NULL
+207403600088593,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,3,content_source.list,custom_answer,en,Creating New Resident / Person Profile,/fin-ai-agent/custom-answers/12985,NULL
+207403600068061,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600048905,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600029464,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600102292,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Access Changed Error,/fin-ai-agent/custom-answers/12954,NULL
+207403600105510,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600035890,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600032758,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600068200,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Closing Open Warnings,/fin-ai-agent/custom-answers/12980,NULL
+207403600094322,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600013884,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600035137,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600058977,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600094845,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600060048,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600074011,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600033786,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600053434,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Printing Care / Support Plans,/fin-ai-agent/custom-answers/12984,NULL
+207403600030863,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600111615,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600097308,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600107670,custom_answer,NULL,NULL,confirmed_resolution,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600071128,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600069308,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600058714,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600034395,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600115184,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Resident / Person Transfer,/fin-ai-agent/custom-answers/12955,NULL
+207403600113432,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600113159,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600028290,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600033428,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600067434,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600091943,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600091496,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600087731,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600114564,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600104317,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600071493,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600031080,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600098599,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600088901,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600088831,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600085519,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600081626,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600098203,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600073324,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600087535,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600089505,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600102734,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600027766,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600067578,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600061156,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600111137,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600103426,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600090132,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,2,content_source.list,custom_answer,en,Printing Interactions,/fin-ai-agent/custom-answers/12983,NULL
+207403600090132,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,2,content_source.list,custom_answer,en,Printing Care / Support Plans,/fin-ai-agent/custom-answers/12984,NULL
+207403600111062,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,2,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600111062,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,2,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600072702,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600057609,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600065806,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Scheduling an interaction monthly,/fin-ai-agent/custom-answers/12970,NULL
+207403600070438,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600018303,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600114886,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Updating High Risk,/fin-ai-agent/custom-answers/12966,NULL
+207403600089810,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,3,content_source.list,custom_answer,en,Cannot see a Resident/Person You Support,/fin-ai-agent/custom-answers/12613,NULL
+207403600089810,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,3,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600089810,custom_answer,NULL,NULL,assumed_resolution,24-2 Customer Opens Message Res=False,workflow,3,content_source.list,custom_answer,en,Updating Emergency Information,/fin-ai-agent/custom-answers/12965,NULL
+207403600088324,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600048588,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Adding New Resident/Person,/fin-ai-agent/custom-answers/12614,NULL
+207403600059988,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600104857,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600071606,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600114770,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600033023,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600071672,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600105735,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600108758,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600030721,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600032957,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Setting Up Family Portal,/fin-ai-agent/custom-answers/12979,NULL
+207403600029599,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600012175,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600035161,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Resident / Person Transfer,/fin-ai-agent/custom-answers/12955,NULL
+207403600035669,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600104053,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600090524,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Setup Quickclose Tags,/fin-ai-agent/custom-answers/12968,NULL
+207403600115013,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600043875,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Ordering New Devices,/fin-ai-agent/custom-answers/12948,NULL
+207403600095437,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600088175,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Cannot see a Resident/Person You Support,/fin-ai-agent/custom-answers/12613,NULL
+207403600032613,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600050852,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600087876,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600111092,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Where to record an Incident / Accident?,/fin-ai-agent/custom-answers/12953,NULL
+207403600030991,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600072344,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600036687,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600114910,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600011902,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600114573,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600114336,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,How do I add a Handover?,/fin-ai-agent/custom-answers/12609,NULL
+207403600060393,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Not authorised to login,/fin-ai-agent/custom-answers/12612,NULL
+207403600016615,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600065049,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600073157,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Allergies & Intolerances,/fin-ai-agent/custom-answers/12957,NULL
+207403600034013,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600012726,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600070184,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600030738,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600097227,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Clinical History & Medical Condition,/fin-ai-agent/custom-answers/12961,NULL
+207403600011857,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600040415,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600069993,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Ordering New Quick Close Tags,/fin-ai-agent/custom-answers/12949,NULL
+207403600067220,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600034609,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600108196,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600072195,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Creating a New Interaction,/fin-ai-agent/custom-answers/12969,NULL
+207403600071507,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600061033,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600106964,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600077853,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Access Changed Error,/fin-ai-agent/custom-answers/12954,NULL
+207403600024452,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600029242,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600094506,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600015257,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Where is the body map?,/fin-ai-agent/custom-answers/12950,NULL
+207403600101477,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600011605,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Printing Care / Support Plans,/fin-ai-agent/custom-answers/12984,NULL
+207403600012992,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600057100,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600026817,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600031662,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600024421,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600015823,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Where to record an Incident / Accident?,/fin-ai-agent/custom-answers/12953,NULL
+207403600015856,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600012587,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600015111,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600034202,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600030139,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600026209,custom_answer,NULL,NULL,routed_to_team,Nourish Fin,profile,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600020612,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600026267,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600030359,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600025144,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600030616,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600072076,custom_answer,NULL,NULL,routed_to_team,Nourish Fin,profile,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600028380,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600071120,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600074063,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600025112,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600021037,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Resident / Person Transfer,/fin-ai-agent/custom-answers/12955,NULL
+207403600032963,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Cannot see a Resident/Person You Support,/fin-ai-agent/custom-answers/12613,NULL
+207403600012289,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600059554,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600030699,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600110503,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Onboarding Resident / Person,/fin-ai-agent/custom-answers/12986,NULL
+207403600088069,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Pending Data on the App,/fin-ai-agent/custom-answers/12607,NULL
+207403600113177,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600071587,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Onboarding Resident / Person,/fin-ai-agent/custom-answers/12986,NULL
+207403600114134,custom_answer,NULL,NULL,confirmed_resolution,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600114134,custom_answer,NULL,NULL,confirmed_resolution,24-2  Customer Opens Message Res=True,workflow,2,content_source.list,custom_answer,en,Creating New Resident / Person Profile,/fin-ai-agent/custom-answers/12985,NULL
+207403600113886,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,How do I add a Handover?,/fin-ai-agent/custom-answers/12609,NULL
+207403600104622,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600110424,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600043746,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Closing Open Warnings,/fin-ai-agent/custom-answers/12980,NULL
+207403600089589,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600015058,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Ordering New Devices,/fin-ai-agent/custom-answers/12948,NULL
+207403600080155,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600110267,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600040874,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Where is the body map?,/fin-ai-agent/custom-answers/12950,NULL
+207403600030508,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Clinical History & Medical Condition,/fin-ai-agent/custom-answers/12961,NULL
+207403600070078,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600101998,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600089923,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600113012,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600082136,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Updating Critical Info Assessments,/fin-ai-agent/custom-answers/12956,NULL
+207403600098775,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600096759,NULL,NULL,NULL,NULL,Nourish Fin,profile,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600052883,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600091725,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Add / Remove Superusers,/fin-ai-agent/custom-answers/12615,NULL
+207403600015089,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600042954,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600102599,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600071900,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600054522,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600097391,custom_answer,NULL,NULL,routed_to_team,24-2  Customer Opens Message Res=True,workflow,1,content_source.list,custom_answer,en,Archiving/Suspending a Resident/Person,/fin-ai-agent/custom-answers/12610,NULL
+207403600034614,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600064912,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600101315,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600029200,NULL,NULL,NULL,NULL,24-2  Customer Opens Message Res=True,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600089410,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600094153,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Updating Emergency Information,/fin-ai-agent/custom-answers/12965,NULL
+207403600035920,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600029284,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600085123,NULL,NULL,NULL,NULL,Triage issues and assign to different teams,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600073092,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600090869,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600035732,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600096875,custom_answer,NULL,NULL,routed_to_team,24-2 Customer Opens Message Res=False,workflow,1,content_source.list,custom_answer,en,Where is the body map?,/fin-ai-agent/custom-answers/12950,NULL
+207403600086884,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+207403600112944,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600035131,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600060999,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
+207403600090363,NULL,NULL,NULL,NULL,24-2 Customer Opens Message Res=False,workflow,0,content_source.list,NULL,NULL,NULL,NULL,NULL
