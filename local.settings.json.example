@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DOC_ENDPOINT": "https://<your-multiservice>.cognitiveservices.azure.com",
+    "DOC_KEY": "<your-cogsvcs-key>",
+    "DOC_API_VER": "2024-07-31-preview",
+    "CHUNK_MAX": "2000",
+    "CHUNK_OVERLAP": "200",
+    "FOOT_Y_HIGH": "0.85",
+    "FOOT_Y_LOW": "0.05"
+  }
+}
